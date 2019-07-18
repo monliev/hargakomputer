@@ -1,0 +1,1067 @@
+"tipe": "Harddisk",
+   "url": "https://www.enterkomputer.id/harddisk.php",
+   "jenis": [
+    {
+     "name": "Samsung SSD 970 EVO PLUS M.2 500GB MZ-V7S500BW - Grs 5th",
+     "harga": "Rp 2,430,000"
+    },
+    {
+     "name": "Samsung SSD 970 EVO PLUS M.2 250GB MZ-V7S250BW - Grs 5th",
+     "harga": "Rp 1,230,000"
+    },
+    {
+     "name": "Samsung SSD 860 EVO M.2 SATA 500GB - Grs 5th",
+     "harga": "Rp 1,470,000"
+    },
+    {
+     "name": "Samsung SSD 860 EVO M.2 SATA 250GB - Grs 5th",
+     "harga": "Rp 900,000"
+    },
+    {
+     "name": "Samsung SSD 860 EVO 500GB - Grs 5th",
+     "harga": "Rp 1,200,000"
+    },
+    {
+     "name": "Samsung SSD 860 EVO 250GB - Grs 5th",
+     "harga": "Rp 700,000"
+    },
+    {
+     "name": "Kingston HyperX Fury RGB SHFR200/240G 240GB SATA3",
+     "harga": "Rp 1,175,000"
+    },
+    {
+     "name": "Kingston SSD Now SA400 SA400S37/240G SATA3",
+     "harga": "Rp 480,000"
+    },
+    {
+     "name": "ADATA SU800 256GB SATA III ( R/W Up to 560 / 520MB/s )",
+     "harga": "Rp 528,000"
+    },
+    {
+     "name": "ADATA SSD SU650 480GB SATA III ( R/W Up to 520 / 450MB/s ) ASU650SS-480GT-R",
+     "harga": "Rp 788,000"
+    },
+    {
+     "name": "ADATA SSD SU650 240GB SATA III ( R/W Up to 520 / 450MB/s ) ASU650SS-240GT-R",
+     "harga": "Rp 448,000"
+    },
+    {
+     "name": "ADATA SSD SU650 120GB SATA III ( R/W Up to 520 / 450MB/s ) ASU650SS-120GT-R",
+     "harga": "Rp 276,000"
+    },
+    {
+     "name": "ADATA SSD RGB XPG SPECTRIX S40G 512GB PCIE GEN3X4 - R 3500MB/S W 3000MB/S -AS40G-512GT-C",
+     "harga": "Rp 1,200,000"
+    },
+    {
+     "name": "ADATA SX8200PRO 512GB M.2 SATA PCIE GEN3X4 - R 3500MB/S W 3000MB/S",
+     "harga": "Rp 1,216,000"
+    },
+    {
+     "name": "ADATA SX8200PRO 256GB M.2 SATA PCIE GEN3X4 - R 3500MB/S W 3000MB/S",
+     "harga": "Rp 708,000"
+    },
+    {
+     "name": "ADATA SX6000 Lite 512GB M.2 NVME R 1800MB/S W 1200MB/S",
+     "harga": "Rp 908,000"
+    },
+    {
+     "name": "ADATA SX6000 Lite 128GB M.2 NVME R 1800MB/S W 1200MB/S",
+     "harga": "Rp 365,000"
+    },
+    {
+     "name": "Seagate Backup Plus SLIM Edition 2TB USB 3.0",
+     "harga": "Rp 1,075,000"
+    },
+    {
+     "name": "Seagate Backup Plus SLIM Edition 1TB USB 3.0",
+     "harga": "Rp 765,000"
+    },
+    {
+     "name": "WD My Passport 4TB USB 3.0",
+     "harga": "Rp 1,690,000"
+    },
+    {
+     "name": "WD My Passport 2TB USB 3.0",
+     "harga": "Rp 1,095,000"
+    },
+    {
+     "name": "WD My Passport 1TB USB 3.0",
+     "harga": "Rp 760,000"
+    },
+    {
+     "name": "WD Elements 2.5\" 1TB - USB 3.0",
+     "harga": "Rp 705,000"
+    },
+    {
+     "name": "WD Mybook Personal Storage 3TB",
+     "harga": "Rp 1,585,000"
+    },
+    {
+     "name": "Hitachi 2.5\" 1TB SATA3 16MB 7200RPM - Garansi 3 Tahun",
+     "harga": "Rp 800,000"
+    },
+    {
+     "name": "Hitachi 2.5\" 1TB SATA3 8MB 5400RPM - Garansi 3 Tahun",
+     "harga": "Rp 710,000"
+    },
+    {
+     "name": "Hitachi 2.5\" 500GB SATA3 8MB 5400RPM - 7mm - Garansi 3 Tahun",
+     "harga": "Rp 550,000"
+    },
+    {
+     "name": "Seagate 2TB SATA3 - BarraCuda Series",
+     "harga": "Rp 885,000"
+    },
+    {
+     "name": "Seagate 1TB SATA3 - BarraCuda Series",
+     "harga": "Rp 615,000"
+    },
+    {
+     "name": "WDC Purple 2TB For CCTV 24 Hours - WD20PURZ - Garansi 3 Th",
+     "harga": "Rp 850,000"
+    },
+    {
+     "name": "WDC 2TB SATA3 256MB - Blue - WD20EZAZ - Garansi 2 Th",
+     "harga": "Rp 855,000"
+    },
+    {
+     "name": "WDC 1TB SATA3 64MB - Blue - WD10EZEX - Garansi 2 Th",
+     "harga": "Rp 600,000"
+    },
+    {
+     "name": "WDC 120GB IDE 8MB - Used & Garansi 3 Bulan",
+     "harga": "Rp 100,000"
+    },
+    {
+     "name": "WDC 160GB SATA2 - Used & Garansi 1 Tahun",
+     "harga": "Rp 85,000"
+    },
+    {
+     "name": "WDC 250GB SATA2 8MB - Used & Garansi 1 Th",
+     "harga": "Rp 120,000"
+    },
+    {
+     "name": "WDC 320GB SATA2 8MB - Used & Garansi 1 Th",
+     "harga": "Rp 145,000"
+    },
+    {
+     "name": "WDC 500GB SATA2 - Blue - Used & Garansi 1 Th",
+     "harga": "Rp 200,000"
+    },
+    {
+     "name": "WDC 500GB SATA3 - Blue - Garansi 2 Th",
+     "harga": "Rp 575,000"
+    },
+    {
+     "name": "WDC 500GB SATA3 32MB - Black Ver.2 - WD5003AZEX - Garansi 5 Th",
+     "harga": "Rp 1,035,000"
+    },
+    {
+     "name": "WDC 1TB SATA3 64MB - Blue - WD10EZEX - Used & Garansi 1 Th",
+     "harga": "Rp 480,000"
+    },
+    {
+     "name": "WDC 1TB SATA3 64MB - Blue - WD10EZEX - Garansi 2 Th",
+     "harga": "Rp 600,000"
+    },
+    {
+     "name": "WDC 1TB SATA3 64MB - Black Ver.2 - WD1003FZEX - Garansi 5 Th",
+     "harga": "Rp 1,105,000"
+    },
+    {
+     "name": "WDC Purple 1TB For CCTV 24 Hours - WD10PURZ - Garansi 3 Th",
+     "harga": "Rp 635,000"
+    },
+    {
+     "name": "WDC 2TB SATA3 256MB - Blue - WD20EZAZ - Garansi 2 Th",
+     "harga": "Rp 855,000"
+    },
+    {
+     "name": "WDC 2TB SATA3 64MB - Black - WD2003FZEX - Garansi 5 Th",
+     "harga": "Rp 1,950,000"
+    },
+    {
+     "name": "WDC 2TB SATA3 64MB - Red - WD20EFRX (For NAS) - Garansi 3 Th",
+     "harga": "Rp 1,110,000"
+    },
+    {
+     "name": "WDC Purple 2TB For CCTV 24 Hours - WD20PURZ - Garansi 3 Th",
+     "harga": "Rp 850,000"
+    },
+    {
+     "name": "WDC 2TB Ultrastar DC HA210 - Ultrastar DC HA200 Series",
+     "harga": "Rp 1,925,000"
+    },
+    {
+     "name": "WDC 3TB SATA3 64MB - Blue - WD30EZRZ - Garansi 2 Th",
+     "harga": "Rp 1,300,000"
+    },
+    {
+     "name": "WDC 3TB SATA3 64MB - Red - WD30EFRX (For NAS) - Garansi 3 Th",
+     "harga": "Rp 1,410,000"
+    },
+    {
+     "name": "WDC Purple 3TB For CCTV 24 Hours - WD30PURZ - Garansi 3 Th",
+     "harga": "Rp 1,305,000"
+    },
+    {
+     "name": "WDC 4TB SATA3 64MB - Blue - WD40EZRZ - Garansi 2 Th",
+     "harga": "Rp 1,475,000"
+    },
+    {
+     "name": "WDC 4TB SATA3 64MB - Black Ver.2 - WD4005FZBX - Garansi 5 Th",
+     "harga": "Rp 2,900,000"
+    },
+    {
+     "name": "WDC 4TB SATA3 64MB - Red - WD40EFRX (For NAS) - Garansi 3 Th",
+     "harga": "Rp 1,725,000"
+    },
+    {
+     "name": "WDC Purple 4TB For CCTV 24 Hours - WD40PURZ - Garansi 3 Th",
+     "harga": "Rp 1,450,000"
+    },
+    {
+     "name": "WDC 4TB SATA3 128MB - 7200 RPM - Gold - WD4002FYYZ - Garansi 5 Th",
+     "harga": "Rp 2,860,000"
+    },
+    {
+     "name": "WDC 4TB Ultrastar DC HC310 - Ultrastar DC HC300 Series",
+     "harga": "Rp 3,110,000"
+    },
+    {
+     "name": "WDC 6TB SATA3 64MB - Blue - WD60EZRZ - Garansi 2 Th",
+     "harga": "Rp 2,465,000"
+    },
+    {
+     "name": "WDC 6TB SATA3 64MB - Red - WD60EFRX - Garansi 3 Th (For NAS)",
+     "harga": "Rp 2,700,000"
+    },
+    {
+     "name": "WDC Purple 6TB For CCTV 24 Hours - WD60PURZ - Garansi 3 Th",
+     "harga": "Rp 2,435,000"
+    },
+    {
+     "name": "WDC 6TB SATA3 128MB - 7200 RPM - Gold - WD6002FRYZ - Garansi 5 Th",
+     "harga": "Rp 4,720,000"
+    },
+    {
+     "name": "WDC 8TB SATA3 128MB - Red - WD80EFAX - Garansi 3 Th (For NAS)",
+     "harga": "Rp 3,465,000"
+    },
+    {
+     "name": "WDC Purple 8TB For CCTV 24 Hours - WD81PURZ - Garansi 3 Th",
+     "harga": "Rp 3,185,000"
+    },
+    {
+     "name": "WDC 8TB SATA3 128MB - 7200 RPM - Gold - WD8002FRYZ - Garansi 5 Th",
+     "harga": "Rp 4,980,000"
+    },
+    {
+     "name": "WDC 8TB Ultrastar DC HC320 - Ultrastar DC HC300 Series",
+     "harga": "Rp 5,255,000"
+    },
+    {
+     "name": "WDC 10TB SATA3 256MB - Red - WD100EFAX - Garansi 3 Th (For NAS)",
+     "harga": "Rp 4,530,000"
+    },
+    {
+     "name": "WDC Purple 10TB For CCTV 24 Hours - WD100PURZ - Garansi 3 Th",
+     "harga": "Rp 4,215,000"
+    },
+    {
+     "name": "WDC 10TB SATA3 256MB - 7200 RPM - Gold - WD101KRYZ - Garansi 5 Th",
+     "harga": "Rp 6,250,000"
+    },
+    {
+     "name": "WDC 10TB Ultrastar DC HC510 - Ultrastar DC HC500 Series",
+     "harga": "Rp 6,545,000"
+    },
+    {
+     "name": "WDC Purple 12TB For CCTV 24 Hours - WD121PURZ - Garansi 3 Th",
+     "harga": "Rp 5,915,000"
+    },
+    {
+     "name": "WDC 12TB SATA3 256MB - 7200 RPM - Gold - WD121KRYZ - Garansi 5 Th",
+     "harga": "Rp 7,575,000"
+    },
+    {
+     "name": "WDC 12TB Ultrastar DC HC520 - Ultrastar DC HC500 Series",
+     "harga": "Rp 7,715,000"
+    },
+    {
+     "name": "WDC 14TB Ultrastar DC HC530 - Ultrastar DC HC500 Series",
+     "harga": "Rp 9,100,000"
+    },
+    {
+     "name": "Toshiba 500GB SATA3 7200RPM",
+     "harga": "Rp 545,000"
+    },
+    {
+     "name": "Toshiba 1TB SATA3 7200RPM",
+     "harga": "Rp 575,000"
+    },
+    {
+     "name": "Toshiba 2TB SATA3 7200RPM",
+     "harga": "Rp 845,000"
+    },
+    {
+     "name": "Toshiba 3TB SATA3 7200RPM",
+     "harga": "Rp 1,200,000"
+    },
+    {
+     "name": "Toshiba 4TB SATA3 7200RPM",
+     "harga": "Rp 1,515,000"
+    },
+    {
+     "name": "Toshiba 500GB SATA3 7200RPM - P300 Series",
+     "harga": "Rp 570,000"
+    },
+    {
+     "name": "Toshiba 1TB SATA3 7200RPM - P300 Series",
+     "harga": "Rp 600,000"
+    },
+    {
+     "name": "Toshiba 2TB SATA3 7200RPM - P300 Series",
+     "harga": "Rp 860,000"
+    },
+    {
+     "name": "Toshiba 6TB SATA3 7200RPM - X300 Series",
+     "harga": "Rp 2,450,000"
+    },
+    {
+     "name": "Toshiba 8TB SATA3 7200RPM - X300 Series",
+     "harga": "Rp 3,650,000"
+    },
+    {
+     "name": "Toshiba 10TB SATA3 7200RPM - X300 Series",
+     "harga": "Rp 4,850,000"
+    },
+    {
+     "name": "Toshiba 1TB SATA3 5700RPM For CCTV - TSB-DT01ABA100V",
+     "harga": "Rp 610,000"
+    },
+    {
+     "name": "Toshiba 2TB SATA3 5700RPM For CCTV - TSB-DT01ABA200V",
+     "harga": "Rp 870,000"
+    },
+    {
+     "name": "Toshiba 4TB SATA3 5400RPM For CCTV - TSB-MD04ABA400V",
+     "harga": "Rp 1,600,000"
+    },
+    {
+     "name": "Seagate 160GB IDE",
+     "harga": "Rp 155,000"
+    },
+    {
+     "name": "Seagate 160GB SATA2 - Used & Garansi 1 Tahun",
+     "harga": "Rp 110,000"
+    },
+    {
+     "name": "Seagate 250GB SATA2 - Used & Garansi 1 Tahun",
+     "harga": "Rp 95,000"
+    },
+    {
+     "name": "Seagate 320GB SATA2 - Used & Garansi 1 Tahun",
+     "harga": "Rp 140,000"
+    },
+    {
+     "name": "Seagate 500GB SATA3 - BarraCuda Series",
+     "harga": "Rp 585,000"
+    },
+    {
+     "name": "Seagate 1TB SATA3 - BarraCuda Series",
+     "harga": "Rp 615,000"
+    },
+    {
+     "name": "Seagate Surveillance For CCTV 1TB - SkyHawk Series",
+     "harga": "Rp 660,000"
+    },
+    {
+     "name": "Seagate 1TB SSHD - FireCuda Series",
+     "harga": "Rp 1,150,000"
+    },
+    {
+     "name": "Seagate Enterprise 1TB - ST1000NM0008",
+     "harga": "Rp 1,450,000"
+    },
+    {
+     "name": "Seagate 2TB SATA3 - BarraCuda Series",
+     "harga": "Rp 885,000"
+    },
+    {
+     "name": "Seagate Enterprise 2TB - ST2000NM0008",
+     "harga": "Rp 2,085,000"
+    },
+    {
+     "name": "Seagate Surveillance 2TB - SkyHawk Series",
+     "harga": "Rp 895,000"
+    },
+    {
+     "name": "Seagate 2TB SSHD - FireCuda Series",
+     "harga": "Rp 1,595,000"
+    },
+    {
+     "name": "Seagate 2TB For NAS - IronWolf Series",
+     "harga": "Rp 1,175,000"
+    },
+    {
+     "name": "Seagate 2TB For NAS - IronWolf Pro Series",
+     "harga": "Rp 1,940,000"
+    },
+    {
+     "name": "Seagate 3TB SATA3 256MB - BarraCuda Series",
+     "harga": "Rp 1,420,000"
+    },
+    {
+     "name": "Seagate Surveillance 3TB - SkyHawk Series",
+     "harga": "Rp 1,395,000"
+    },
+    {
+     "name": "Seagate 3TB For NAS - IronWolf Series",
+     "harga": "Rp 1,735,000"
+    },
+    {
+     "name": "Seagate Enterprise 3TB - ST3000NM0005",
+     "harga": "Rp 3,240,000"
+    },
+    {
+     "name": "Seagate 4TB SATA3 - 5400 RPM - BarraCuda Series",
+     "harga": "Rp 1,615,000"
+    },
+    {
+     "name": "Seagate Surveillance 4TB - SkyHawk Series",
+     "harga": "Rp 1,645,000"
+    },
+    {
+     "name": "Seagate 4TB For NAS - IronWolf Series",
+     "harga": "Rp 2,020,000"
+    },
+    {
+     "name": "Seagate 4TB For NAS - IronWolf Pro Series",
+     "harga": "Rp 2,975,000"
+    },
+    {
+     "name": "Seagate Enterprise 4TB - ST4000NM0035",
+     "harga": "Rp 3,320,000"
+    },
+    {
+     "name": "Seagate Surveillance 6TB - SkyHawk Series",
+     "harga": "Rp 2,940,000"
+    },
+    {
+     "name": "Seagate 6TB For NAS - IronWolf Series",
+     "harga": "Rp 2,980,000"
+    },
+    {
+     "name": "Seagate 6TB For NAS - IronWolf Pro Series",
+     "harga": "Rp 4,000,000"
+    },
+    {
+     "name": "Seagate Enterprise 6TB - ST6000NM0115",
+     "harga": "Rp 4,495,000"
+    },
+    {
+     "name": "Seagate 8TB SATA3 - BarraCuda Series",
+     "harga": "Rp 3,625,000"
+    },
+    {
+     "name": "Seagate 8TB SATA3 - BarraCuda Pro Series",
+     "harga": "Rp 4,830,000"
+    },
+    {
+     "name": "Seagate Surveillance 8TB - SkyHawk Series",
+     "harga": "Rp 3,870,000"
+    },
+    {
+     "name": "Seagate Surveillance 8TB - SkyHawk AI Series",
+     "harga": "Rp 5,125,000"
+    },
+    {
+     "name": "Seagate 8TB For NAS - IronWolf Series",
+     "harga": "Rp 3,860,000"
+    },
+    {
+     "name": "Seagate 8TB For NAS - IronWolf Pro Series",
+     "harga": "Rp 5,075,000"
+    },
+    {
+     "name": "Seagate 10TB SATA3 - BarraCuda Pro Series",
+     "harga": "Rp 6,225,000"
+    },
+    {
+     "name": "Seagate Surveillance 10TB - SkyHawk Series",
+     "harga": "Rp 5,135,000"
+    },
+    {
+     "name": "Seagate Surveillance 10TB - SkyHawk AI Series",
+     "harga": "Rp 5,425,000"
+    },
+    {
+     "name": "Seagate 10TB For NAS - IronWolf Series",
+     "harga": "Rp 5,135,000"
+    },
+    {
+     "name": "Seagate 10TB For NAS - IronWolf Pro Series",
+     "harga": "Rp 6,610,000"
+    },
+    {
+     "name": "Seagate 12TB SATA3 - BarraCuda Pro Series",
+     "harga": "Rp 8,175,000"
+    },
+    {
+     "name": "Seagate Surveillance 12TB - SkyHawk Series",
+     "harga": "Rp 6,950,000"
+    },
+    {
+     "name": "Seagate 12TB For NAS - IronWolf Series",
+     "harga": "Rp 7,420,000"
+    },
+    {
+     "name": "Seagate 12TB For NAS - IronWolf Pro Series",
+     "harga": "Rp 8,120,000"
+    },
+    {
+     "name": "Seagate 14TB SATA3 - BarraCuda Pro Series",
+     "harga": "Rp 9,515,000"
+    },
+    {
+     "name": "Seagate Surveillance 14TB - SkyHawk Series",
+     "harga": "Rp 8,300,000"
+    },
+    {
+     "name": "Seagate 14TB For NAS - IronWolf Series",
+     "harga": "Rp 8,835,000"
+    },
+    {
+     "name": "WDC NAS SE 2TB 7200RPM SATA3 - WD2000F9YZ (Ready !!!)",
+     "harga": "Rp 1,950,000"
+    },
+    {
+     "name": "WDC NAS SE 3TB 7200RPM SATA3 - WD3000F9YZ (Ready !!!)",
+     "harga": "Rp 2,750,000"
+    },
+    {
+     "name": "Hitachi Ultrastar Rainer 1TB 7200RPM 7K2 - Enterprise Series",
+     "harga": "Rp 1,215,000"
+    },
+    {
+     "name": "Hitachi Ultrastar Rainer 2TB 7200RPM 7K2 - Enterprise Series",
+     "harga": "Rp 1,945,000"
+    },
+    {
+     "name": "Hitachi Ultrastar 2TB 7200RPM 7K6000 - Enterprise Series",
+     "harga": "Rp 2,025,000"
+    },
+    {
+     "name": "Hitachi Ultrastar 4TB 7200RPM 7K6000 - Enterprise Series",
+     "harga": "Rp 3,050,000"
+    },
+    {
+     "name": "Hitachi Ultrastar 6TB 7200RPM 7K6000 - Enterprise Series",
+     "harga": "Rp 4,020,000"
+    },
+    {
+     "name": "Hitachi HE Ultrastar 8TB 7200RPM - Enterprise Series",
+     "harga": "Rp 5,100,000"
+    },
+    {
+     "name": "Hitachi HE Ultrastar 10TB 7200RPM - Enterprise Series",
+     "harga": "Rp 6,100,000"
+    },
+    {
+     "name": "Hitachi HE Ultrastar 12TB 7200RPM - Enterprise Series",
+     "harga": "Rp 7,850,000"
+    },
+    {
+     "name": "Hitachi Deskstar NAS 8TB 7200RPM - Deskstar NAS Series",
+     "harga": "Rp 3,625,000"
+    },
+    {
+     "name": "Hitachi Deskstar NAS 10TB 7200RPM - Deskstar NAS Series",
+     "harga": "Rp 4,845,000"
+    },
+    {
+     "name": "WDC 2.5\" 320GB SATA 8MB 5400RPM",
+     "harga": "Rp 250,000"
+    },
+    {
+     "name": "WDC 2.5\" 500GB SATA 8MB - Scorpio Blue",
+     "harga": "Rp 555,000"
+    },
+    {
+     "name": "WDC 2.5\" 1TB SATA3 128MB - 7mm - WD10SPZX",
+     "harga": "Rp 660,000"
+    },
+    {
+     "name": "WDC 2.5\" 2TB SATA3 5400RPM 128MB - 7mm - WD20SPZX",
+     "harga": "Rp 1,260,000"
+    },
+    {
+     "name": "WDC 2.5\" 4TB SATA3 - 15mm - WD40NPZZ",
+     "harga": "Rp 1,935,000"
+    },
+    {
+     "name": "WDC 2.5\" 500GB SATA3 7200RPM - Scorpio Black",
+     "harga": "Rp 650,000"
+    },
+    {
+     "name": "WDC 2.5\" 750GB SATA3 7200RPM - Scorpio Black",
+     "harga": "Rp 785,000"
+    },
+    {
+     "name": "WDC 2.5\" 1TB SATA 7200RPM - Scorpio Black",
+     "harga": "Rp 1,045,000"
+    },
+    {
+     "name": "WDC 2.5\" 1TB SSHD Black",
+     "harga": "Rp 800,000"
+    },
+    {
+     "name": "Hitachi 2.5\" 320GB SATA2 8MB - 5400RPM",
+     "harga": "Rp 290,000"
+    },
+    {
+     "name": "Hitachi 2.5\" 500GB SATA3 8MB 5400RPM - 7mm - Garansi 3 Tahun",
+     "harga": "Rp 550,000"
+    },
+    {
+     "name": "Hitachi 2.5\" 500GB SATA3 16MB 7200RPM - 7mm - Garansi 3 Tahun",
+     "harga": "Rp 595,000"
+    },
+    {
+     "name": "Hitachi 2.5\" 1TB SATA3 8MB 5400RPM - Garansi 3 Tahun",
+     "harga": "Rp 710,000"
+    },
+    {
+     "name": "Hitachi 2.5\" 1TB SATA3 16MB 7200RPM - Garansi 3 Tahun",
+     "harga": "Rp 800,000"
+    },
+    {
+     "name": "Seagate 2.5\" 320GB SATA 8MB 5400RPM",
+     "harga": "Rp 245,000"
+    },
+    {
+     "name": "Seagate 2.5\" 500GB SATA 8MB 5400RPM - BarraCuda Series",
+     "harga": "Rp 575,000"
+    },
+    {
+     "name": "Seagate 2.5\" 500GB SATA 8MB 5400RPM - Garansi Distributor",
+     "harga": "Rp 410,000"
+    },
+    {
+     "name": "Seagate 2.5\" 1TB SATA 8MB - Garansi Distributor",
+     "harga": "Rp 585,000"
+    },
+    {
+     "name": "Seagate 2.5\" 1TB SATA 128MB - 7mm - BarraCuda Series",
+     "harga": "Rp 725,000"
+    },
+    {
+     "name": "Seagate 2.5\" 1TB SATA 128MB - 7mm - BarraCuda Pro Series",
+     "harga": "Rp 895,000"
+    },
+    {
+     "name": "Seagate 2.5\" 2TB SATA 128MB - 7mm - BarraCuda Series",
+     "harga": "Rp 1,285,000"
+    },
+    {
+     "name": "Seagate 2.5\" 3TB SATA 128MB - 5400 RPM - BarraCuda Series",
+     "harga": "Rp 2,030,000"
+    },
+    {
+     "name": "Seagate 2.5\" 4TB SATA 128MB - 5400 RPM - BarraCuda Series",
+     "harga": "Rp 2,670,000"
+    },
+    {
+     "name": "Seagate 2.5\" 5TB SATA 128MB - 5400 RPM - BarraCuda Series",
+     "harga": "Rp 3,415,000"
+    },
+    {
+     "name": "Seagate 2.5\" SSHD 1TB - FireCuda Series",
+     "harga": "Rp 970,000"
+    },
+    {
+     "name": "Seagate 2.5\" SSHD 2TB - FireCuda Series",
+     "harga": "Rp 1,550,000"
+    },
+    {
+     "name": "Toshiba 2.5\" 320GB SATA 8MB",
+     "harga": "Rp 240,000"
+    },
+    {
+     "name": "Toshiba 2.5\" 500GB SATA 8MB - 7mm - 5400RPM",
+     "harga": "Rp 513,000"
+    },
+    {
+     "name": "Toshiba 2.5\" 500GB SATA 8MB - 7mm - L200 Series",
+     "harga": "Rp 550,000"
+    },
+    {
+     "name": "Toshiba 2.5\" 1TB SATA 8MB",
+     "harga": "Rp 640,000"
+    },
+    {
+     "name": "Toshiba 2.5\" 1TB SATA 128MB - 7mm - L200 Series",
+     "harga": "Rp 640,000"
+    },
+    {
+     "name": "WD Mybook Personal Storage 3TB",
+     "harga": "Rp 1,585,000"
+    },
+    {
+     "name": "WD Mybook Personal Storage 4TB",
+     "harga": "Rp 1,660,000"
+    },
+    {
+     "name": "WD Mybook Personal Storage 6TB",
+     "harga": "Rp 2,315,000"
+    },
+    {
+     "name": "WD Mybook Personal Storage 8TB",
+     "harga": "Rp 3,085,000"
+    },
+    {
+     "name": "WD Mybook Personal Storage 10TB",
+     "harga": "Rp 4,300,000"
+    },
+    {
+     "name": "WD Mybook Power Adapter For 3.5\" HDD Ext",
+     "harga": "Rp 235,000"
+    },
+    {
+     "name": "WD Mybook Duo 8TB",
+     "harga": "Rp 5,125,000"
+    },
+    {
+     "name": "WD Mybook Duo 12TB",
+     "harga": "Rp 6,920,000"
+    },
+    {
+     "name": "WD Mybook Duo 16TB",
+     "harga": "Rp 7,905,000"
+    },
+    {
+     "name": "WD My Cloud Home 3TB",
+     "harga": "Rp 2,690,000"
+    },
+    {
+     "name": "WD My Cloud Home 4TB",
+     "harga": "Rp 3,040,000"
+    },
+    {
+     "name": "WD My Cloud Home 6TB",
+     "harga": "Rp 3,845,000"
+    },
+    {
+     "name": "WD My Cloud Home 8TB",
+     "harga": "Rp 4,840,000"
+    },
+    {
+     "name": "WD My Cloud Home Duo 4TB",
+     "harga": "Rp 4,730,000"
+    },
+    {
+     "name": "WD My Cloud Home Duo 8TB",
+     "harga": "Rp 6,780,000"
+    },
+    {
+     "name": "WD My Cloud Home Duo 12TB",
+     "harga": "Rp 8,250,000"
+    },
+    {
+     "name": "WD My Cloud EX2 Ultra 4TB",
+     "harga": "Rp 5,560,000"
+    },
+    {
+     "name": "WD My Cloud EX2 Ultra 8TB",
+     "harga": "Rp 6,780,000"
+    },
+    {
+     "name": "WD My Cloud EX2 Ultra 12TB",
+     "harga": "Rp 8,050,000"
+    },
+    {
+     "name": "WD My Cloud EX2 Ultra 16TB",
+     "harga": "Rp 9,500,000"
+    },
+    {
+     "name": "WD My Cloud Pro PR 2100 0TB",
+     "harga": "Rp 6,320,000"
+    },
+    {
+     "name": "WD My Cloud Pro PR 2100 4TB",
+     "harga": "Rp 10,100,000"
+    },
+    {
+     "name": "WD My Cloud Pro PR 2100 8TB",
+     "harga": "Rp 11,950,000"
+    },
+    {
+     "name": "WD My Cloud Pro PR 2100 12TB",
+     "harga": "Rp 13,880,000"
+    },
+    {
+     "name": "WD My Cloud Pro PR 2100 16TB",
+     "harga": "Rp 15,900,000"
+    },
+    {
+     "name": "WD My Cloud Pro PR 4100 0TB",
+     "harga": "Rp 8,025,000"
+    },
+    {
+     "name": "WD My Cloud Pro PR 4100 8TB",
+     "harga": "Rp 13,660,000"
+    },
+    {
+     "name": "WD My Cloud Pro PR 4100 16TB",
+     "harga": "Rp 18,285,000"
+    },
+    {
+     "name": "WD My Cloud Pro PR 4100 24TB",
+     "harga": "Rp 22,150,000"
+    },
+    {
+     "name": "WD My Cloud Pro PR 4100 32TB",
+     "harga": "Rp 27,900,000"
+    },
+    {
+     "name": "Seagate Backup Plus HUB 4TB",
+     "harga": "Rp 1,650,000"
+    },
+    {
+     "name": "Seagate Backup Plus HUB 6TB",
+     "harga": "Rp 2,290,000"
+    },
+    {
+     "name": "Seagate Backup Plus HUB 8TB",
+     "harga": "Rp 3,085,000"
+    },
+    {
+     "name": "Seagate Backup Plus HUB 10TB",
+     "harga": "Rp 4,385,000"
+    },
+    {
+     "name": "Seagate Expansion Desktop 3TB USB 3.0",
+     "harga": "Rp 1,480,000"
+    },
+    {
+     "name": "Seagate Expansion Desktop 4TB USB 3.0",
+     "harga": "Rp 1,735,000"
+    },
+    {
+     "name": "Apple Airport Time Capsule 2TB (5 Th Gen) - ME177",
+     "harga": "Rp 5,000,000"
+    },
+    {
+     "name": "Apple Airport Time Capsule 3TB (5 Th Gen) - ME182",
+     "harga": "Rp 6,000,000"
+    },
+    {
+     "name": "WD Elements 2.5\" 1TB - USB 3.0",
+     "harga": "Rp 705,000"
+    },
+    {
+     "name": "WD Elements 2.5\" 2TB - USB 3.0",
+     "harga": "Rp 1,030,000"
+    },
+    {
+     "name": "WD My Passport 1TB USB 3.0",
+     "harga": "Rp 760,000"
+    },
+    {
+     "name": "WD My Passport 2TB USB 3.0",
+     "harga": "Rp 1,095,000"
+    },
+    {
+     "name": "WD My Passport 4TB USB 3.0",
+     "harga": "Rp 1,690,000"
+    },
+    {
+     "name": "WD My Passport Ultra - New Model 1TB USB 3.1 Type C",
+     "harga": "Rp 1,045,000"
+    },
+    {
+     "name": "WD My Passport Ultra - New Model 2TB USB 3.1 Type C",
+     "harga": "Rp 1,410,000"
+    },
+    {
+     "name": "WD My Passport Ultra - New Model 4TB USB 3.1 Type C",
+     "harga": "Rp 2,025,000"
+    },
+    {
+     "name": "WD Passport Wireless Pro 2TB",
+     "harga": "Rp 2,850,000"
+    },
+    {
+     "name": "WD Passport Wireless Pro 3TB",
+     "harga": "Rp 3,150,000"
+    },
+    {
+     "name": "WD Passport Wireless Pro 4TB",
+     "harga": "Rp 3,565,000"
+    },
+    {
+     "name": "Seagate DJI Fly Drive 2TB External USB Type-C",
+     "harga": "Rp 1,815,000"
+    },
+    {
+     "name": "Seagate Game Drive For PS4 2TB",
+     "harga": "Rp 1,560,000"
+    },
+    {
+     "name": "Seagate Game Drive For PS4 4TB",
+     "harga": "Rp 2,265,000"
+    },
+    {
+     "name": "Seagate Game Drive For XBOX 2TB",
+     "harga": "Rp 1,560,000"
+    },
+    {
+     "name": "Seagate Game Drive For XBOX 4TB",
+     "harga": "Rp 2,265,000"
+    },
+    {
+     "name": "Seagate Backup Plus ULTRA SLIM 1TB USB 3.0",
+     "harga": "Rp 830,000"
+    },
+    {
+     "name": "Seagate Backup Plus ULTRA SLIM 2TB USB 3.0",
+     "harga": "Rp 1,205,000"
+    },
+    {
+     "name": "Seagate Backup Plus SLIM Edition 1TB USB 3.0",
+     "harga": "Rp 765,000"
+    },
+    {
+     "name": "Seagate Backup Plus SLIM Edition 2TB USB 3.0",
+     "harga": "Rp 1,075,000"
+    },
+    {
+     "name": "Seagate Backup Plus Portable 4TB USB 3.0",
+     "harga": "Rp 1,675,000"
+    },
+    {
+     "name": "Seagate Backup Plus Portable 5TB USB 3.0",
+     "harga": "Rp 2,240,000"
+    },
+    {
+     "name": "Seagate Expansion Portable 500GB USB 3.0",
+     "harga": "Rp 680,000"
+    },
+    {
+     "name": "Seagate Expansion Portable 1TB USB 3.0",
+     "harga": "Rp 720,000"
+    },
+    {
+     "name": "Seagate Expansion Portable 2TB USB 3.0",
+     "harga": "Rp 1,015,000"
+    },
+    {
+     "name": "Seagate Expansion Portable 4TB USB 3.0",
+     "harga": "Rp 1,635,000"
+    },
+    {
+     "name": "ADATA HD720 1TB (Antishock & Waterproof) USB 3.0",
+     "harga": "Rp 789,000"
+    },
+    {
+     "name": "ADATA HD720 2TB (Antishock & Waterproof) USB 3.0",
+     "harga": "Rp 1,082,000"
+    },
+    {
+     "name": "ADATA H650 1TB USB 3.0 - By Omega",
+     "harga": "Rp 801,000"
+    },
+    {
+     "name": "ADATA H650 2TB USB 3.0 - By Omega",
+     "harga": "Rp 1,100,000"
+    },
+    {
+     "name": "ADATA HV620S 1TB USB 3.0",
+     "harga": "Rp 656,000"
+    },
+    {
+     "name": "ADATA HV620S 2TB USB 3.0",
+     "harga": "Rp 966,000"
+    },
+    {
+     "name": "Transcend Storejet 25 C3 2TB - Ultra Slim - USB 3.1",
+     "harga": "Rp 1,410,000"
+    },
+    {
+     "name": "Transcend Storejet 25 C3S 1TB - Ultra Slim - USB Type-C",
+     "harga": "Rp 995,000"
+    },
+    {
+     "name": "Transcend Storejet 25 C3S 2TB - Ultra Slim - USB Type-C",
+     "harga": "Rp 1,380,000"
+    },
+    {
+     "name": "Transcend Storejet 25 M3B / H3 / H3B 1TB - Antishock - USB 3.0",
+     "harga": "Rp 810,000"
+    },
+    {
+     "name": "Transcend Storejet 25 M3 / H3 / H3B 2TB - Antishock USB 3.0",
+     "harga": "Rp 1,165,000"
+    },
+    {
+     "name": "Transcend Storejet 25 H3 4TB - Antishock USB 3.0",
+     "harga": "Rp 1,860,000"
+    },
+    {
+     "name": "Transcend Softcase Original (Good Quality)",
+     "harga": "Rp 60,000"
+    },
+    {
+     "name": "Toshiba Canvio Alumy 1TB USB 3.0",
+     "harga": "Rp 760,000"
+    },
+    {
+     "name": "Toshiba Canvio Alumy 2TB USB 3.0",
+     "harga": "Rp 1,110,000"
+    },
+    {
+     "name": "Toshiba Canvio Advance 1TB USB 3.0",
+     "harga": "Rp 705,000"
+    },
+    {
+     "name": "Toshiba Canvio Advance 2TB USB 3.0",
+     "harga": "Rp 1,100,000"
+    },
+    {
+     "name": "Toshiba Canvio Ready 500GB USB 3.0",
+     "harga": "Rp 610,000"
+    },
+    {
+     "name": "Toshiba Canvio Ready 1TB USB 3.0",
+     "harga": "Rp 680,000"
+    },
+    {
+     "name": "Toshiba Canvio Ready 2TB USB 3.0",
+     "harga": "Rp 965,000"
+    },
+    {
+     "name": "Toshiba Canvio Ready 3TB USB 3.0",
+     "harga": "Rp 1,360,000"
+    },
+    {
+     "name": "Toshiba Canvio Basic 500GB USB 3.0",
+     "harga": "Rp 610,000"
+    },
+    {
+     "name": "Toshiba Canvio Basic 1TB USB 3.0",
+     "harga": "Rp 680,000"
+    },
+    {
+     "name": "Toshiba Canvio Basic 2TB USB 3.0",
+     "harga": "Rp 965,000"
+    },
+    {
+     "name": "Toshiba Canvio Basic 3TB USB 3.0",
+     "harga": "Rp 1,360,000"
+    },
+    {
+     "name": "Kingston Wi-Drive 32GB (Wifi Support To iPad, iPhone, Android)",
+     "harga": "Rp 610,000"
+    }
