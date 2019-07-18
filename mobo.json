@@ -1,0 +1,1243 @@
+"tipe": "Motherboard",
+   "url": "https://www.enterkomputer.id/motherboard.php",
+   "jenis": [
+    {
+     "name": "Asus H61M-A (LGA1155, Intel H61, DDR3)",
+     "harga": "Rp 960,000"
+    },
+    {
+     "name": "Asus H61M-C (LGA1155, Intel H61, DDR3)",
+     "harga": "Rp 850,000"
+    },
+    {
+     "name": "Asus H61M-E (LGA1155, Intel H61, DDR3)",
+     "harga": "Rp 1,060,000"
+    },
+    {
+     "name": "Asus H61M-K (LGA1155, Intel H61, DDR3)",
+     "harga": "Rp 1,210,000"
+    },
+    {
+     "name": "MSI H61M-P31/W8 (LGA1155, Intel H61, DDR3) (By WPG)",
+     "harga": "Rp 825,000"
+    },
+    {
+     "name": "MSI H61M-P32/W8 LPT (LGA1155, Intel H61, DDR3) (By WPG)",
+     "harga": "Rp 900,000"
+    },
+    {
+     "name": "MSI H61M-P20 (LGA1155, Intel H61, DDR3) (By WPG)",
+     "harga": "Rp 756,000"
+    },
+    {
+     "name": "Gigabyte GA-H61M-DS2 (LGA1155, H61, DDR3)",
+     "harga": "Rp 1,200,000"
+    },
+    {
+     "name": "Biostar IH61MF (LGA1155, Intel H61, DDR3, USB2.0)",
+     "harga": "Rp 903,000"
+    },
+    {
+     "name": "ECS H61H2-MV (LGA1155, Intel H61, DDR3)",
+     "harga": "Rp 1,060,000"
+    },
+    {
+     "name": "Digital Alliance IGH61-MA-V2 (LGA1155, Intel H61, DDR3)",
+     "harga": "Rp 675,000"
+    },
+    {
+     "name": "MAXSUN (By SOYO) MS-B250MD4 Turbo (LGA1151, B250, DDR4, 2 Slot VGA PCI-E, M.2)",
+     "harga": "Rp 930,000"
+    },
+    {
+     "name": "MAXSUN (By SOYO) MS-B250D4L (LGA1151, B250, DDR4, M.2, VGA+DVI)",
+     "harga": "Rp 790,000"
+    },
+    {
+     "name": "MAXSUN (By SOYO) MS-H110D4 Turbo M.2 (LGA1151, H110, DDR4, USB3, VGA+DVI+HDMI, Gigabit Gaming Network card)",
+     "harga": "Rp 690,000"
+    },
+    {
+     "name": "Asus Workstation P11C-X (LGA1151, C242, DDR4)",
+     "harga": "Rp 2,900,000"
+    },
+    {
+     "name": "Asus Workstation P10S-X (LGA1151, C232, DDR4)",
+     "harga": "Rp 2,750,000"
+    },
+    {
+     "name": "Asus Workstation P10S WS (LGA1151, C236, DDR4)",
+     "harga": "Rp 3,700,000"
+    },
+    {
+     "name": "Asus Workstation P10S-M WS (LGA1151, C236, DDR4)",
+     "harga": "Rp 3,600,000"
+    },
+    {
+     "name": "Asus ROG Maximus IX Extreme (LGA1151,Z270, DDR4)",
+     "harga": "Rp 8,100,000"
+    },
+    {
+     "name": "Asus ROG Maximus IX APEX (LGA1151,Z270, DDR4)",
+     "harga": "Rp 2,510,000"
+    },
+    {
+     "name": "Asus ROG Maximus IX Hero (LGA1151,Z270, DDR4)",
+     "harga": "Rp 4,230,000"
+    },
+    {
+     "name": "Asus Maximus VIII Extreme (LGA1151,Z170, DDR4)",
+     "harga": "Rp 6,490,000"
+    },
+    {
+     "name": "Asus Maximus VIII Formula (LGA1151,Z170, DDR4)",
+     "harga": "Rp 3,515,000"
+    },
+    {
+     "name": "Asus Maximus VIII Impact (LGA1151,Z170, DDR4)",
+     "harga": "Rp 2,515,000"
+    },
+    {
+     "name": "Asus Maximus VIII Gene (LGA1151,Z170, DDR4)",
+     "harga": "Rp 3,420,000"
+    },
+    {
+     "name": "Asus Maximus VIII Ranger (LGA1151,Z170, DDR4)",
+     "harga": "Rp 3,080,000"
+    },
+    {
+     "name": "Asus ROG STRIX Z270I Gaming Aura (LGA1151,Z270, DDR4)",
+     "harga": "Rp 2,660,000"
+    },
+    {
+     "name": "Asus ROG STRIX Z270G Gaming (LGA1151,Z270, DDR4)",
+     "harga": "Rp 3,030,000"
+    },
+    {
+     "name": "Asus PRIME Z270-K (LGA1151,Z270, DDR4)",
+     "harga": "Rp 2,365,000"
+    },
+    {
+     "name": "Asus PRIME Z270-P (LGA1151,Z270, DDR4)",
+     "harga": "Rp 2,350,000"
+    },
+    {
+     "name": "Asus PRIME Z270M-PLUS (LGA1151,Z270, DDR4)",
+     "harga": "Rp 1,710,000"
+    },
+    {
+     "name": "Asus Z170 Deluxe (LGA1151,Z170, DDR4)",
+     "harga": "Rp 4,899,000"
+    },
+    {
+     "name": "Asus Z170I Pro-Gaming (LGA1151,Z170, DDR4)",
+     "harga": "Rp 2,010,000"
+    },
+    {
+     "name": "Asus Z170-K (LGA1151,Z170, DDR4)",
+     "harga": "Rp 1,720,000"
+    },
+    {
+     "name": "Asus Z170M-PLUS (LGA1151,Z170, DDR4)",
+     "harga": "Rp 1,310,000"
+    },
+    {
+     "name": "ASUS B250 Mining Expert (LGA1151, B250, DDR4, 19 PCIe Slot)",
+     "harga": "Rp 1,550,000"
+    },
+    {
+     "name": "Asus PRIME B250-PLUS (LGA1151,B250, DDR4)",
+     "harga": "Rp 1,610,000"
+    },
+    {
+     "name": "Asus EX-B250 V7 (LGA1151, B250, DDR4)",
+     "harga": "Rp 1,480,000"
+    },
+    {
+     "name": "Asus EX-B250M V5 (LGA1151, B250, DDR4)",
+     "harga": "Rp 1,395,000"
+    },
+    {
+     "name": "Asus EX-B250M V3 (LGA1151, B250, DDR4)",
+     "harga": "Rp 1,270,000"
+    },
+    {
+     "name": "Asus EX-B150M-V5 (LGA1151,B150, DDR4)",
+     "harga": "Rp 930,000"
+    },
+    {
+     "name": "Asus PRIME H270 Pro (LGA1151,H270, DDR4)",
+     "harga": "Rp 1,780,000"
+    },
+    {
+     "name": "Asus H110M-A/CSM (LGA1151,H110, DDR4)",
+     "harga": "Rp 970,000"
+    },
+    {
+     "name": "Asus H110M-A (LGA1151,H110, DDR4)",
+     "harga": "Rp 955,000"
+    },
+    {
+     "name": "Asus H110M-D (LGA1151,H110, DDR4)",
+     "harga": "Rp 920,000"
+    },
+    {
+     "name": "Asus H110M-E (LGA1151,H110, DDR4)",
+     "harga": "Rp 885,000"
+    },
+    {
+     "name": "Asus H110M-K (LGA1151,H110,DDR4)",
+     "harga": "Rp 860,000"
+    },
+    {
+     "name": "Asus EX-H110M-V3/CSM (LGA1151,H110, DDR4)",
+     "harga": "Rp 870,000"
+    },
+    {
+     "name": "Asus EX-H110M-V (LGA1151,H110, DDR4)",
+     "harga": "Rp 860,000"
+    },
+    {
+     "name": "Asus H110M-C2/CSM (LGA1151,H110, DDR4)",
+     "harga": "Rp 900,000"
+    },
+    {
+     "name": "MSI H110M-A Pro M2 (LGA1151, H110, DDR4) (By WPG)",
+     "harga": "Rp 932,000"
+    },
+    {
+     "name": "MSI H110M-Pro VH Plus (LGA1151, H110, DDR4) (By WPG)",
+     "harga": "Rp 847,000"
+    },
+    {
+     "name": "MSI H110M-Pro VD Plus (LGA1151, H110, DDR4)",
+     "harga": "Rp 849,000"
+    },
+    {
+     "name": "ECS Z170-CLAYMORE (LGA1151, Intel Z170, DDR4)",
+     "harga": "Rp 2,150,000"
+    },
+    {
+     "name": "ECS Z170-LIGHTSABER (LGA1151, Intel Z170, DDR4)",
+     "harga": "Rp 2,650,000"
+    },
+    {
+     "name": "ECS B250H4-M20 (LGA1151, B250, DDR4)",
+     "harga": "Rp 990,000"
+    },
+    {
+     "name": "ECS H110M4-C2H (LGA1151, Intel H110, DDR4)",
+     "harga": "Rp 835,000"
+    },
+    {
+     "name": "Gigabyte GA-B250-FinTech (LGA1151, B250, DDR4, 12 PCIe Slot)",
+     "harga": "Rp 1,550,000"
+    },
+    {
+     "name": "Gigabyte GA-B250M-DS3H (LGA1151, B250, DDR4)",
+     "harga": "Rp 1,370,000"
+    },
+    {
+     "name": "Gigabyte GA-B250M-D2V (LGA1151, B250, DDR4)",
+     "harga": "Rp 1,249,000"
+    },
+    {
+     "name": "Gigabyte GA-H270-Gaming 3 (LGA1151, H270, DDR4)",
+     "harga": "Rp 2,332,000"
+    },
+    {
+     "name": "Gigabyte GA-H270-HD3 (LGA1151, H270, DDR4)",
+     "harga": "Rp 1,997,000"
+    },
+    {
+     "name": "Gigabyte GA-H270M-DS3H (LGA1151, H270, DDR4)",
+     "harga": "Rp 1,898,000"
+    },
+    {
+     "name": "Gigabyte GA-H110-D3A (LGA1151, H110, DDR4)",
+     "harga": "Rp 985,000"
+    },
+    {
+     "name": "Gigabyte GA-H110M-S2PH (LGA1151, H110, DDR4)",
+     "harga": "Rp 980,000"
+    },
+    {
+     "name": "Gigabyte GA-H110M-H (LGA1151, H110, DDR4)",
+     "harga": "Rp 945,000"
+    },
+    {
+     "name": "Gigabyte GA-H110M-DS2 (LGA1151, H110, DDR4)",
+     "harga": "Rp 850,000"
+    },
+    {
+     "name": "ASRock Fatal1ty Z270 Gaming K6 (LGA1151, Z270, DDR4)",
+     "harga": "Rp 2,290,000"
+    },
+    {
+     "name": "ASRock Fatal1ty Z270 Gaming K4 (LGA1151, Z270, DDR4)",
+     "harga": "Rp 1,975,000"
+    },
+    {
+     "name": "ASRock Fatal1ty B250 Gaming K4 (LGA1151, B250, DDR4)",
+     "harga": "Rp 1,590,000"
+    },
+    {
+     "name": "ASRock Fatal1ty B250M Performance (LGA1151, B250, DDR4)",
+     "harga": "Rp 1,430,000"
+    },
+    {
+     "name": "ASRock Fatal1ty H270 Performance (LGA1151, H270, DDR4)",
+     "harga": "Rp 1,750,000"
+    },
+    {
+     "name": "ASRock H110 Pro BTC+ (LGA1151, H110, DDR4)",
+     "harga": "Rp 1,660,000"
+    },
+    {
+     "name": "ASRock H110M-HDV (LGA1151, H110, DDR4)",
+     "harga": "Rp 785,000"
+    },
+    {
+     "name": "ASRock H110M-DVS (LGA1151, H110, DDR4)",
+     "harga": "Rp 735,000"
+    },
+    {
+     "name": "Biostar Racing Z270GT8 (LGA1151, Intel Z270, DDR4)",
+     "harga": "Rp 2,020,000"
+    },
+    {
+     "name": "Biostar Racing Z270GTN (LGA1151, Intel Z270, DDR4)",
+     "harga": "Rp 1,527,000"
+    },
+    {
+     "name": "Biostar TB250-BTC Pro (LGA1151, Intel B250, DDR4) - Bundled Riser 12Pcs",
+     "harga": "Rp 2,069,000"
+    },
+    {
+     "name": "Biostar TB250-BTC Pro (LGA1151, Intel B250, DDR4)",
+     "harga": "Rp 1,493,000"
+    },
+    {
+     "name": "Biostar TB250-BTC (LGA1151, Intel B250, DDR4) - Bundled Riser 6Pcs",
+     "harga": "Rp 1,392,000"
+    },
+    {
+     "name": "Biostar TB250-BTC (LGA1151, Intel B250, DDR4)",
+     "harga": "Rp 1,104,000"
+    },
+    {
+     "name": "Biostar Racing B250GT5 (LGA1151, Intel B250, DDR4)",
+     "harga": "Rp 1,165,000"
+    },
+    {
+     "name": "Biostar Racing B250ET2 (LGA1151, Intel B250, DDR4)",
+     "harga": "Rp 917,000"
+    },
+    {
+     "name": "Biostar HiFI B150S1 D4 (LGA1151, Intel B150, DDR4)",
+     "harga": "Rp 1,061,000"
+    },
+    {
+     "name": "Biostar HIFI H170S3H (LGA1151, Intel H170, DDR3)",
+     "harga": "Rp 1,295,000"
+    },
+    {
+     "name": "Biostar H110MH Pro D4 (LGA1151, Intel H110, DDR4)",
+     "harga": "Rp 744,000"
+    },
+    {
+     "name": "Biostar H110MHC (LGA1151, Intel H110, DDR4)",
+     "harga": "Rp 744,000"
+    },
+    {
+     "name": "Biostar H110MHV3 (LGA1151, Intel H110, DDR3)",
+     "harga": "Rp 744,000"
+    },
+    {
+     "name": "Supermicro C7Z270-CG-L-O (LGA1151, Z270, DDR4) By AAA",
+     "harga": "Rp 1,199,000"
+    },
+    {
+     "name": "Supermicro C7B250-CB-ML-O (LGA1151, B250, DDR4) By AAA",
+     "harga": "Rp 999,000"
+    },
+    {
+     "name": "Supermicro C7H270-CG-ML-O (LGA1151, H270, DDR4) By AAA",
+     "harga": "Rp 1,199,000"
+    },
+    {
+     "name": "Digital Alliance IB250-MA-V2 (LGA1151, B250, DDR4)",
+     "harga": "Rp 880,000"
+    },
+    {
+     "name": "Digital Alliance IH110-MA-V2 (LGA1151, H110, DDR4)",
+     "harga": "Rp 750,000"
+    },
+    {
+     "name": "MAXSUN (By SOYO) MS-B85-BTC (LGA 1150, B85, DDR3, 3xPCI-E Slot + 3xPCI-E X1) - NO BOX PACKAGING",
+     "harga": "Rp 1,200,000"
+    },
+    {
+     "name": "MAXSUN (By SOYO) MS-H81M (LGA1150, H81, DDR3, VGA+DVI)",
+     "harga": "Rp 670,000"
+    },
+    {
+     "name": "Asus H81M-V Plus (LGA1150, Intel H81, DDR3)",
+     "harga": "Rp 785,000"
+    },
+    {
+     "name": "Asus H81M-K (LGA1150, Intel H81, DDR3)",
+     "harga": "Rp 830,000"
+    },
+    {
+     "name": "Asus H81M-E (LGA1150, Intel H81, DDR3)",
+     "harga": "Rp 820,000"
+    },
+    {
+     "name": "Asus H81M-CS (LGA1150, Intel H81, DDR3)",
+     "harga": "Rp 920,000"
+    },
+    {
+     "name": "Asus H81M-C (LGA1150, Intel H81, DDR3)",
+     "harga": "Rp 920,000"
+    },
+    {
+     "name": "Asus H81M-A (LGA1150, Intel H81, DDR3)",
+     "harga": "Rp 850,000"
+    },
+    {
+     "name": "MSI H81M-E33 (LGA1150, H81, DDR3) (By WPG)",
+     "harga": "Rp 820,000"
+    },
+    {
+     "name": "MSI H81i (LGA1150, H81, DDR3) (By WPG)",
+     "harga": "Rp 1,080,000"
+    },
+    {
+     "name": "Gigabyte GA-P81-D3 (LGA1150, H81, DDR3, SATA3, USB3)",
+     "harga": "Rp 1,015,000"
+    },
+    {
+     "name": "Gigabyte GA-H81M-S2PH (LGA1150, H81, DDR3, SATA3, USB3)",
+     "harga": "Rp 944,000"
+    },
+    {
+     "name": "Gigabyte GA-H81M-DS2 (LGA1150, H81, DDR3, SATA3, USB3)",
+     "harga": "Rp 850,000"
+    },
+    {
+     "name": "Gigabyte GA-H81M-H (LGA1150, H81, DDR3, SATA3, USB3)",
+     "harga": "Rp 860,000"
+    },
+    {
+     "name": "Gigabyte GA-H81M-S1 (LGA1150, H81, DDR3, SATA3, USB3)",
+     "harga": "Rp 827,000"
+    },
+    {
+     "name": "ASRock B95M-DGS (LGA1150, B85, DDR3)",
+     "harga": "Rp 690,000"
+    },
+    {
+     "name": "ASRock H81-Pro BTC (LGA1150, H81, DDR3)",
+     "harga": "Rp 860,000"
+    },
+    {
+     "name": "ASRock H81M-VG4 (LGA1150, H81, DDR3)",
+     "harga": "Rp 710,000"
+    },
+    {
+     "name": "ECS Z97-PK (LGA1150, Intel Z97, DDR3)",
+     "harga": "Rp 1,010,000"
+    },
+    {
+     "name": "ECS Z87H3-M (LGA1150, Intel Z87, DDR3)",
+     "harga": "Rp 1,300,000"
+    },
+    {
+     "name": "ECS B85H3-M7 (LGA1150, Intel B85, DDR3)",
+     "harga": "Rp 925,000"
+    },
+    {
+     "name": "ECS B85H3-M3 (LGA1150, Intel B85, DDR3)",
+     "harga": "Rp 975,000"
+    },
+    {
+     "name": "ECS H87H3-M (LGA1150, Intel H87, DDR3)",
+     "harga": "Rp 970,000"
+    },
+    {
+     "name": "ECS H81H3-M3S (LGA1150, Intel H81, DDR3)",
+     "harga": "Rp 785,000"
+    },
+    {
+     "name": "ECS H81H3-M4 (LGA1150, Intel H81, DDR3)",
+     "harga": "Rp 720,000"
+    },
+    {
+     "name": "Biostar H81MHV3 (LGA1150, Intel H81, DDR3)",
+     "harga": "Rp 744,000"
+    },
+    {
+     "name": "Asus Workstation X299 SAGE WS (LGA2066, X299, DDR4)",
+     "harga": "Rp 9,200,000"
+    },
+    {
+     "name": "Asus Workstation X299 PRO WS (LGA2066, X299, DDR4)",
+     "harga": "Rp 7,600,000"
+    },
+    {
+     "name": "Asus ROG RAMPAGE VI Extreme Omega (LGA 2066, X299, DDR4)",
+     "harga": "Rp 12,050,000"
+    },
+    {
+     "name": "Asus ROG RAMPAGE VI APEX (LGA 2066, X299, DDR4)",
+     "harga": "Rp 8,000,000"
+    },
+    {
+     "name": "Asus ROG STRIX X299-E Gaming (LGA2066, X299, DDR4)",
+     "harga": "Rp 5,875,000"
+    },
+    {
+     "name": "Asus PRIME X299 Deluxe II (LGA2066, X299, DDR4)",
+     "harga": "Rp 8,600,000"
+    },
+    {
+     "name": "Asus PRIME X299 Deluxe (LGA2066, X299, DDR4)",
+     "harga": "Rp 8,300,000"
+    },
+    {
+     "name": "Asus PRIME X299-A (LGA 2066, X299, DDR4)",
+     "harga": "Rp 5,545,000"
+    },
+    {
+     "name": "Asus TUF X299 Mark 1 (LGA2066,X299,DDR4)",
+     "harga": "Rp 6,150,000"
+    },
+    {
+     "name": "Gigabyte X299 Designare EX (LGA 2066, X299, DDR4)",
+     "harga": "Rp 8,970,000"
+    },
+    {
+     "name": "Gigabyte X299 Aorus Gaming 9 (LGA 2066, X299, DDR4)",
+     "harga": "Rp 8,830,000"
+    },
+    {
+     "name": "Gigabyte X299 Aorus Gaming 7 Pro (LGA 2066, X299, DDR4)",
+     "harga": "Rp 7,345,000"
+    },
+    {
+     "name": "Gigabyte X299 Aorus Master (LGA 2066, X299, DDR4)",
+     "harga": "Rp 6,795,000"
+    },
+    {
+     "name": "Gigabyte X299 Aorus Gaming 7 (LGA 2066, X299, DDR4)",
+     "harga": "Rp 6,920,000"
+    },
+    {
+     "name": "Gigabyte X299 Aorus Gaming 3 Pro (LGA 2066, X299, DDR4)",
+     "harga": "Rp 5,194,000"
+    },
+    {
+     "name": "Gigabyte X299 UD4 Pro (LGA 2066, X299, DDR4)",
+     "harga": "Rp 4,600,000"
+    },
+    {
+     "name": "ASRock Fatal1ty X299 Gaming K6 (LGA2066, X299, DDR4)",
+     "harga": "Rp 4,250,000"
+    },
+    {
+     "name": "MSI X299 Gaming Pro Carbon AC (LGA2066, X299, DDR4) By WPG",
+     "harga": "Rp 6,641,000"
+    },
+    {
+     "name": "MSI X299 Gaming Pro Carbon (LGA2066, X299, DDR4) By WPG",
+     "harga": "Rp 6,453,000"
+    },
+    {
+     "name": "MSI X299 Tomahawk Arctic (LGA2066, X299, DDR4) By WPG",
+     "harga": "Rp 5,750,000"
+    },
+    {
+     "name": "MSI X299 Tomahawk (LGA2066, X299, DDR4) By WPG",
+     "harga": "Rp 5,550,000"
+    },
+    {
+     "name": "MSI X299 SLI Plus (LGA2066, X299, DDR4) By WPG",
+     "harga": "Rp 5,340,000"
+    },
+    {
+     "name": "MSI X299 Raider (LGA2066, X299, DDR4) (By WPG)",
+     "harga": "Rp 4,854,000"
+    },
+    {
+     "name": "Asus X99-E WS (LGA2011v3, Intel® X99, Quad Channel DDR4, PCIE 3.0, SATA3, USB3)",
+     "harga": "Rp 8,650,000"
+    },
+    {
+     "name": "Asus ROG STRIX X99 Gaming (LGA2011v3, Intel X99, Quad Channel DDR4, PCIE 3.0, SATA3, USB3)",
+     "harga": "Rp 4,525,000"
+    },
+    {
+     "name": "Asus X99 Sabertooth (LGA2011v3, Intel X99, Quad Channel DDR4, PCIE 3.0, SATA3, USB3)",
+     "harga": "Rp 4,325,000"
+    },
+    {
+     "name": "Asus Z10PE-D16 WS (LGA2011v3, Intel® C612 PCH, Quad Channel DDR4, PCIE 3.0, SATA3, USB3)",
+     "harga": "Rp 10,300,000"
+    },
+    {
+     "name": "Asus Z10PE-D8 WS (LGA2011v3, Intel® C612 PCH, Quad Channel DDR4, PCIE 3.0, SATA3, USB3)",
+     "harga": "Rp 9,900,000"
+    },
+    {
+     "name": "Asus Z10PA-D8 (LGA2011v3, Intel® C612 PCH, Quad Channel DDR4, PCIE 3.0, SATA3, USB3)",
+     "harga": "Rp 6,400,000"
+    },
+    {
+     "name": "MSI X99A GODLIKE Gaming Carbon (LGA2011v3, X99, DDR4)",
+     "harga": "Rp 9,608,000"
+    },
+    {
+     "name": "CARDEX LGA775 G41 (PCIe16x,ddr3,vga.sc.lan)",
+     "harga": "Rp 415,000"
+    },
+    {
+     "name": "Xtreme G41 (LGA775, G41, DDR3)",
+     "harga": "Rp 395,000"
+    },
+    {
+     "name": "Digital Alliance IG41-MA6 (LGA775, Intel G41, DDR3)",
+     "harga": "Rp 575,000"
+    },
+    {
+     "name": "MAXSUN (By SOYO) MS-J3455 Apollo (Onboard Intel J3455 2.3GHZ, DDR3, VGA+HDMI+LPT)",
+     "harga": "Rp 990,000"
+    },
+    {
+     "name": "Biostar J3060NH (Built-up Intel Celeron J3060 Quad Core 2.48Ghz, DDR3, HDMI, VGA)",
+     "harga": "Rp 816,000"
+    },
+    {
+     "name": "Biostar J3160NH (Built-up Intel Celeron Braswell Quad Core 2Ghz Up to Turbo 2.24Ghz, DDR3, HDMI, VGA)",
+     "harga": "Rp 1,040,000"
+    },
+    {
+     "name": "Asus ROG Dominus Extreme (LGA 3647, C621, DDR4)",
+     "harga": "Rp 27,990,000"
+    },
+    {
+     "name": "Asus Workstation C621E SAGE WS (LGA 3647, C621, DDR4)",
+     "harga": "Rp 10,900,000"
+    },
+    {
+     "name": "Intel Server Board S2600STB, Intel® Xeon® Scalable Processors LGA3647",
+     "harga": "Rp 9,900,000"
+    },
+    {
+     "name": "Intel Server Board S1200SPSR, Intel® Xeon® Processor E3 v6 Series LGA1151",
+     "harga": "Rp 2,725,000"
+    },
+    {
+     "name": "Intel E-Series Server Board S2600CW2R - Intel® Xeon® Processor E5 v4 Series LGA2011-v3",
+     "harga": "Rp 4,790,000"
+    },
+    {
+     "name": "Biostar Bio Remote Control (Microsoft Media Center MCE Work with Win 7 / Vista /XP)",
+     "harga": "Rp 50,000"
+    },
+    {
+     "name": "Asus ROG Zenith Extreme (TR4 ,AMD Promontory X399, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 10,300,000"
+    },
+    {
+     "name": "Asus ROG STRIX X399-E Gaming (TR4, AMD Promontory X399, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 5,500,000"
+    },
+    {
+     "name": "Asus PRIME X399-A (TR4, AMD Promontory X399, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 5,100,000"
+    },
+    {
+     "name": "ASRock X399 Taichi (TR4 ,AMD Promontory X399, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 5,589,000"
+    },
+    {
+     "name": "ASRock X399 Phantom Gaming 6 (TR4 ,AMD Promontory X399, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 4,449,000"
+    },
+    {
+     "name": "Gigabyte X399 Aorus Xtreme (TR4 ,AMD Promontory X399, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 7,270,000"
+    },
+    {
+     "name": "Gigabyte X399 Designare EX (TR4 ,AMD Promontory X399, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 6,230,000"
+    },
+    {
+     "name": "Gigabyte X399 Aorus Gaming 7 (TR4 ,AMD Promontory X399, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 5,812,000"
+    },
+    {
+     "name": "Gigabyte X399 Aorus Pro (TR4 ,AMD Promontory X399, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 4,800,000"
+    },
+    {
+     "name": "MAXSUN (By SOYO) MS-B350FX Gaming Pro (AM4, B350, DDR4, 3 Slot VGA PCI-E , 2 Slot M.2, USB 3.1, Hi-Fi Audio)",
+     "harga": "Rp 1,180,000"
+    },
+    {
+     "name": "MAXSUN (By SOYO) MS-B350D4 Turbo (AM4, B350, DDR4, Slot M.2, USB 3.1, Hi-Fi Audio)",
+     "harga": "Rp 970,000"
+    },
+    {
+     "name": "MAXSUN (By SOYO) MS-Challenger B350M (AM4 Raven Ridge, B350, DDR4, Slot M.2, VGA+DVI+HDMI, Gigabit)",
+     "harga": "Rp 1,050,000"
+    },
+    {
+     "name": "MAXSUN (By SOYO) MS-A320D4 Turbo (AM4, A320, DDR4, M.2, USB 3.1, VGA+DVI+HDMI, Gigabit LAN)",
+     "harga": "Rp 750,000"
+    },
+    {
+     "name": "MAXSUN (By SOYO) MS-A320M Challenger Series (AM4, A320, DDR4, USB3, VGA+DVI+HDMI, M.2, Gigabit 1000 Mbps Gaming Network card)",
+     "harga": "Rp 735,000"
+    },
+    {
+     "name": "Asus ROG CROSSHAIR VII Hero (WI-FI) (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 5,700,000"
+    },
+    {
+     "name": "Asus ROG CROSSHAIR VII Hero (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 5,400,000"
+    },
+    {
+     "name": "Asus ROG STRIX X470-F Gaming (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 4,100,000"
+    },
+    {
+     "name": "Asus ROG STRIX X470-I Gaming (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 4,000,000"
+    },
+    {
+     "name": "Asus PRIME X470-Pro (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 3,300,000"
+    },
+    {
+     "name": "Asus TUF X470-PLUS Gaming (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,900,000"
+    },
+    {
+     "name": "Asus ROG CROSSHAIR VI Extreme (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 3,750,000"
+    },
+    {
+     "name": "Asus ROG CROSSHAIR VI Hero (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 3,150,000"
+    },
+    {
+     "name": "Asus ROG STRIX X370-F Gaming (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,750,000"
+    },
+    {
+     "name": "Asus ROG STRIX X370-I Gaming (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,995,000"
+    },
+    {
+     "name": "Asus PRIME X370-Pro (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,910,000"
+    },
+    {
+     "name": "Asus ROG STRIX B450-E Gaming (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 3,100,000"
+    },
+    {
+     "name": "Asus ROG STRIX B450-I Gaming (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 3,100,000"
+    },
+    {
+     "name": "Asus ROG STRIX B450-F Gaming (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,500,000"
+    },
+    {
+     "name": "Asus TUF B450-PLUS Gaming (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,150,000"
+    },
+    {
+     "name": "Asus TUF B450M-PLUS Gaming (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,750,000"
+    },
+    {
+     "name": "Asus PRIME B450-PLUS (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,650,000"
+    },
+    {
+     "name": "Asus PRIME B450M-K (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,390,000"
+    },
+    {
+     "name": "Asus ROG STRIX B350-F Gaming (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,810,000"
+    },
+    {
+     "name": "Asus TUF B350M-PLUS Gaming (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,610,000"
+    },
+    {
+     "name": "Asus PRIME B350-PLUS (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,860,000"
+    },
+    {
+     "name": "Asus PRIME B350M-K (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,230,000"
+    },
+    {
+     "name": "Asus EX-A320M-Gaming (AM4, AMD Promontory A320, DDR4, USB 3.1, SATA3)",
+     "harga": "Rp 1,290,000"
+    },
+    {
+     "name": "Asus PRIME A320M-K (AM4, AMD Promontory A320, DDR4, USB 3.1, SATA3)",
+     "harga": "Rp 850,000"
+    },
+    {
+     "name": "Asus PRIME A320M-F (AM4, AMD Promontory A320, DDR4, USB 3.1, SATA3)",
+     "harga": "Rp 800,000"
+    },
+    {
+     "name": "Gigabyte X570 Aorus Master (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+     "harga": "Rp 7,100,000"
+    },
+    {
+     "name": "Gigabyte X570 Aorus Ultra (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+     "harga": "Rp 5,895,000"
+    },
+    {
+     "name": "Gigabyte X470 Aorus Gaming 7 Wifi (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 3,930,000"
+    },
+    {
+     "name": "Gigabyte X470 Aorus Gaming 5 Wifi (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 3,565,000"
+    },
+    {
+     "name": "Gigabyte X470 Aorus Ultra Gaming (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 3,180,000"
+    },
+    {
+     "name": "Gigabyte GA-AX370-Gaming K7 (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,475,000"
+    },
+    {
+     "name": "Gigabyte GA-AX370-Gaming 5 (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,115,000"
+    },
+    {
+     "name": "Gigabyte GA-AX370-Gaming 3 (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,230,000"
+    },
+    {
+     "name": "Gigabyte GA-AX370M-Gaming 3 (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,175,000"
+    },
+    {
+     "name": "Gigabyte B450 I Aorus Pro Wifi (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,480,000"
+    },
+    {
+     "name": "Gigabyte B450 Aorus Pro Wifi (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,370,000"
+    },
+    {
+     "name": "Gigabyte B450 Aorus Pro (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,260,000"
+    },
+    {
+     "name": "Gigabyte B450 Aorus Elite (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,996,000"
+    },
+    {
+     "name": "Gigabyte B450 Aorus M (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,700,000"
+    },
+    {
+     "name": "Gigabyte B450M Gaming (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,397,000"
+    },
+    {
+     "name": "Gigabyte B450M S2H (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,270,000"
+    },
+    {
+     "name": "Gigabyte B450M DS3H (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,358,000"
+    },
+    {
+     "name": "Gigabyte GA-A320M-S2H-V2 (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 869,000"
+    },
+    {
+     "name": "Gigabyte GA-A320M-S2H (AM4, AMD Promontory A320, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 795,000"
+    },
+    {
+     "name": "MSI MEG X570 Godlike (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+     "harga": "Rp 12,599,000"
+    },
+    {
+     "name": "MSI Prestige X570 Creation (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+     "harga": "Rp 8,299,000"
+    },
+    {
+     "name": "MSI MEG X570 ACE (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+     "harga": "Rp 6,399,000"
+    },
+    {
+     "name": "MSI MPG X570 Gaming Pro Carbon Wifi (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+     "harga": "Rp 4,699,000"
+    },
+    {
+     "name": "MSI MPG X570 Gaming Edge Wifi (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+     "harga": "Rp 3,699,000"
+    },
+    {
+     "name": "MSI MPG X570 Gaming Plus (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+     "harga": "Rp 3,199,000"
+    },
+    {
+     "name": "MSI X570-A Pro (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+     "harga": "Rp 2,849,000"
+    },
+    {
+     "name": "MSI X470 Gaming Pro Carbon (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 3,620,000"
+    },
+    {
+     "name": "MSI X470 Gaming Pro (AM4, AMD Promontory X470, DDR4, USB 3.1, SATA3)",
+     "harga": "Rp 3,230,000"
+    },
+    {
+     "name": "MSI X470 Gaming Plus (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,840,000"
+    },
+    {
+     "name": "MSI X370 Krait Gaming (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,985,000"
+    },
+    {
+     "name": "MSI X370 Gaming Plus (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,885,000"
+    },
+    {
+     "name": "MSI B450 Tomahawk (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,145,000"
+    },
+    {
+     "name": "MSI B450 Gaming Plus (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,950,000"
+    },
+    {
+     "name": "MSI B450-A Pro (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,542,000"
+    },
+    {
+     "name": "MSI B450M Mortar Titanium (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,047,000"
+    },
+    {
+     "name": "MSI B450M Mortar (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,949,000"
+    },
+    {
+     "name": "MSI B450M Bazooka Plus (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,755,000"
+    },
+    {
+     "name": "MSI B450M Gaming Plus (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,465,000"
+    },
+    {
+     "name": "MSI B450M Pro VDH Plus (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,222,000"
+    },
+    {
+     "name": "MSI B450M Pro-M2 V2 (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,105,000"
+    },
+    {
+     "name": "MSI A320M Pro M2 (AM4, AMD Promontory A320, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 785,000"
+    },
+    {
+     "name": "MSI A320M Pro E (AM4, AMD Promontory A320, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 737,000"
+    },
+    {
+     "name": "MSI A320M Pro VD/S (AM4, AMD Promontory A320, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 737,000"
+    },
+    {
+     "name": "ASRock X570 Taichi (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+     "harga": "Rp 5,350,000"
+    },
+    {
+     "name": "ASRock X570 Steel Legend (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+     "harga": "Rp 3,780,000"
+    },
+    {
+     "name": "ASRock X570 Phantom Gaming 4 (AM4, AMD Premium X570, DDR4, USB3.2, SATA3)",
+     "harga": "Rp 2,820,000"
+    },
+    {
+     "name": "ASRock X470 Taichi (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 3,745,000"
+    },
+    {
+     "name": "ASRock X470 Gaming-ITX/ac (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 3,095,000"
+    },
+    {
+     "name": "ASRock Fatal1ty X470 Gaming K4 (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,820,000"
+    },
+    {
+     "name": "ASRock X470 Master SLI (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,410,000"
+    },
+    {
+     "name": "ASRock Fatal1ty X370 Professional Gaming (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 4,079,000"
+    },
+    {
+     "name": "ASRock Fatal1ty X370 Gaming ITX (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,760,000"
+    },
+    {
+     "name": "ASRock Fatal1ty X370 Gaming X (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,210,000"
+    },
+    {
+     "name": "ASRock X370 Pro4 (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,235,000"
+    },
+    {
+     "name": "ASRock X370M-Pro4 (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,045,000"
+    },
+    {
+     "name": "ASRock X370M-HDV (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 955,000"
+    },
+    {
+     "name": "ASRock B450 Gaming-ITX (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,235,000"
+    },
+    {
+     "name": "ASRock B450 Steel Legend (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,780,000"
+    },
+    {
+     "name": "ASRock B450 Pro 4 (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,340,000"
+    },
+    {
+     "name": "ASRock B450M Steel Legend (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,550,000"
+    },
+    {
+     "name": "ASRock B450M-HDV (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,060,000"
+    },
+    {
+     "name": "ASRock A320M-HDV (AM4, AMD Promontory A320, DDR4, USB 3.1, SATA3)",
+     "harga": "Rp 695,000"
+    },
+    {
+     "name": "Biostar Racing X470GT8 (AM4, AMD Promontory X470, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,967,000"
+    },
+    {
+     "name": "Biostar X370GT7 (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 2,430,000"
+    },
+    {
+     "name": "Biostar X370GT5 (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,885,000"
+    },
+    {
+     "name": "Biostar X370GT3 (AM4, AMD Promontory X370, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,594,000"
+    },
+    {
+     "name": "Biostar Racing B450GT3 (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,162,000"
+    },
+    {
+     "name": "Biostar B450MHC (AM4, AMD Promontory B450, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 989,000"
+    },
+    {
+     "name": "Biostar B45M2 (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 874,000"
+    },
+    {
+     "name": "Biostar TB350-BTC (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3) - Bundled Riser 6Pcs",
+     "harga": "Rp 1,306,000"
+    },
+    {
+     "name": "Biostar TB350-BTC (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,032,000"
+    },
+    {
+     "name": "Biostar B350GT5 (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,349,000"
+    },
+    {
+     "name": "Biostar B350ET2 (AM4, AMD Promontory B350, DDR4, USB3.1, SATA3)",
+     "harga": "Rp 1,004,000"
+    },
+    {
+     "name": "Biostar A320MH PRO (AM4, AMD Promontory A320, DDR4, USB 3.1, SATA3)",
+     "harga": "Rp 716,000"
+    },
+    {
+     "name": "Biostar A320MH (AM4, AMD Promontory A320, DDR4, USB 3.1, SATA3)",
+     "harga": "Rp 687,000"
+    },
+    {
+     "name": "ECS B350AM4-M2 (AM4, AMD Promontory B350, DDR4, USB3.0, SATA3)",
+     "harga": "Rp 1,035,000"
+    },
+    {
+     "name": "ECS A320AM4-M3 (AM4, AMD Promontory A320, DDR4, SATA3)",
+     "harga": "Rp 830,000"
+    },
+    {
+     "name": "Biostar A960D+ (AM3+, AMD960, DDR3 2000, USB3, SATA3)",
+     "harga": "Rp 766,000"
+    },
+    {
+     "name": "Gigabyte GA-AM1M-S2P (AM1, AMD AM1, DDR3, USB3 ,SATA3)",
+     "harga": "Rp 339,000"
+    },
+    {
+     "name": "Gigabyte GA-78LMT-USB3 (AM3, AMD 760G, DDR3)",
+     "harga": "Rp 910,000"
+    },
+    {
+     "name": "MAXSUN (By SOYO) MS-A88 Gaming PRO (FM2+, A88, DDR3, VGA+DVI+HDMI)",
+     "harga": "Rp 850,000"
+    },
+    {
+     "name": "MAXSUN (By SOYO) MS-A88FE Turbo M.2 (FM2+, A85, DDR3, VGA+DVI)",
+     "harga": "Rp 580,000"
+    },
+    {
+     "name": "MAXSUN (By SOYO) MS-A68GL+ M.2 (FM2+, A68, DDR3, VGA+DVI)",
+     "harga": "Rp 580,000"
+    },
+    {
+     "name": "Colorful Battle AXE C.A88MK V14 (FM2/FM2+, A88, DDR3, VGA, DVI, HDMI)",
+     "harga": "Rp 750,000"
+    },
+    {
+     "name": "Colorful C.A68M-P Plus V16 (FM2/FM2+, A68, DDR3, VGA, HDMI)",
+     "harga": "Rp 570,000"
+    },
+    {
+     "name": "Biostar HI-FI A88W 3D (FM2+, AMD A88, DDR3, SATA3, USB3)",
+     "harga": "Rp 1,364,000"
+    },
+    {
+     "name": "Biostar HI-FI K1-A (FM2+, AMD A88X, DDR3, SATA3, USB3)",
+     "harga": "Rp 989,000"
+    },
+    {
+     "name": "Biostar A88MQ (FM2+, AMD A88, DDR3, SATA3, USB3)",
+     "harga": "Rp 874,000"
+    },
+    {
+     "name": "Biostar Hi-Fi A70U3P (FM2+, AMD A70M, DDR3, SATA3, USB3)",
+     "harga": "Rp 672,000"
+    },
+    {
+     "name": "Biostar HI-FI A68U3P (FM2+, AMD A68H, DDR3)",
+     "harga": "Rp 644,000"
+    },
+    {
+     "name": "Biostar A68MDE (FM2+, A68, DDR3)",
+     "harga": "Rp 586,000"
+    },
+    {
+     "name": "MSI A68HM-E33 V2 (FM2+, AMD A68, DDR3, USB3)",
+     "harga": "Rp 689,000"
+    },
+    {
+     "name": "Asus A68HM-K (FM2+, A68, DDR3)",
+     "harga": "Rp 740,000"
+    },
+    {
+     "name": "Gigabyte G1.Sniper A88X (AMD A88X, 2xDDR3, VGA, 2PCI-E)",
+     "harga": "Rp 1,689,000"
+    },
+    {
+     "name": "Gigabyte GA-F2A88XM-HD3P (AMD A88X, 2xDDR3, VGA, 2PCI-E)",
+     "harga": "Rp 1,360,000"
+    },
+    {
+     "name": "Gigabyte GA-F2A68HM-H (AMD A68, 2xDDR3, VGA, 2PCI-E)",
+     "harga": "Rp 849,000"
+    },
+    {
+     "name": "Gigabyte GA-F2A68HM-DS2 (AMD A68, 2xDDR3, VGA, 2PCI-E)",
+     "harga": "Rp 735,000"
+    },
+    {
+     "name": "Gigabyte GA-F2A68HM-S1 (AMD A68, 2xDDR3, VGA, 2PCI-E)",
+     "harga": "Rp 750,000"
+    },
+    {
+     "name": "ASRock FM2A68M-HD+ (FM2+, AMD A68H, DDR3)",
+     "harga": "Rp 700,000"
+    },
+    {
+     "name": "ASRock FM2A68M-DG3+ (FM2+, AMD A68H, DDR3)",
+     "harga": "Rp 599,000"
+    },
+    {
+     "name": "ECS A68F2P-M4 (FM2+, A68, DDR3)",
+     "harga": "Rp 650,000"
+    },
+    {
+     "name": "ECS A68F2P-M2 (FM2+, A68, DDR3)",
+     "harga": "Rp 695,000"
+    },
+    {
+     "name": "Biostar A10N-8800E (Built-up CPU AMD APU FX-8800P Quad Core, DDR4, HDMI, AMD Radeon R7)",
+     "harga": "Rp 1,119,000"
+    },
+    {
+     "name": "Biostar A68N-5600 (Built-up CPU AMD APU A10-4655 Quad Core, DDR3, HDMI, HD7620G)",
+     "harga": "Rp 1,061,000"
+    },
+    {
+     "name": "Biostar A68N-5600E (Built-up CPU AMD APU A4-3350B Quad Core, DDR3, HDMI, AMD Radeon R4)",
+     "harga": "Rp 975,000"
+    },
+    {
+     "name": "Biostar A68N-5200 (Built-up CPU AMD APU A6-5200 Quad Core, DDR3, HDMI, HD8400)",
+     "harga": "Rp 938,000"
+    },
+    {
+     "name": "Biostar A68N-5100 (Built-up CPU AMD APU A4-5100 Quad Core, DDR3, HDMI, HD8330)",
+     "harga": "Rp 845,000"
+    },
+    {
+     "name": "Biostar A68N-5000 (Built-up CPU AMD APU A4-5000 Quad Core, DDR3, HDMI, HD8330)",
+     "harga": "Rp 802,000"
+    },
+    {
+     "name": "Biostar Bio Remote Control (Microsoft Media Center MCE Work with Win 7 / Vista /XP)",
+     "harga": "Rp 50,000"
+    },
+    {
+     "name": "MAXSUN (By SOYO) MS-A10 4600 (Onboard AMD A10-4600 2.3GHZ, DDR3, VGA+HDMI)",
+     "harga": "Rp 1,030,000"
+    }
