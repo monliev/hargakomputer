@@ -1,6 +1,4 @@
-"tipe": "Motherboard",
-   "url": "https://www.enterkomputer.id/motherboard.php",
-   "jenis": [
+[
     {
      "name": "Asus H61M-A (LGA1155, Intel H61, DDR3)",
      "harga": "Rp 960,000"
@@ -1241,3 +1239,4 @@
      "name": "MAXSUN (By SOYO) MS-A10 4600 (Onboard AMD A10-4600 2.3GHZ, DDR3, VGA+HDMI)",
      "harga": "Rp 1,030,000"
     }
+]
