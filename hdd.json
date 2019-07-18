@@ -1,6 +1,4 @@
-"tipe": "Harddisk",
-   "url": "https://www.enterkomputer.id/harddisk.php",
-   "jenis": [
+[
     {
      "name": "Samsung SSD 970 EVO PLUS M.2 500GB MZ-V7S500BW - Grs 5th",
      "harga": "Rp 2,430,000"
@@ -1065,3 +1063,4 @@
      "name": "Kingston Wi-Drive 32GB (Wifi Support To iPad, iPhone, Android)",
      "harga": "Rp 610,000"
     }
+]
