@@ -1,0 +1,826 @@
+[
+ {
+  "name": "Toshiba SD Card Exceria Type 1 (R95MB/s & W90MB/s) - 16GB",
+  "harga": "Rp 125,000"
+ },
+ {
+  "name": "Strontium Nitro Plus U3 4K SDHC 128GB (Read 80MB/s - Write 60/MB/s)",
+  "harga": "Rp 500,000"
+ },
+ {
+  "name": "Sandisk SDHC Ultra 32GB Class 10 UHS-1 80MB/s - SDSDUNC-032G",
+  "harga": "Rp 88,000"
+ },
+ {
+  "name": "Sandisk SDHC Ultra 16GB Class 10 UHS-1 80MB/s - SDSDUNC-016G",
+  "harga": "Rp 57,000"
+ },
+ {
+  "name": "Sandisk MicroSD Ultra 100MB/S 64GB Class 10 UHS-1 - SDSQUAR-064G A1",
+  "harga": "Rp 146,000"
+ },
+ {
+  "name": "Sandisk MicroSD Ultra 98MB/S 32GB Class 10 UHS-1 - SDSQUAR-032G A1",
+  "harga": "Rp 72,000"
+ },
+ {
+  "name": "Sandisk MicroSD Ultra 98MB/S 16GB Class 10 UHS-1 - SDSQUAR-016G A1",
+  "harga": "Rp 50,000"
+ },
+ {
+  "name": "Sandisk MicroSD Ultra 80MB/S 64GB Class 10 UHS-1 - SDSQUNS-064G",
+  "harga": "Rp 113,000"
+ },
+ {
+  "name": "Sandisk MicroSD Ultra 80MB/S 32GB Class 10 UHS-1 - SDSQUNS-032G",
+  "harga": "Rp 61,000"
+ },
+ {
+  "name": "Sandisk MicroSD Ultra 80MB/S 16GB Class 10 UHS-1 - SDSQUNS-016G",
+  "harga": "Rp 41,000"
+ },
+ {
+  "name": "KLEVV NEO MicroSD 90MB/S 64GB Class 10 UHS-1 - U064GUC1U18-D",
+  "harga": "Rp 141,000"
+ },
+ {
+  "name": "KLEVV NEO MicroSD 90MB/S 32GB Class 10 UHS-1 - U032GUC1U18-D",
+  "harga": "Rp 69,000"
+ },
+ {
+  "name": "KLEVV NEO MicroSD 90MB/S 16GB Class 10 UHS-1 - U016GUC1U18-D",
+  "harga": "Rp 47,000"
+ },
+ {
+  "name": "Team MiDrive For Macbook 64GB",
+  "harga": "Rp 230,000"
+ },
+ {
+  "name": "Team MiDrive For Macbook 128GB",
+  "harga": "Rp 425,000"
+ },
+ {
+  "name": "Team Micro SD 16GB Class 10 + Adapter (20MB/S) (By Megakom)",
+  "harga": "Rp 56,000"
+ },
+ {
+  "name": "Team Micro SD UHS-1 16GB (80MB/S)",
+  "harga": "Rp 72,000"
+ },
+ {
+  "name": "Team Micro SD UHS-1 32GB (80MB/S)",
+  "harga": "Rp 103,000"
+ },
+ {
+  "name": "Team Micro SD UHS-1 64GB (80MB/S)",
+  "harga": "Rp 215,000"
+ },
+ {
+  "name": "Team Micro SD UHS-1 128GB (80MB/S)",
+  "harga": "Rp 410,000"
+ },
+ {
+  "name": "Team Micro SD UHS-1 16GB + USB Card Reader (80MB/S)",
+  "harga": "Rp 87,000"
+ },
+ {
+  "name": "Team Micro SD UHS-1 32GB + USB Card Reader (80MB/S)",
+  "harga": "Rp 118,000"
+ },
+ {
+  "name": "Team Micro SD UHS-1 64GB + USB Card Reader (80MB/S)",
+  "harga": "Rp 230,000"
+ },
+ {
+  "name": "Team Micro SD UHS-3 4K 32GB + Adapter Color Series (90MB/s)",
+  "harga": "Rp 172,000"
+ },
+ {
+  "name": "Team Micro SD UHS-3 4K 64GB + Adapter Color Series (90MB/s)",
+  "harga": "Rp 230,000"
+ },
+ {
+  "name": "Team Micro SD UHS-3 4K 128GB + Adapter Color Series (90MB/s)",
+  "harga": "Rp 425,000"
+ },
+ {
+  "name": "Team Micro SD UHS-3 64GB + Adapter",
+  "harga": "Rp 895,000"
+ },
+ {
+  "name": "Team Micro SD UHS-3 128GB + Adapter(250MB/S)",
+  "harga": "Rp 2,060,000"
+ },
+ {
+  "name": "Team Xtreem Micro SD UHS-3 U3 16GB (90MB/S)",
+  "harga": "Rp 74,000"
+ },
+ {
+  "name": "Team Xtreem Micro SD UHS-3 U3 32GB (90MB/S)",
+  "harga": "Rp 170,000"
+ },
+ {
+  "name": "Team Xtreem Micro SD UHS-3 U3 64GB (90MB/S)",
+  "harga": "Rp 228,000"
+ },
+ {
+  "name": "Team Micro SDXC U1 256GB (80MB/s)",
+  "harga": "Rp 1,080,000"
+ },
+ {
+  "name": "Team SDHC 16GB Class 6",
+  "harga": "Rp 55,000"
+ },
+ {
+  "name": "Team SDHC UHS-1 8GB (40MB/S)",
+  "harga": "Rp 48,000"
+ },
+ {
+  "name": "Team SDHC UHS-1 16GB (40MB/S)",
+  "harga": "Rp 110,000"
+ },
+ {
+  "name": "Team SDHC UHS-1 64GB (40MB/S)",
+  "harga": "Rp 168,000"
+ },
+ {
+  "name": "Team Xtreem SDHC UHS-1 8GB (85MB/s Reading And 25MB/s Writing)",
+  "harga": "Rp 80,000"
+ },
+ {
+  "name": "Team Xtreem SDHC UHS-1 16GB (85MB/s Reading And 45MB/s Writing)",
+  "harga": "Rp 160,000"
+ },
+ {
+  "name": "Team Xtreem SDHC UHS-1 32GB (85MB/s Reading And 45MB/s Writing)",
+  "harga": "Rp 225,000"
+ },
+ {
+  "name": "Team Xtreem SDHC UHS-1 64GB (85MB/s Reading And 45MB/s Writing)",
+  "harga": "Rp 258,000"
+ },
+ {
+  "name": "Team Compact Flash 16GB CF 600X (R90MB/S And W93MB/s)",
+  "harga": "Rp 305,000"
+ },
+ {
+  "name": "Team Compact Flash 32GB CF 600X (R90MB/S And W93MB/s)",
+  "harga": "Rp 360,000"
+ },
+ {
+  "name": "Team Compact Flash 64GB CF 1000X (R150MB/S And W80MB/s)",
+  "harga": "Rp 910,000"
+ },
+ {
+  "name": "Team Compact Flash 128GB CF 1000X (R150MB/S And W80MB/s)",
+  "harga": "Rp 1,790,000"
+ },
+ {
+  "name": "Toshiba SD Card Exceria Type 1 (R95MB/s & W90MB/s) - 16GB",
+  "harga": "Rp 125,000"
+ },
+ {
+  "name": "Toshiba SD Card Exceria Type 1 (R95MB/s & W90MB/s) - 32GB",
+  "harga": "Rp 300,000"
+ },
+ {
+  "name": "Toshiba FlashAir Wireless SD Card CL10 32GB - Made In Japan",
+  "harga": "Rp 440,000"
+ },
+ {
+  "name": "Toshiba MicroSD Exceria 32GB 90MB/s - THN-M302R0320C4",
+  "harga": "Rp 110,000"
+ },
+ {
+  "name": "Strontium Nitro Plus U3 4K SDHC 128GB (Read 80MB/s - Write 60/MB/s)",
+  "harga": "Rp 500,000"
+ },
+ {
+  "name": "V-GeN SD Card 8GB",
+  "harga": "Rp 50,000"
+ },
+ {
+  "name": "V-GeN SD Card 16GB Turbo",
+  "harga": "Rp 54,000"
+ },
+ {
+  "name": "V-GeN SD Card 32GB Turbo",
+  "harga": "Rp 79,000"
+ },
+ {
+  "name": "V-GeN SD Card 16GB Hyper",
+  "harga": "Rp 106,000"
+ },
+ {
+  "name": "V-GeN SD Card 32GB Hyper",
+  "harga": "Rp 180,000"
+ },
+ {
+  "name": "V-GeN SD Card 32GB Hyper Evo",
+  "harga": "Rp 593,000"
+ },
+ {
+  "name": "V-GeN SD Card 64GB Turbo",
+  "harga": "Rp 136,000"
+ },
+ {
+  "name": "V-GeN SD Card 128GB Turbo",
+  "harga": "Rp 285,000"
+ },
+ {
+  "name": "V-GeN SD Card 256GB Turbo",
+  "harga": "Rp 1,293,000"
+ },
+ {
+  "name": "V-GeN SD Card 512GB Turbo",
+  "harga": "Rp 2,698,000"
+ },
+ {
+  "name": "V-GeN SD Card 64GB Hyper",
+  "harga": "Rp 304,000"
+ },
+ {
+  "name": "V-GeN SD Card 128GB Hyper",
+  "harga": "Rp 577,000"
+ },
+ {
+  "name": "V-GeN SD Card 256GB Hyper",
+  "harga": "Rp 1,097,000"
+ },
+ {
+  "name": "V-GeN SD Card 512GB Hyper",
+  "harga": "Rp 1,993,000"
+ },
+ {
+  "name": "V-GeN SD Card 64GB Hyper Evo",
+  "harga": "Rp 993,000"
+ },
+ {
+  "name": "V-GeN Micro SD 8GB With SD Adapter",
+  "harga": "Rp 45,000"
+ },
+ {
+  "name": "V-GeN Micro SD 16GB With SD Adapter",
+  "harga": "Rp 46,000"
+ },
+ {
+  "name": "V-GeN Micro SD 32GB With SD Adapter",
+  "harga": "Rp 62,000"
+ },
+ {
+  "name": "V-GeN Micro SD 8GB Non SD Adapter",
+  "harga": "Rp 43,000"
+ },
+ {
+  "name": "V-GeN Micro SD 16GB Non SD Adapter",
+  "harga": "Rp 44,000"
+ },
+ {
+  "name": "V-GeN Micro SD 32GB Non SD Adapter",
+  "harga": "Rp 60,000"
+ },
+ {
+  "name": "V-GeN Micro SD 8GB Turbo With SD Adapter",
+  "harga": "Rp 47,000"
+ },
+ {
+  "name": "V-GeN Micro SD 16GB Turbo With SD Adapter",
+  "harga": "Rp 49,000"
+ },
+ {
+  "name": "V-GeN Micro SD 32GB Turbo With SD Adapter",
+  "harga": "Rp 64,000"
+ },
+ {
+  "name": "V-GeN Micro SD 64GB Turbo With SD Adapter",
+  "harga": "Rp 112,000"
+ },
+ {
+  "name": "V-GeN Micro SD 128GB Turbo With SD Adapter",
+  "harga": "Rp 214,000"
+ },
+ {
+  "name": "V-GeN Micro SD 256GB Turbo With SD Adapter",
+  "harga": "Rp 439,000"
+ },
+ {
+  "name": "V-GeN Micro SD 16GB Hyper With SD Adapter",
+  "harga": "Rp 94,000"
+ },
+ {
+  "name": "V-GeN Micro SD 32GB Hyper With SD Adapter",
+  "harga": "Rp 164,000"
+ },
+ {
+  "name": "V-GeN Micro SD 64GB Hyper With SD Adapter",
+  "harga": "Rp 274,000"
+ },
+ {
+  "name": "V-GeN Micro SD 128GB Hyper With SD Adapter",
+  "harga": "Rp 549,000"
+ },
+ {
+  "name": "V-GeN Micro SD 256GB Hyper With SD Adapter",
+  "harga": "Rp 908,000"
+ },
+ {
+  "name": "V-GeN Micro SD 512GB Hyper With SD Adapter",
+  "harga": "Rp 1,898,000"
+ },
+ {
+  "name": "Adata MicroSD 32GB Class 10",
+  "harga": "Rp 95,000"
+ },
+ {
+  "name": "Adata MicroSD 64GB Class 10",
+  "harga": "Rp 124,000"
+ },
+ {
+  "name": "Adata MicroSD 16GB Class 10 UHS-1 85MB/s + Adapter - By Omega",
+  "harga": "Rp 123,000"
+ },
+ {
+  "name": "Adata MicroSD 32GB Class 10 UHS-1 85MB/s + Adapter - By Omega",
+  "harga": "Rp 202,000"
+ },
+ {
+  "name": "Adata MicroSD 64GB Class 10 UHS-1 85MB/s + Adapter - By Omega",
+  "harga": "Rp 380,000"
+ },
+ {
+  "name": "Adata SDHC 16GB UHS-1 50MB/s - By Omega",
+  "harga": "Rp 131,000"
+ },
+ {
+  "name": "Adata SDHC 32GB UHS-1 50MB/s - By Omega",
+  "harga": "Rp 219,000"
+ },
+ {
+  "name": "Adata SDHC 64GB UHS-1 50MB/s - By Omega",
+  "harga": "Rp 384,000"
+ },
+ {
+  "name": "Adata SDHC 64GB U3 UHS-1 95MB/s - By Omega",
+  "harga": "Rp 538,000"
+ },
+ {
+  "name": "KLEVV NEO MicroSD 90MB/S 16GB Class 10 UHS-1 - U016GUC1U18-D",
+  "harga": "Rp 47,000"
+ },
+ {
+  "name": "KLEVV NEO MicroSD 90MB/S 32GB Class 10 UHS-1 - U032GUC1U18-D",
+  "harga": "Rp 69,000"
+ },
+ {
+  "name": "KLEVV NEO MicroSD 90MB/S 64GB Class 10 UHS-1 - U064GUC1U18-D",
+  "harga": "Rp 141,000"
+ },
+ {
+  "name": "Sandisk MicroSD Ultra 80MB/S 16GB Class 10 UHS-1 - SDSQUNS-016G",
+  "harga": "Rp 41,000"
+ },
+ {
+  "name": "Sandisk MicroSD Ultra 80MB/S 32GB Class 10 UHS-1 - SDSQUNS-032G",
+  "harga": "Rp 61,000"
+ },
+ {
+  "name": "Sandisk MicroSD Ultra 80MB/S 64GB Class 10 UHS-1 - SDSQUNS-064G",
+  "harga": "Rp 113,000"
+ },
+ {
+  "name": "Sandisk MicroSD Ultra 80MB/S 128GB Class 10 UHS-1 - SDSQUNS-128G",
+  "harga": "Rp 219,000"
+ },
+ {
+  "name": "Sandisk MicroSD Ultra 98MB/S 16GB Class 10 UHS-1 - SDSQUAR-016G A1",
+  "harga": "Rp 50,000"
+ },
+ {
+  "name": "Sandisk MicroSD Ultra 98MB/S 32GB Class 10 UHS-1 - SDSQUAR-032G A1",
+  "harga": "Rp 72,000"
+ },
+ {
+  "name": "Sandisk MicroSD Ultra 100MB/S 64GB Class 10 UHS-1 - SDSQUAR-064G A1",
+  "harga": "Rp 146,000"
+ },
+ {
+  "name": "Sandisk MicroSD Ultra 100MB/S 128GB Class 10 UHS-1 - SDSQUAR-128G A1",
+  "harga": "Rp 275,000"
+ },
+ {
+  "name": "Sandisk MicroSD Ultra 100MB/S 200GB Class 10 UHS-1 - SDSQUAR-200G A1",
+  "harga": "Rp 510,000"
+ },
+ {
+  "name": "Sandisk MicroSD Ultra 100MB/S 256GB Class 10 UHS-1 - SDSQUAR-256G A1",
+  "harga": "Rp 720,000"
+ },
+ {
+  "name": "Sandisk MicroSD Ultra 100MB/S 400GB Class 10 UHS-1 - SDSQUAR-400G A1",
+  "harga": "Rp 1,260,000"
+ },
+ {
+  "name": "Sandisk MicroSD Extreme 32GB U3 4K V30 R100MB/s W60MB/s - SDSQXAF-032G V30 A1",
+  "harga": "Rp 123,000"
+ },
+ {
+  "name": "Sandisk MicroSD Extreme 128GB U3 4K V30 R100MB/s W60MB/s - SDSQXAF-128G V30 A1",
+  "harga": "Rp 440,000"
+ },
+ {
+  "name": "Sandisk MicroSD Extreme 64GB U3 4K V30 R160MB/s W60MB/s - SDSQXA2-064G V30 A2",
+  "harga": "Rp 220,000"
+ },
+ {
+  "name": "Sandisk MicroSD Extreme 128GB U3 4K V30 R160MB/s W90MB/s - SDSQXA1-128G V30 A2",
+  "harga": "Rp 405,000"
+ },
+ {
+  "name": "Sandisk MicroSD Extreme 256GB U3 4K V30 R160MB/s W90MB/s - SDSQXA1-256G V30 A2",
+  "harga": "Rp 1,010,000"
+ },
+ {
+  "name": "Sandisk MicroSD Extreme 400GB U3 4K V30 R160MB/s W90MB/s - SDSQXA1-400G V30 A2",
+  "harga": "Rp 2,015,000"
+ },
+ {
+  "name": "Sandisk MicroSD Extreme Pro 32GB Class 10 UHS-1 R100MB/s W90MB/S V30 A1 - SDSQXCG-032G",
+  "harga": "Rp 165,000"
+ },
+ {
+  "name": "Sandisk MicroSD Extreme Pro 64GB Class 10 UHS-1 R170MB/s W90MB/S V30 A2 - SDSQXCY-064G",
+  "harga": "Rp 300,000"
+ },
+ {
+  "name": "Sandisk MicroSD Extreme Pro 128GB U3 4K V30 R170MB/s W90MB/s V30 A2 - SDSQXCY-128G",
+  "harga": "Rp 510,000"
+ },
+ {
+  "name": "Sandisk MicroSD Extreme Pro 256GB U3 4K V30 R170MB/s W90MB/s V30 A2 - SDSQXCZ-256G",
+  "harga": "Rp 1,110,000"
+ },
+ {
+  "name": "Sandisk MicroSD Extreme Pro U3 4K UHS-II 64GB R275MB/s W100MB/s - SDSQXPJ-064G",
+  "harga": "Rp 860,000"
+ },
+ {
+  "name": "Sandisk MicroSD Extreme Pro U3 4K UHS-II 128GB R275MB/s W100MB/s - SDSQXPJ-128G",
+  "harga": "Rp 1,660,000"
+ },
+ {
+  "name": "Sandisk SDHC Ultra 16GB Class 10 UHS-1 48MB/s - SDSDUNB-016G",
+  "harga": "Rp 53,500"
+ },
+ {
+  "name": "Sandisk SDHC Ultra 32GB Class 10 UHS-1 48MB/s - SDSDUNB-032G",
+  "harga": "Rp 80,000"
+ },
+ {
+  "name": "Sandisk SDHC Ultra 64GB Class 10 UHS-1 48MB/s - SDSDUNB-064G",
+  "harga": "Rp 148,000"
+ },
+ {
+  "name": "Sandisk SDHC Ultra 16GB Class 10 UHS-1 80MB/s - SDSDUNC-016G",
+  "harga": "Rp 57,000"
+ },
+ {
+  "name": "Sandisk SDHC Ultra 32GB Class 10 UHS-1 80MB/s - SDSDUNC-032G",
+  "harga": "Rp 88,000"
+ },
+ {
+  "name": "Sandisk SDHC Ultra 64GB Class 10 UHS-1 80MB/s - SDSDUNC-064G",
+  "harga": "Rp 166,000"
+ },
+ {
+  "name": "Sandisk SDHC Ultra 128GB Class 10 UHS-1 80MB/s - SDSDUNC-128G",
+  "harga": "Rp 310,000"
+ },
+ {
+  "name": "SanDisk SDHC Extreme 32GB Class 10 U3 4K V30 90MB/s - SDSDXVE-032G",
+  "harga": "Rp 120,000"
+ },
+ {
+  "name": "SanDisk SDHC Extreme 64GB Class 10 U3 4K V30 R150MB/s W60MB/s - SDSDXV6-064G",
+  "harga": "Rp 227,000"
+ },
+ {
+  "name": "SanDisk SDHC Extreme 128GB Class 10 U3 4K V30 R150MB/s W70MB/s - SDSDXV5-128G",
+  "harga": "Rp 460,000"
+ },
+ {
+  "name": "SanDisk SDHC Extreme 256GB Class 10 U3/UHS-I 90MB/s - SDSDXVF-256G",
+  "harga": "Rp 840,000"
+ },
+ {
+  "name": "SanDisk SDHC Extreme 256GB Class 10 U3 4K V30 R150MB/s W70MB/s - SDSDXV5-256G",
+  "harga": "Rp 900,000"
+ },
+ {
+  "name": "Sandisk SDHC Extreme Pro 32GB V30 R95MB/s W90MB/s - SDSDXXG-032G",
+  "harga": "Rp 179,000"
+ },
+ {
+  "name": "Sandisk SDHC Extreme Pro 64GB V30 R170MB/s W90MB/s - SDSDXXY-064G",
+  "harga": "Rp 315,000"
+ },
+ {
+  "name": "Sandisk SDHC Extreme Pro 128GB V30 R95MB/s W90MB/S - SDSDXXG-128G",
+  "harga": "Rp 605,000"
+ },
+ {
+  "name": "Sandisk SDHC Extreme Pro 128GB V30 R170MB/s W90MB/s - SDSDXXY-128G",
+  "harga": "Rp 640,000"
+ },
+ {
+  "name": "Sandisk SDHC Extreme Pro 256GB V30 R95MB/s W90MB/S - SDSDXXG-256G",
+  "harga": "Rp 1,190,000"
+ },
+ {
+  "name": "Sandisk SDHC Extreme Pro 256GB V30 R170MB/s W90MB/s - SDSDXXY-256G",
+  "harga": "Rp 1,260,000"
+ },
+ {
+  "name": "Sandisk SDHC Extreme Pro 512GB Class 10 UHS-1 95MB/s - SDSDXPA-512G - INDENT - CONTACT OUR CS",
+  "harga": "Rp 3,610,000"
+ },
+ {
+  "name": "SanDisk SDHC Extreme PRO 32GB UHS-II 300MB/s - SDSDXPK-032GB",
+  "harga": "Rp 919,000"
+ },
+ {
+  "name": "SanDisk SDHC Extreme PRO 64GB UHS-II 300MB/s - SDSDXPK-064GB",
+  "harga": "Rp 1,665,000"
+ },
+ {
+  "name": "SanDisk SDHC Extreme PRO 128GB UHS-II 300MB/s - SDSDXPK-128GB",
+  "harga": "Rp 2,965,000"
+ },
+ {
+  "name": "Sandisk Extreme CF, 16GB, 120MB/60MB/s, UDMA 7 + VPG 20",
+  "harga": "Rp 380,000"
+ },
+ {
+  "name": "Sandisk Extreme CF, 32GB, 120MB/60MB/s, UDMA 7 + VPG 20",
+  "harga": "Rp 450,000"
+ },
+ {
+  "name": "Sandisk Extreme CF, 64GB, 120MB/60MB/s, UDMA 7 + VPG 20",
+  "harga": "Rp 680,000"
+ },
+ {
+  "name": "Sandisk Extreme CF, 128GB, 120MB/60MB/s, UDMA 7 + VPG 20",
+  "harga": "Rp 1,225,000"
+ },
+ {
+  "name": "Sandisk Extreme Pro CF, 32GB, 160MB/150MB/s, UDMA 7+VPG65",
+  "harga": "Rp 700,000"
+ },
+ {
+  "name": "Sandisk Extreme Pro CF, 64GB, 160MB/150MB/s, UDMA 7+VPG65",
+  "harga": "Rp 1,160,000"
+ },
+ {
+  "name": "Transcend Micro-SDHC 300S 16GB Class 10 UHS-1 - TS16GUSD300S-A",
+  "harga": "Rp 68,000"
+ },
+ {
+  "name": "Transcend Micro-SDHC 300S 32GB Class 10 UHS-1 - TS32GUSD300S-A",
+  "harga": "Rp 83,000"
+ },
+ {
+  "name": "Transcend Micro-SDXC 300S 64GB Class 10 UHS-1 - TS64GUSD300S-A",
+  "harga": "Rp 125,000"
+ },
+ {
+  "name": "Transcend Micro-SDXC 300S 128GB Class 10 UHS-1 U3 A1 V30 - TS128GUSD300S-A",
+  "harga": "Rp 220,000"
+ },
+ {
+  "name": "Transcend Micro-SDXC 300S 256GB Class 10 UHS-1 U3 A1 V30 - TS256GUSD300S-A",
+  "harga": "Rp 430,000"
+ },
+ {
+  "name": "Transcend Micro-SDXC 330S 64GB Class 10 UHS-1 U3 A2 V30 - TS64GUSD330S",
+  "harga": "Rp 210,000"
+ },
+ {
+  "name": "Transcend Micro-SDXC 330S 128GB Class 10 UHS-1 U3 A2 V30 - TS128GUSD330S",
+  "harga": "Rp 350,000"
+ },
+ {
+  "name": "Transcend Micro-SDXC 350V 64GB Class 10 UHS-1 - TS64GUSD350V",
+  "harga": "Rp 235,000"
+ },
+ {
+  "name": "Transcend Micro-SDXC 350V 128GB Class 10 UHS-1 - TS128GUSD350V",
+  "harga": "Rp 457,000"
+ },
+ {
+  "name": "Transcend Micro-SDHC 500S 16GB Class 10 UHS-1 U3 V30 - TS16GUSD500S",
+  "harga": "Rp 145,000"
+ },
+ {
+  "name": "Transcend Micro-SDHC 500S 32GB Class 10 UHS-1 U3 V30 - TS32GUSD500S",
+  "harga": "Rp 267,000"
+ },
+ {
+  "name": "Transcend Micro-SDHC High Endurance 32GB Class 10 UHS-1 - TS32GUSDHC10V",
+  "harga": "Rp 285,000"
+ },
+ {
+  "name": "Transcend Micro-SDXC High Endurance 64GB Class 10 UHS-1 - TS64GUSDXC10V",
+  "harga": "Rp 610,000"
+ },
+ {
+  "name": "Transcend Micro-SDXC High Endurance 128GB Class 10 UHS-1 - TS128GUSDXC10V",
+  "harga": "Rp 1,680,000"
+ },
+ {
+  "name": "Transcend SDHC 300S 16GB Class 10 UHS-1 - TS16GSDC300S",
+  "harga": "Rp 79,000"
+ },
+ {
+  "name": "Transcend SDHC 300S 32GB Class 10 UHS-1 - TS32GSDC300S",
+  "harga": "Rp 89,000"
+ },
+ {
+  "name": "Transcend SDXC 300S 64GB Class 10 UHS-1 U3 V30 - TS64GSDC300S",
+  "harga": "Rp 140,000"
+ },
+ {
+  "name": "Transcend SDXC 300S 128GB Class 10 UHS-1 U3 V30 - TS128GSDC300S",
+  "harga": "Rp 250,000"
+ },
+ {
+  "name": "Transcend SDXC 300S 256GB Class 10 UHS-1 U3 V30 - TS256GSDC300S",
+  "harga": "Rp 470,000"
+ },
+ {
+  "name": "Transcend SDXC 300S 480GB Class 10 UHS-1 U3 V30 - TS480GSDC300S",
+  "harga": "Rp 1,210,000"
+ },
+ {
+  "name": "Transcend SDHC 700S 32GB Class 10 UHS-II U3 V90 - TS32GSDC700S",
+  "harga": "Rp 470,000"
+ },
+ {
+  "name": "Transcend SDXC 700S 64GB Class 10 UHS-II U3 V90 - TS64GSDC700S",
+  "harga": "Rp 900,000"
+ },
+ {
+  "name": "Transcend 8GB Compact Flash Card (133x)",
+  "harga": "Rp 185,000"
+ },
+ {
+  "name": "Transcend 16GB Compact Flash Card (133x)",
+  "harga": "Rp 280,000"
+ },
+ {
+  "name": "Transcend 32GB Compact Flash Card (133x)",
+  "harga": "Rp 390,000"
+ },
+ {
+  "name": "Transcend 8GB Compact Flash Card (400x)",
+  "harga": "Rp 295,000"
+ },
+ {
+  "name": "Transcend 32GB Compact Flash Card (400x)",
+  "harga": "Rp 390,000"
+ },
+ {
+  "name": "Transcend 64GB Compact Flash Card (400x)",
+  "harga": "Rp 760,000"
+ },
+ {
+  "name": "Transcend 16GB Compact Flash Card (1000x)",
+  "harga": "Rp 510,000"
+ },
+ {
+  "name": "Transcend 32GB Compact Flash Card (1000x)",
+  "harga": "Rp 710,000"
+ },
+ {
+  "name": "Transcend 64GB Compact Flash Card (1000x)",
+  "harga": "Rp 1,110,000"
+ },
+ {
+  "name": "Transcend 128GB Compact Flash Card (1000x)",
+  "harga": "Rp 2,210,000"
+ },
+ {
+  "name": "Transcend 2GB XD - Picture Card (M)",
+  "harga": "Rp 725,000"
+ },
+ {
+  "name": "Kingston SDHC 16GB Class 10 UHS-1 Read 45MB/s - SD10VG2/16GBFR",
+  "harga": "Rp 107,000"
+ },
+ {
+  "name": "Kingston SDHC 32GB Class 10 UHS-1 Read 45MB/s - SD10VG2/32GBFR",
+  "harga": "Rp 76,000"
+ },
+ {
+  "name": "Kingston SDHC 64GB Class 10 UHS-1 Read 45MB/s - SD10VG2/64GBFR",
+  "harga": "Rp 425,000"
+ },
+ {
+  "name": "Kingston SDHC 32GB UHS-1 Read 90MB/s - SDCA10/32GB",
+  "harga": "Rp 156,500"
+ },
+ {
+  "name": "Kingston SDHC 64GB UHS-1 Read 90MB/s - SDCA3/64GB",
+  "harga": "Rp 430,000"
+ },
+ {
+  "name": "Kingston SDHC 16GB Canvas Select Class 10 UHS-I Read 80MB/s - SDS/16GB",
+  "harga": "Rp 186,500"
+ },
+ {
+  "name": "Kingston SDHC 32GB Canvas Select Class 10 UHS-I Read 80MB/s - SDS/32GB",
+  "harga": "Rp 313,000"
+ },
+ {
+  "name": "Kingston SDHC 32GB Class 10 UHS-1 Ultimate Read 90MB/s - SDA10/32GB",
+  "harga": "Rp 230,000"
+ },
+ {
+  "name": "Kingston SDHC 32GB UHS-1 Read 90MB/s (U3) - SDA3/32GB",
+  "harga": "Rp 365,000"
+ },
+ {
+  "name": "Kingston SDHC 128GB UHS-1 Read 90MB/s (U3) - SDA3/128GB",
+  "harga": "Rp 1,041,000"
+ },
+ {
+  "name": "Kingston MicroSD U3 Read 90Mb/s & Write 80Mb/s - 32GB - SDCA3/32GB",
+  "harga": "Rp 207,000"
+ },
+ {
+  "name": "Kingston MicroSD U3 Read 90Mb/s & Write 80Mb/s - 64GB - SDCA3/64GB",
+  "harga": "Rp 430,000"
+ },
+ {
+  "name": "Kingston MicroSDHC 8GB Class 4 - SDC4/8GBSP",
+  "harga": "Rp 41,000"
+ },
+ {
+  "name": "Kingston MicroSDHC 16GB Class 4 - SDC4/16GB",
+  "harga": "Rp 54,000"
+ },
+ {
+  "name": "Kingston MicroSDHC 32GB Class 10 UHS-1 Read 45MB/s Write 10MB/s No Adapter - SDC10/32GBSP",
+  "harga": "Rp 157,000"
+ },
+ {
+  "name": "Kingston MicroSDHC 32GB Class 10 UHS-1 Read 80MB/s No Adapter",
+  "harga": "Rp 179,000"
+ },
+ {
+  "name": "Kingston MicroSDHC 16GB Class 10 UHS-1 Read 80MB/s - SDC10G2/16GBFR",
+  "harga": "Rp 74,000"
+ },
+ {
+  "name": "Kingston MicroSDHC 32GB Class 10 UHS-1 Read 80MB/s With Adapter SDC10G2/32GBSPFR",
+  "harga": "Rp 156,000"
+ },
+ {
+  "name": "Kingston MicroSDHC 64GB Class 10 UHS-1 Read 80MB/s With Adapter - SDC10G2/64GBFR",
+  "harga": "Rp 111,000"
+ },
+ {
+  "name": "Kingston MicroSDHC 16GB Canvas Select Class 10 UHS-I Read 80MB/s With Adapter - SDCS/16GB",
+  "harga": "Rp 47,000"
+ },
+ {
+  "name": "Kingston MicroSDHC 32GB Canvas Select Class 10 UHS-I Read 80MB/s With Adapter - SDCS/32GB",
+  "harga": "Rp 70,000"
+ },
+ {
+  "name": "Kingston MicroSDHC 64GB Canvas Select Class 10 UHS-I Read 80MB/s With Adapter - SDCS/64GB",
+  "harga": "Rp 120,000"
+ },
+ {
+  "name": "Kingston MicroSDHC 128GB Canvas Select Class 10 UHS-I Read 80MB/s With Adapter - SDCS/128GB",
+  "harga": "Rp 230,000"
+ },
+ {
+  "name": "Kingston MicroSDHC 32GB Class 10 UHS-1 Read 90MB/s Write 45MB/s",
+  "harga": "Rp 179,000"
+ },
+ {
+  "name": "Kingston MicroSDHC 128GB Class 10 UHS-1 V30 Read 100MB/s No Adapter",
+  "harga": "Rp 399,000"
+ },
+ {
+  "name": "Patriot MicroSDHC 64GB LX Class 10 + USB Adapter",
+  "harga": "Rp 185,000"
+ },
+ {
+  "name": "Patriot SDHC 16GB LX Class 10",
+  "harga": "Rp 85,000"
+ },
+ {
+  "name": "Patriot SDHC 32GB LX Class 10",
+  "harga": "Rp 140,000"
+ }
+]

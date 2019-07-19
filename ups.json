@@ -1,0 +1,3482 @@
+[
+ {
+  "name": "ICA 1400VA / 700W - CP1400",
+  "harga": "Rp 1,065,000"
+ },
+ {
+  "name": "ICA 700VA / 350W - CP700",
+  "harga": "Rp 665,000"
+ },
+ {
+  "name": "ICA 1200VA / 600W - CE1200",
+  "harga": "Rp 905,000"
+ },
+ {
+  "name": "APC Back-UPS RS 650VA 230V without software Include Protect RJ11 - BX650LI-MS",
+  "harga": "Rp 570,000"
+ },
+ {
+  "name": "ICA 600VA / 300W - CE600",
+  "harga": "Rp 610,000"
+ },
+ {
+  "name": "ICA 1200VA / 600W - CE1200",
+  "harga": "Rp 905,000"
+ },
+ {
+  "name": "ICA 700VA / 350W - CP700",
+  "harga": "Rp 665,000"
+ },
+ {
+  "name": "ICA 1400VA / 700W - CP1400",
+  "harga": "Rp 1,065,000"
+ },
+ {
+  "name": "ICA 650VA / 325W - CN650",
+  "harga": "Rp 540,000"
+ },
+ {
+  "name": "ICA 1300VA / 650W - CN1300",
+  "harga": "Rp 890,000"
+ },
+ {
+  "name": "ICA 600VA - UPS302B",
+  "harga": "Rp 1,655,000"
+ },
+ {
+  "name": "ICA 1200VA - UPS602B",
+  "harga": "Rp 2,100,000"
+ },
+ {
+  "name": "ICA 2000VA - UPS1022B",
+  "harga": "Rp 4,400,000"
+ },
+ {
+  "name": "ICA 4000VA - UPS2022B",
+  "harga": "Rp 7,350,000"
+ },
+ {
+  "name": "ICA 600VA - CT382B",
+  "harga": "Rp 1,440,000"
+ },
+ {
+  "name": "ICA 1200VA - CT682B",
+  "harga": "Rp 1,885,000"
+ },
+ {
+  "name": "ICA 2000 VA + AVR - CT1082B",
+  "harga": "Rp 2,735,000"
+ },
+ {
+  "name": "ICA 2600 VA + AVR - CT1382B",
+  "harga": "Rp 4,095,000"
+ },
+ {
+  "name": "ICA 3200 VA + AVR - CT1682B",
+  "harga": "Rp 4,900,000"
+ },
+ {
+  "name": "ICA 600VA - CS638",
+  "harga": "Rp 935,000"
+ },
+ {
+  "name": "ICA 1200VA - CS1238",
+  "harga": "Rp 1,425,000"
+ },
+ {
+  "name": "ICA 1600VA - SIN1100C",
+  "harga": "Rp 8,100,000"
+ },
+ {
+  "name": "ICA 2500VA - SIN1500C",
+  "harga": "Rp 12,950,000"
+ },
+ {
+  "name": "ICA 3100VA - SIN2100C",
+  "harga": "Rp 17,700,000"
+ },
+ {
+  "name": "ICA 5KVA - SIN3100C",
+  "harga": "Rp 24,500,000"
+ },
+ {
+  "name": "ICA 8KVA - SIN5100C",
+  "harga": "Rp 38,000,000"
+ },
+ {
+  "name": "ICA 8KVA - SIN5100C3",
+  "harga": "Rp 41,250,000"
+ },
+ {
+  "name": "ICA 10KVA - SIN7501C1",
+  "harga": "Rp 53,100,000"
+ },
+ {
+  "name": "ICA 10KVA - SIN7501C3",
+  "harga": "Rp 56,550,000"
+ },
+ {
+  "name": "ICA 12.5KVA - SIN1002C1",
+  "harga": "Rp 75,600,000"
+ },
+ {
+  "name": "ICA 12.5KVA - SIN1002C3",
+  "harga": "Rp 79,000,000"
+ },
+ {
+  "name": "ICA 18KVA - SIN1502C1",
+  "harga": "Rp 100,450,000"
+ },
+ {
+  "name": "ICA 18KVA - SIN1502C3",
+  "harga": "Rp 104,200,000"
+ },
+ {
+  "name": "ICA 25KVA - SIN2002C1",
+  "harga": "Rp 123,350,000"
+ },
+ {
+  "name": "ICA 25KVA - SIN2002C3",
+  "harga": "Rp 126,800,000"
+ },
+ {
+  "name": "ICA 1200VA - ST623B",
+  "harga": "Rp 1,940,000"
+ },
+ {
+  "name": "ICA 2000VA - ST1023B",
+  "harga": "Rp 3,245,000"
+ },
+ {
+  "name": "ICA 1000VA - ST531C",
+  "harga": "Rp 4,030,000"
+ },
+ {
+  "name": "ICA 1600VA - ST831C",
+  "harga": "Rp 5,605,000"
+ },
+ {
+  "name": "ICA 2400VA - ST1231C",
+  "harga": "Rp 8,350,000"
+ },
+ {
+  "name": "ICA 3200VA - ST1631C",
+  "harga": "Rp 10,060,000"
+ },
+ {
+  "name": "ICA 1000VA - SE1100",
+  "harga": "Rp 4,360,000"
+ },
+ {
+  "name": "ICA 2000VA - SE2100",
+  "harga": "Rp 7,615,000"
+ },
+ {
+  "name": "ICA 3000VA - SE3100",
+  "harga": "Rp 10,100,000"
+ },
+ {
+  "name": "ICA 6000VA - SE6100",
+  "harga": "Rp 16,950,000"
+ },
+ {
+  "name": "ICA 10000VA - SE1102C11",
+  "harga": "Rp 25,900,000"
+ },
+ {
+  "name": "ICA 10000VA - SE1102C31",
+  "harga": "Rp 29,350,000"
+ },
+ {
+  "name": "ICA 1200VA - RN1200",
+  "harga": "Rp 2,950,000"
+ },
+ {
+  "name": "ICA 2000VA - RN2000",
+  "harga": "Rp 4,760,000"
+ },
+ {
+  "name": "ICA 1000VA - RN1000C",
+  "harga": "Rp 5,270,000"
+ },
+ {
+  "name": "ICA 1600VA - RN1600C",
+  "harga": "Rp 7,300,000"
+ },
+ {
+  "name": "ICA 2400VA - RN2400C",
+  "harga": "Rp 11,200,000"
+ },
+ {
+  "name": "ICA 3200VA - RN3200C",
+  "harga": "Rp 14,250,000"
+ },
+ {
+  "name": "ICA 6000VA - RN6100C",
+  "harga": "Rp 33,100,000"
+ },
+ {
+  "name": "ICA 10000VA - RN1102C11",
+  "harga": "Rp 52,150,000"
+ },
+ {
+  "name": "ICA 500VA - INV500",
+  "harga": "Rp 4,450,000"
+ },
+ {
+  "name": "ICA 1000VA - INV1000",
+  "harga": "Rp 5,150,000"
+ },
+ {
+  "name": "ICA 2000VA - INV2000",
+  "harga": "Rp 9,250,000"
+ },
+ {
+  "name": "ICA 3000VA - INV3000",
+  "harga": "Rp 13,175,000"
+ },
+ {
+  "name": "ICA 4000VA - INV4000",
+  "harga": "Rp 18,150,000"
+ },
+ {
+  "name": "ICA 1000VA - INV1000-24",
+  "harga": "Rp 5,150,000"
+ },
+ {
+  "name": "ICA 2000VA - INV2000-24",
+  "harga": "Rp 9,250,000"
+ },
+ {
+  "name": "ICA 350VA - FR350",
+  "harga": "Rp 1,160,000"
+ },
+ {
+  "name": "ICA 650VA - FR650",
+  "harga": "Rp 1,730,000"
+ },
+ {
+  "name": "ICA 1000VA - FR1000",
+  "harga": "Rp 2,860,000"
+ },
+ {
+  "name": "ICA 1500VA - FR1500",
+  "harga": "Rp 3,680,000"
+ },
+ {
+  "name": "ICA 2000VA - FR2000",
+  "harga": "Rp 4,770,000"
+ },
+ {
+  "name": "ICA 3000VA - FR3000",
+  "harga": "Rp 8,200,000"
+ },
+ {
+  "name": "ICA 5KVA - FR5000",
+  "harga": "Rp 11,700,000"
+ },
+ {
+  "name": "ICA 7.5KVA - FR7501C1",
+  "harga": "Rp 18,750,000"
+ },
+ {
+  "name": "ICA 7.5KVA - FR7501C3",
+  "harga": "Rp 20,450,000"
+ },
+ {
+  "name": "ICA 10KVA - FR1002C1",
+  "harga": "Rp 23,000,000"
+ },
+ {
+  "name": "ICA 10KVA - FR1002C3",
+  "harga": "Rp 25,150,000"
+ },
+ {
+  "name": "ICA 15KVA - FR1502C1",
+  "harga": "Rp 30,800,000"
+ },
+ {
+  "name": "ICA 15KVA - FR1502C3",
+  "harga": "Rp 33,450,000"
+ },
+ {
+  "name": "ICA 1000VA - FRc1000",
+  "harga": "Rp 2,100,000"
+ },
+ {
+  "name": "ICA 2000VA - FRc2000",
+  "harga": "Rp 3,250,000"
+ },
+ {
+  "name": "ICA 3000VA - FRc3000",
+  "harga": "Rp 5,570,000"
+ },
+ {
+  "name": "ICA 5000VA - FRc5000",
+  "harga": "Rp 8,000,000"
+ },
+ {
+  "name": "ICA 7.5KVA - FRc7501C1",
+  "harga": "Rp 10,460,000"
+ },
+ {
+  "name": "ICA 7.5KVA - FRc7501C3",
+  "harga": "Rp 11,450,000"
+ },
+ {
+  "name": "ICA 10KVA - FRc1002C3",
+  "harga": "Rp 14,330,000"
+ },
+ {
+  "name": "ICA 15KVA - FRc1502C3",
+  "harga": "Rp 18,650,000"
+ },
+ {
+  "name": "Eaton 5L 650VA - 5L650UNI",
+  "harga": "Rp 545,000"
+ },
+ {
+  "name": "Eaton 5L 850VA - 5L850UNI",
+  "harga": "Rp 835,000"
+ },
+ {
+  "name": "Eaton 5L 1200VA - 5L1200UNI",
+  "harga": "Rp 1,360,000"
+ },
+ {
+  "name": "Eaton NV 600H, 600VA/360Watt with AVR - ENV600H",
+  "harga": "Rp 922,000"
+ },
+ {
+  "name": "Eaton NV 800H, 800VA/480Watt with AVR - ENV800H",
+  "harga": "Rp 1,010,000"
+ },
+ {
+  "name": "Eaton NV 1000H, 1000VA/600Watt with AVR - ENV1000H",
+  "harga": "Rp 2,089,000"
+ },
+ {
+  "name": "Eaton NV 2000H, 2000VA/1200Watt with AVR - ENV2000H",
+  "harga": "Rp 2,565,000"
+ },
+ {
+  "name": "Eaton Ellipse Pro, 650VA/400Watt with Booster & Fader - ELP650IEC",
+  "harga": "Rp 2,220,000"
+ },
+ {
+  "name": "Eaton Ellipse Pro, 850VA/510Watt with Booster & Fader - ELP850IEC",
+  "harga": "Rp 2,570,000"
+ },
+ {
+  "name": "Eaton Ellipse Pro, 1200VA/750Watt with Booster & Fader - ELP1200IEC",
+  "harga": "Rp 3,520,000"
+ },
+ {
+  "name": "Eaton Ellipse Pro, 1600VA/1000Watt with Booster & Fader - ELP1600IEC",
+  "harga": "Rp 4,650,000"
+ },
+ {
+  "name": "Eaton 5P Tower Model, 650VA/420W - 5P650i",
+  "harga": "Rp 3,704,000"
+ },
+ {
+  "name": "Eaton 5P Tower Model, 650VA/420W - 5P850i",
+  "harga": "Rp 4,509,000"
+ },
+ {
+  "name": "Eaton 5P Tower Model, 650VA/420W - 5P1150i",
+  "harga": "Rp 5,367,000"
+ },
+ {
+  "name": "Eaton 5P Tower Model, 650VA/420W - 5P1550i",
+  "harga": "Rp 6,209,000"
+ },
+ {
+  "name": "Eaton 5P 650i, 650VA/420Watt Rack 1U Pure Sine Wave - 5P650iR",
+  "harga": "Rp 4,104,000"
+ },
+ {
+  "name": "Eaton 5P 850i, 850VA/600Watt Rack 1U Pure Sine Wave - 5P850iR",
+  "harga": "Rp 5,051,000"
+ },
+ {
+  "name": "Eaton 5P 1150i, 1150VA/770Watt Rack 1U Pure Sine Wave - 5P1150iR",
+  "harga": "Rp 5,900,000"
+ },
+ {
+  "name": "Eaton 5P 1550i, 1550VA/1350Watt Rack 1U Pure Sine Wave - 5P1550iR",
+  "harga": "Rp 7,316,000"
+ },
+ {
+  "name": "Eaton 5E 650i USB, 650VA/360Watt with AVR - 5E650iUSB",
+  "harga": "Rp 580,000"
+ },
+ {
+  "name": "Eaton 5E 850i USB, 850VA/480Watt with AVR - 5E850iUSB",
+  "harga": "Rp 1,170,000"
+ },
+ {
+  "name": "Eaton 5E 1100i USB,1100VA/660Watt with AVR - 5E1100iUSB",
+  "harga": "Rp 1,790,000"
+ },
+ {
+  "name": "Eaton 5E 1500i USB, 1500VA/900Watt with AVR - 5E1500iUSB",
+  "harga": "Rp 3,280,000"
+ },
+ {
+  "name": "Eaton 5E 2000i USB, 2000VA/1200Watt with AVR - 5E2000iUSB",
+  "harga": "Rp 3,260,000"
+ },
+ {
+  "name": "Eaton DX 1000H, 1000VA/700Watt Pure Sine Wave - EDX1000H",
+  "harga": "Rp 5,130,000"
+ },
+ {
+  "name": "Eaton DX 2000H, 2000VA/1400Watt Pure Sine Wave - EDX2000H",
+  "harga": "Rp 10,200,000"
+ },
+ {
+  "name": "Eaton DX 3000H, 3000VA/2100Watt Pure Sine Wave - EDX3000H",
+  "harga": "Rp 11,490,000"
+ },
+ {
+  "name": "Eaton DX 6000H, 6000VA/4200Watt Pure Sine Wave - EDX6000H",
+  "harga": "Rp 21,615,000"
+ },
+ {
+  "name": "Eaton DX10000H, 10KVA/7KW Pure Sine Wave - EDX10KH",
+  "harga": "Rp 33,864,000"
+ },
+ {
+  "name": "Eaton DX 1000H XL, 1000VA/700Watt Pure Sine Wave - EDX1000HXL Without Battery",
+  "harga": "Rp 4,170,000"
+ },
+ {
+  "name": "Eaton DX 2000H XL, 2000VA/1400Watt Pure Sine Wave - EDX2000HXL Without Battery",
+  "harga": "Rp 8,370,000"
+ },
+ {
+  "name": "Eaton DX 3000H XL, 3000VA/2100Watt Pure Sine Wave - EDX3000HXL Without Battery",
+  "harga": "Rp 9,600,000"
+ },
+ {
+  "name": "Eaton 9E 6Kva, 6000VA/4800W - 9E6KI",
+  "harga": "Rp 25,500,000"
+ },
+ {
+  "name": "Eaton 9E 10Kva, 10000VA/8000W - 9E10KI",
+  "harga": "Rp 41,980,000"
+ },
+ {
+  "name": "Eaton 9E 15Kva, 15000VA/12000W - 9E15KI",
+  "harga": "Rp 51,700,000"
+ },
+ {
+  "name": "Eaton 9E 20Kva, 20000VA/16000W - 9E20KI",
+  "harga": "Rp 67,440,000"
+ },
+ {
+  "name": "Eaton 9E 10Kva, 10000VA/8000W - 9E10KIXL",
+  "harga": "Rp 28,081,000"
+ },
+ {
+  "name": "Eaton 9E 20Kva, 20000VA/16000W - 9E20KIXL",
+  "harga": "Rp 50,657,000"
+ },
+ {
+  "name": "External Battery For 9E6KI - 9EEBM180",
+  "harga": "Rp 12,822,000"
+ },
+ {
+  "name": "External Battery For 9E10KI & 9E10KIXL - 9EEBM240",
+  "harga": "Rp 15,629,000"
+ },
+ {
+  "name": "External Battery For 9E15KI, 9E20KI & 9E20KIXL - 9EEBM480",
+  "harga": "Rp 31,359,000"
+ },
+ {
+  "name": "Eaton DX 1000H XL, 1000VA/700Watt Pure Sine Wave - EDX1000HXL (15 Minutes)",
+  "harga": "Rp 12,249,000"
+ },
+ {
+  "name": "Eaton DX 2000H XL, 2000VA/1400Watt Pure Sine Wave - EDX2000HXL (15 Minutes)",
+  "harga": "Rp 20,722,000"
+ },
+ {
+  "name": "Eaton DX 3000H XL, 3000VA/2100Watt Pure Sine Wave - EDX3000HXL (15 Minutes)",
+  "harga": "Rp 27,451,000"
+ },
+ {
+  "name": "Eaton DX 6000H XL, 6000VA/4200Watt Pure Sine Wave - EDX6000HXL (15 Minutes)",
+  "harga": "Rp 58,361,000"
+ },
+ {
+  "name": "Eaton DX10000H XL, 10KVA/7KW Pure Sine Wave - EDX10KHXL (15 Minutes)",
+  "harga": "Rp 75,653,000"
+ },
+ {
+  "name": "Eaton DX 10000H XL 3:1 - EDX10KHXL 3:1 (15 Minutes)",
+  "harga": "Rp 79,543,000"
+ },
+ {
+  "name": "Eaton DX 15000H XL 3:1 - EDX15KHXL 3:1 (15 Minutes)",
+  "harga": "Rp 112,254,000"
+ },
+ {
+  "name": "Eaton DX 20000H XL 3:1 - EDX20KHXL 3:1 (15 Minutes)",
+  "harga": "Rp 121,620,000"
+ },
+ {
+  "name": "Eaton DX 400V 20KH XL 3:3 - EDX20K4 (15 Minutes)",
+  "harga": "Rp 178,684,000"
+ },
+ {
+  "name": "Eaton DX 400V 30KH XL 3:3 - EDX30K4 (15 Minutes)",
+  "harga": "Rp 241,295,000"
+ },
+ {
+  "name": "Eaton DX 400V 40KH XL 3:3 - EDX40K4 (15 Minutes)",
+  "harga": "Rp 313,562,000"
+ },
+ {
+  "name": "Eaton DX 60KH XL 3:3 - EDX60K4 (15 Minutes)",
+  "harga": "Rp 413,711,000"
+ },
+ {
+  "name": "Eaton DX 80KH XL 3:3 - EDX80K4 (15 Minutes)",
+  "harga": "Rp 544,698,000"
+ },
+ {
+  "name": "Eaton DX 1000H XL, 1000VA/700Watt Pure Sine Wave - EDX1000HXL (30 Minutes)",
+  "harga": "Rp 15,923,000"
+ },
+ {
+  "name": "Eaton DX 2000H XL, 2000VA/1400Watt Pure Sine Wave - EDX2000HXL (30 Minutes)",
+  "harga": "Rp 25,520,000"
+ },
+ {
+  "name": "Eaton DX 3000H XL, 3000VA/2100Watt Pure Sine Wave - EDX3000HXL (30 Minutes)",
+  "harga": "Rp 30,045,000"
+ },
+ {
+  "name": "Eaton DX 6000H XL, 6000VA/4200Watt Pure Sine Wave - EDX6000HXL (30 Minutes)",
+  "harga": "Rp 68,015,000"
+ },
+ {
+  "name": "Eaton DX10000H XL, 10KVA/7KW Pure Sine Wave - EDX10KHXL (30 Minutes)",
+  "harga": "Rp 83,463,000"
+ },
+ {
+  "name": "Eaton DX 10000H XL 3:1 - EDX10KHXL 3:1 (30 Minutes)",
+  "harga": "Rp 87,181,000"
+ },
+ {
+  "name": "Eaton DX 15000H XL 3:1 - EDX15KHXL 3:1 (30 Minutes)",
+  "harga": "Rp 129,402,000"
+ },
+ {
+  "name": "Eaton DX 20000H XL 3:1 - EDX20KHXL 3:1 (30 Minutes)",
+  "harga": "Rp 156,637,000"
+ },
+ {
+  "name": "Eaton DX 400V 20KH XL 3:3 - EDX20K4 (30 Minutes)",
+  "harga": "Rp 208,225,000"
+ },
+ {
+  "name": "Eaton DX 400V 30KH XL 3:3 - EDX30K4 (30 Minutes)",
+  "harga": "Rp 284,309,000"
+ },
+ {
+  "name": "Eaton DX 400V 40KH XL 3:3 - EDX40K4 (30 Minutes)",
+  "harga": "Rp 350,884,000"
+ },
+ {
+  "name": "Eaton DX 60KH XL 3:3 - EDX60K4 (30 Minutes)",
+  "harga": "Rp 496,136,000"
+ },
+ {
+  "name": "Eaton DX 80KH XL 3:3 - EDX80K4 (30 Minutes)",
+  "harga": "Rp 637,354,000"
+ },
+ {
+  "name": "Eaton DX 1000H XL, 1000VA/700Watt Pure Sine Wave - EDX1000HXL (60 Minutes)",
+  "harga": "Rp 19,698,000"
+ },
+ {
+  "name": "Eaton DX 2000H XL, 2000VA/1400Watt Pure Sine Wave - EDX2000HXL (60 Minutes)",
+  "harga": "Rp 32,451,000"
+ },
+ {
+  "name": "Eaton DX 3000H XL, 3000VA/2100Watt Pure Sine Wave - EDX3000HXL (60 Minutes)",
+  "harga": "Rp 37,942,000"
+ },
+ {
+  "name": "Eaton DX 6000H XL, 6000VA/4200Watt Pure Sine Wave - EDX6000HXL (60 Minutes)",
+  "harga": "Rp 77,886,000"
+ },
+ {
+  "name": "Eaton DX10000H XL, 10KVA/7KW Pure Sine Wave - EDX10KHXL (60 Minutes)",
+  "harga": "Rp 100,366,000"
+ },
+ {
+  "name": "Eaton DX 10000H XL 3:1 - EDX10KHXL 3:1 (60 Minutes)",
+  "harga": "Rp 104,184,000"
+ },
+ {
+  "name": "Eaton DX 15000H XL 3:1 - EDX15KHXL 3:1 (60 Minutes)",
+  "harga": "Rp 169,029,000"
+ },
+ {
+  "name": "Eaton DX 20000H XL 3:1 - EDX20KHXL 3:1 (60 Minutes)",
+  "harga": "Rp 235,459,000"
+ },
+ {
+  "name": "Eaton DX 400V 20KH XL 3:3 - EDX20K4 (60 Minutes)",
+  "harga": "Rp 275,231,000"
+ },
+ {
+  "name": "Eaton DX 400V 30KH XL 3:3 - EDX30K4 (60 Minutes)",
+  "harga": "Rp 352,469,000"
+ },
+ {
+  "name": "Eaton DX 400V 40KH XL 3:3 - EDX40K4 (60 Minutes)",
+  "harga": "Rp 500,027,000"
+ },
+ {
+  "name": "Eaton DX 60KH XL 3:3 - EDX60K4 (60 Minutes)",
+  "harga": "Rp 668,912,000"
+ },
+ {
+  "name": "Eaton DX 80KH XL 3:3 - EDX80K4 (60 Minutes)",
+  "harga": "Rp 809,698,000"
+ },
+ {
+  "name": "Eaton DX 1000H XL, 1000VA/700Watt Pure Sine Wave - EDX1000HXL (120 Minutes)",
+  "harga": "Rp 25,794,000"
+ },
+ {
+  "name": "Eaton DX 2000H XL, 2000VA/1400Watt Pure Sine Wave - EDX2000HXL (120 Minutes)",
+  "harga": "Rp 45,046,000"
+ },
+ {
+  "name": "Eaton DX 3000H XL, 3000VA/2100Watt Pure Sine Wave - EDX3000HXL (120 Minutes)",
+  "harga": "Rp 56,588,000"
+ },
+ {
+  "name": "Eaton DX 6000H XL, 6000VA/4200Watt Pure Sine Wave - EDX6000HXL (120 Minutes)",
+  "harga": "Rp 120,179,000"
+ },
+ {
+  "name": "Eaton DX10000H XL, 10KVA/7KW Pure Sine Wave - EDX10KHXL (120 Minutes)",
+  "harga": "Rp 149,432,000"
+ },
+ {
+  "name": "Eaton DX 10000H XL 3:1 - EDX10KHXL 3:1 (120 Minutes)",
+  "harga": "Rp 152,458,000"
+ },
+ {
+  "name": "Eaton DX 15000H XL 3:1 - EDX15KHXL 3:1 (120 Minutes)",
+  "harga": "Rp 277,393,000"
+ },
+ {
+  "name": "Eaton DX 20000H XL 3:1 - EDX20KHXL 3:1 (120 Minutes)",
+  "harga": "Rp 280,995,000"
+ },
+ {
+  "name": "Eaton DX 400V 20KH XL 3:3 - EDX20K4 (120 Minutes)",
+  "harga": "Rp 354,486,000"
+ },
+ {
+  "name": "Eaton DX 400V 30KH XL 3:3 - EDX30K4 (120 Minutes)",
+  "harga": "Rp 479,133,000"
+ },
+ {
+  "name": "Eaton DX 400V 40KH XL 3:3 - EDX40K4 (120 Minutes)",
+  "harga": "Rp 608,390,000"
+ },
+ {
+  "name": "Eaton DX 60KH XL 3:3 - EDX60K4 (120 Minutes)",
+  "harga": "Rp 883,621,000"
+ },
+ {
+  "name": "Eaton DX 80KH XL 3:3 - EDX80K4 (120 Minutes)",
+  "harga": "Rp 1,152,800,000"
+ },
+ {
+  "name": "Eaton Nova 625AVR USB - 66823SG",
+  "harga": "Rp 1,398,000"
+ },
+ {
+  "name": "Eaton Nova 1250AVR USB - 66824SG",
+  "harga": "Rp 2,406,000"
+ },
+ {
+  "name": "Eaton Ellipse Max 600 USB IEC Sockets + AVR + Software - 68548",
+  "harga": "Rp 1,441,000"
+ },
+ {
+  "name": "Eaton Ellipse Max 850 USB IEC Sockets + AVR + Software - 68552",
+  "harga": "Rp 2,570,000"
+ },
+ {
+  "name": "Eaton Ellipse Max 1100 USB IEC Sockets & Serial Port UNI + AVR + Software - 68556",
+  "harga": "Rp 3,689,000"
+ },
+ {
+  "name": "Eaton Ellipse Max 1500 USB IEC Sockets & Serial Port UNI + AVR + Software - 68560",
+  "harga": "Rp 4,121,000"
+ },
+ {
+  "name": "Eaton 5PX 1500i RT 2U, 1500 VA/1350 Watt - 5PX1500iRT",
+  "harga": "Rp 9,475,000"
+ },
+ {
+  "name": "Eaton 5PX 2200i RT 2U - 5PX2200iRT",
+  "harga": "Rp 12,000,000"
+ },
+ {
+  "name": "Eaton 5PX 3000i RT 2U, 3000 VA/2700 Watt - 5PX3000iRT2U",
+  "harga": "Rp 18,900,000"
+ },
+ {
+  "name": "Eaton 5PX EBM 48V RT2U For 5PX1500iRT & 5PX2200iRT - 5PXEBM48RT",
+  "harga": "Rp 5,777,000"
+ },
+ {
+  "name": "Eaton Eaton 5PX EBM 72V RT2U - 5PXEBM72RT2U",
+  "harga": "Rp 7,470,000"
+ },
+ {
+  "name": "Eaton 5PX EBM 72V RT2U For 5PX300iRT 2U - 5PXBM72VRT2U",
+  "harga": "Rp 10,145,000"
+ },
+ {
+  "name": "Eaton Evolution S 2500 R/T, 2U, 230V - 68461",
+  "harga": "Rp 9,294,000"
+ },
+ {
+  "name": "Eaton Evolution S 3000 R/T, 2U, 230V - 68462",
+  "harga": "Rp 12,032,000"
+ },
+ {
+  "name": "Eaton 9PX 5KVA R/T 3U with Rack Mounting Kit - 9PX5KiRT",
+  "harga": "Rp 27,477,000"
+ },
+ {
+  "name": "Eaton 9PX 6KVA R/T 3U with Rack Mounting Kit - 9PX6KiRT",
+  "harga": "Rp 38,400,000"
+ },
+ {
+  "name": "Eaton 9PX 8KVA R/T 6U with Rack Mounting Kit - 9PX8KiRT",
+  "harga": "Rp 37,251,000"
+ },
+ {
+  "name": "Eaton 9PX 11KVA R/T 6U with Rack Mounting Kit - 9PX11KiRT",
+  "harga": "Rp 68,750,000"
+ },
+ {
+  "name": "9PX 6KVA R/T, 3U with rack mounting Kit - 9PX6KiRT31",
+  "harga": "Rp 43,494,000"
+ },
+ {
+  "name": "9PX 8KVA R/T, 6U with rack mounting Kit - 9PX8KiRT31",
+  "harga": "Rp 50,675,000"
+ },
+ {
+  "name": "9PX 11KVA R/T, 6U with rack mounting Kit - 9PX11KiRT31",
+  "harga": "Rp 60,712,000"
+ },
+ {
+  "name": "Eaton 9PX EBM 180V for 5/6KVA with Rack Mounting Kit - 9PXEBM180RT",
+  "harga": "Rp 12,872,000"
+ },
+ {
+  "name": "Eaton 9PX EBM 240V for 8/11KVA with Rack Mounting Kit - 9PXEBM240RT",
+  "harga": "Rp 13,659,000"
+ },
+ {
+  "name": "Eaton Pulsar EX 1000 - 68181",
+  "harga": "Rp 7,212,000"
+ },
+ {
+  "name": "Eaton Pulsar EX 1000 RT 2U - 68182",
+  "harga": "Rp 8,088,000"
+ },
+ {
+  "name": "Eaton Pulsar EX 1500 - 68183",
+  "harga": "Rp 8,503,000"
+ },
+ {
+  "name": "Eaton Pulsar EX 1500 RT 2U - 68184",
+  "harga": "Rp 9,715,000"
+ },
+ {
+  "name": "Eaton Pulsar EXB 1000/1500 Tower - 68185",
+  "harga": "Rp 5,362,000"
+ },
+ {
+  "name": "Eaton Pulsar EXB 1000/1500 Rack 2U With Rack Mouting Kit - 68186",
+  "harga": "Rp 6,218,000"
+ },
+ {
+  "name": "Eaton Pulsar EX 2200 RT 2U - 68401",
+  "harga": "Rp 14,380,000"
+ },
+ {
+  "name": "Eaton Pulsar EX 3000 RT 2U - 68403",
+  "harga": "Rp 18,589,000"
+ },
+ {
+  "name": "Eaton Pulsar EXB 2200/3000 R/T With Rack Mounting Kit - 68405",
+  "harga": "Rp 8,639,000"
+ },
+ {
+  "name": "Eaton Pulsar MX 5000 R/T 3U - 68504",
+  "harga": "Rp 37,322,000"
+ },
+ {
+  "name": "Eaton Pulsar MX 15000, 16U - 68513",
+  "harga": "Rp 136,030,000"
+ },
+ {
+  "name": "Eaton Pulsar MX 15000 R/T, 16U",
+  "harga": "Rp 110,525,000"
+ },
+ {
+  "name": "Eaton Pulsar MX 20000, 16U - 68514",
+  "harga": "Rp 153,322,000"
+ },
+ {
+  "name": "Eaton Pulsar MX 20000 R/T, 16U",
+  "harga": "Rp 124,647,000"
+ },
+ {
+  "name": "Eaton Pulsar MX EXB RT (Batt Extention) - 68515",
+  "harga": "Rp 31,688,000"
+ },
+ {
+  "name": "Eaton Protection Box 1 Tel - 66709",
+  "harga": "Rp 288,000"
+ },
+ {
+  "name": "Eaton Protection Box 5 Tel - 66713",
+  "harga": "Rp 548,000"
+ },
+ {
+  "name": "Eaton Comet EX RT 7KVA Single Phase - 68070",
+  "harga": "Rp 55,190,000"
+ },
+ {
+  "name": "Eaton Comet EX RT 7KVA (3:1) - 68074",
+  "harga": "Rp 62,107,000"
+ },
+ {
+  "name": "Eaton Comet EX RT 11KVA Single Phase - 68110",
+  "harga": "Rp 72,194,000"
+ },
+ {
+  "name": "Eaton Comet EX RT 11KVA (3:1) - 68114",
+  "harga": "Rp 79,543,000"
+ },
+ {
+  "name": "Eaton Comet EXB 5/7 RT Batt Module With Rack Mounting Kit - 68078",
+  "harga": "Rp 16,572,000"
+ },
+ {
+  "name": "Eaton Comet EXB 11 RT Batt Module With Rack Mounting Kit - 68118",
+  "harga": "Rp 14,583,000"
+ },
+ {
+  "name": "Hotswap MBC 6IEC - 68433",
+  "harga": "Rp 4,993,000"
+ },
+ {
+  "name": "Network Card MS",
+  "harga": "Rp 4,468,000"
+ },
+ {
+  "name": "Relay Card MS",
+  "harga": "Rp 3,023,000"
+ },
+ {
+  "name": "Network and Modbus Card-MS",
+  "harga": "Rp 4,468,000"
+ },
+ {
+  "name": "IBM AS/400 Cable - 66033",
+  "harga": "Rp 1,095,000"
+ },
+ {
+  "name": "STS 16 - 66028",
+  "harga": "Rp 10,426,000"
+ },
+ {
+  "name": "Enviromental Monitoring Probe - 116750224-001",
+  "harga": "Rp 1,419,000"
+ },
+ {
+  "name": "Luminous UPS Battery - 12V 7AH",
+  "harga": "Rp 190,000"
+ },
+ {
+  "name": "Luminous UPS Battery - 12V 9AH",
+  "harga": "Rp 250,000"
+ },
+ {
+  "name": "Luminous UPS Battery - 12V 12AH",
+  "harga": "Rp 360,000"
+ },
+ {
+  "name": "Luminous UPS Battery - 12V 18AH",
+  "harga": "Rp 490,000"
+ },
+ {
+  "name": "Luminous UPS Battery - 12V 50AH",
+  "harga": "Rp 1,330,000"
+ },
+ {
+  "name": "Luminous UPS Battery - 12V 70AH",
+  "harga": "Rp 1,790,000"
+ },
+ {
+  "name": "Luminous UPS Battery - 12V 100AH",
+  "harga": "Rp 2,185,000"
+ },
+ {
+  "name": "Luminous UPS Battery - 12V 120AH",
+  "harga": "Rp 2,640,000"
+ },
+ {
+  "name": "Luminous UPS Battery - 12V 150AH",
+  "harga": "Rp 3,190,000"
+ },
+ {
+  "name": "Luminous UPS Battery - 12V 200AH",
+  "harga": "Rp 3,810,000"
+ },
+ {
+  "name": "Stabilizer Matsunaga 500W - Made In Japan",
+  "harga": "Rp 2,235,000"
+ },
+ {
+  "name": "Stabilizer Matsunaga 1000W - Made In Japan",
+  "harga": "Rp 2,965,000"
+ },
+ {
+  "name": "Stabilizer Matsunaga 1500W - Made In Japan",
+  "harga": "Rp 3,775,000"
+ },
+ {
+  "name": "Stabilizer Matsunaga 2000W - Made In Japan",
+  "harga": "Rp 6,300,000"
+ },
+ {
+  "name": "Stabilizer Matsunaga 3000W - Made In Japan",
+  "harga": "Rp 9,575,000"
+ },
+ {
+  "name": "Stabilizer Matsunaga 5000W - Made In Japan",
+  "harga": "Rp 13,300,000"
+ },
+ {
+  "name": "Stabilizer Matsunaga 10000W - Made In Japan",
+  "harga": "Rp 38,500,000"
+ },
+ {
+  "name": "Stabilizer Matsumoto 500W",
+  "harga": "Rp 385,000"
+ },
+ {
+  "name": "Stabilizer Matsumoto 1000W",
+  "harga": "Rp 480,000"
+ },
+ {
+  "name": "Stabilizer Matsumoto 1500W",
+  "harga": "Rp 670,000"
+ },
+ {
+  "name": "Stabilizer Matsumoto 2000W",
+  "harga": "Rp 960,000"
+ },
+ {
+  "name": "Stabilizer Matsumoto 3000W",
+  "harga": "Rp 1,210,000"
+ },
+ {
+  "name": "Stabilizer Matsumoto 5000W",
+  "harga": "Rp 1,920,000"
+ },
+ {
+  "name": "Stabilizer Matsumoto 7500W",
+  "harga": "Rp 2,770,000"
+ },
+ {
+  "name": "Stabilizer Matsumoto 10000W",
+  "harga": "Rp 3,015,000"
+ },
+ {
+  "name": "Stabilizer Matsumoto 15000W",
+  "harga": "Rp 6,550,000"
+ },
+ {
+  "name": "Stabilizer Matsumoto 20000W",
+  "harga": "Rp 8,050,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VR - 500W",
+  "harga": "Rp 775,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VR - 1000W",
+  "harga": "Rp 1,110,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VR - 1500W",
+  "harga": "Rp 1,630,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VR - 2000W",
+  "harga": "Rp 2,675,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VR - 3000W",
+  "harga": "Rp 3,535,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VR - 5000W",
+  "harga": "Rp 5,615,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VR - 7500W / 8KVA",
+  "harga": "Rp 7,210,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VR - 10000W",
+  "harga": "Rp 8,475,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VR - 15000W",
+  "harga": "Rp 12,700,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VR - 20000W",
+  "harga": "Rp 14,950,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VR - 30000W",
+  "harga": "Rp 20,900,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VD - 10 KVA 3 Phase",
+  "harga": "Rp 13,375,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VD - 15 KVA 3 Phase",
+  "harga": "Rp 16,600,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VD - 20 KVA 3 Phase",
+  "harga": "Rp 21,650,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VD - 30 KVA 3 Phase",
+  "harga": "Rp 26,600,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VD - 45 KVA 3 Phase",
+  "harga": "Rp 35,750,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VD - 60 KVA 3 Phase",
+  "harga": "Rp 44,000,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VD - 75 KVA 3 Phase",
+  "harga": "Rp 53,500,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VD - 90 KVA 3 Phase",
+  "harga": "Rp 60,550,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VD - 100 KVA 3 Phase",
+  "harga": "Rp 77,050,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VD - 120 KVA 3 Phase",
+  "harga": "Rp 99,500,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VD - 150 KVA 3 Phase",
+  "harga": "Rp 132,500,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VD - 200 KVA 3 Phase",
+  "harga": "Rp 173,750,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VD - 250 KVA 3 Phase",
+  "harga": "Rp 206,750,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VD - 300 KVA 3 Phase",
+  "harga": "Rp 263,000,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VD - 350 KVA 3 Phase",
+  "harga": "Rp 289,250,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VD - 400 KVA 3 Phase",
+  "harga": "Rp 326,750,000"
+ },
+ {
+  "name": "Stabilizer Volger - Type VD - 500 KVA 3 Phase",
+  "harga": "Rp 371,750,000"
+ },
+ {
+  "name": "Stabilizer Oki 500W",
+  "harga": "Rp 390,000"
+ },
+ {
+  "name": "Stabilizer Oki 1000W",
+  "harga": "Rp 480,000"
+ },
+ {
+  "name": "Stabilizer Oki 1500W",
+  "harga": "Rp 675,000"
+ },
+ {
+  "name": "Stabilizer Oki 2000W",
+  "harga": "Rp 1,005,000"
+ },
+ {
+  "name": "Stabilizer Oki 3000W",
+  "harga": "Rp 1,220,000"
+ },
+ {
+  "name": "Stabilizer Oki 5000W",
+  "harga": "Rp 1,880,000"
+ },
+ {
+  "name": "Stabilizer Oki 7500W",
+  "harga": "Rp 2,780,000"
+ },
+ {
+  "name": "Stabilizer Oki 10000W",
+  "harga": "Rp 2,935,000"
+ },
+ {
+  "name": "Stabilizer Oki 15000W",
+  "harga": "Rp 6,550,000"
+ },
+ {
+  "name": "Stabilizer Oki 20000W",
+  "harga": "Rp 8,075,000"
+ },
+ {
+  "name": "Stabilizer Oki 30000W",
+  "harga": "Rp 11,920,000"
+ },
+ {
+  "name": "Stabilizer Oki 10 KVA 3 Phase",
+  "harga": "Rp 6,050,000"
+ },
+ {
+  "name": "Stabilizer Oki 15 KVA 3 Phase",
+  "harga": "Rp 8,825,000"
+ },
+ {
+  "name": "Stabilizer Oki 20 KVA 3 Phase",
+  "harga": "Rp 11,600,000"
+ },
+ {
+  "name": "Stabilizer Oki 30 KVA 3 Phase",
+  "harga": "Rp 12,650,000"
+ },
+ {
+  "name": "Stabilizer Oki 45 KVA 3 Phase",
+  "harga": "Rp 21,700,000"
+ },
+ {
+  "name": "Stabilizer Oki 60 KVA 3 Phase",
+  "harga": "Rp 25,700,000"
+ },
+ {
+  "name": "Stabilizer Hossoni 500W",
+  "harga": "Rp 420,000"
+ },
+ {
+  "name": "Stabilizer Hossoni 1000W",
+  "harga": "Rp 570,000"
+ },
+ {
+  "name": "Stabilizer Hossoni 2000W",
+  "harga": "Rp 1,230,000"
+ },
+ {
+  "name": "Stabilizer Hossoni 3000W",
+  "harga": "Rp 1,730,000"
+ },
+ {
+  "name": "Stabilizer Hossoni 5000W",
+  "harga": "Rp 2,980,000"
+ },
+ {
+  "name": "Stabilizer Hossoni 7500W / 8 KVA",
+  "harga": "Rp 3,830,000"
+ },
+ {
+  "name": "Stabilizer Hossoni 10000W",
+  "harga": "Rp 4,530,000"
+ },
+ {
+  "name": "Stabilizer Hossoni 15000W",
+  "harga": "Rp 6,530,000"
+ },
+ {
+  "name": "Stabilizer Hossoni 2 KVA",
+  "harga": "Rp 1,250,000"
+ },
+ {
+  "name": "Stabilizer Hossoni 9 KVA 3 Phase",
+  "harga": "Rp 7,050,000"
+ },
+ {
+  "name": "Stabilizer Hossoni 15 KVA 3 Phase",
+  "harga": "Rp 9,950,000"
+ },
+ {
+  "name": "Stabilizer Hossoni 22 KVA 3 Phase",
+  "harga": "Rp 13,000,000"
+ },
+ {
+  "name": "Stabilizer Hossoni 30 KVA 3 Phase",
+  "harga": "Rp 17,200,000"
+ },
+ {
+  "name": "Stabilizer Hossoni 45 KVA 3 Phase",
+  "harga": "Rp 24,700,000"
+ },
+ {
+  "name": "Stabilizer Hossoni 60 KVA 3 Phase",
+  "harga": "Rp 30,100,000"
+ },
+ {
+  "name": "Stabilizer KENIKA AR 600",
+  "harga": "Rp 360,000"
+ },
+ {
+  "name": "Stabilizer KENIKA AR 1000",
+  "harga": "Rp 485,000"
+ },
+ {
+  "name": "Stabilizer KENIKA AR 2000",
+  "harga": "Rp 1,160,000"
+ },
+ {
+  "name": "Stabilizer KENIKA AR 3000",
+  "harga": "Rp 1,745,000"
+ },
+ {
+  "name": "Stabilizer KENIKA AR 5000",
+  "harga": "Rp 2,320,000"
+ },
+ {
+  "name": "KENIKA AR 10 KVA - 10 KVA SERVO MOTOR",
+  "harga": "Rp 4,530,000"
+ },
+ {
+  "name": "KENIKA AR 15 KVA - 15 KVA SERVO MOTOR",
+  "harga": "Rp 7,640,000"
+ },
+ {
+  "name": "KENIKA AR 20 KVA - 20 KVA SERVO MOTOR",
+  "harga": "Rp 8,350,000"
+ },
+ {
+  "name": "KENIKA AR 30 KVA - 30 KVA SERVO MOTOR",
+  "harga": "Rp 14,455,000"
+ },
+ {
+  "name": "KENIKA AR 45 KVA - 45 KVA SERVO MOTOR",
+  "harga": "Rp 20,750,000"
+ },
+ {
+  "name": "KENIKA AR 15 KVA - 15 KVA 3 PHASE / 3 CONTROL SERVO MOTOR",
+  "harga": "Rp 9,700,000"
+ },
+ {
+  "name": "KENIKA AR 20 KVA - 20 KVA 3 PHASE / 3 CONTROL SERVO MOTOR",
+  "harga": "Rp 11,600,000"
+ },
+ {
+  "name": "KENIKA AR 30 KVA - 30 KVA 3 PHASE / 3 CONTROL SERVO MOTOR",
+  "harga": "Rp 16,100,000"
+ },
+ {
+  "name": "KENIKA AR 45 KVA - 45 KVA 3 PHASE / 3 CONTROL SERVO MOTOR",
+  "harga": "Rp 23,150,000"
+ },
+ {
+  "name": "KENIKA AR 60 KVA - 60 KVA 3 PHASE / 3 CONTROL SERVO MOTOR",
+  "harga": "Rp 30,050,000"
+ },
+ {
+  "name": "KENIKA DBW 30 KVA - 30 KVA 1 PHASE / 1 CONTROL DBW TECH EFISIENSI 95%",
+  "harga": "Rp 46,200,000"
+ },
+ {
+  "name": "KENIKA DBW 50 KVA - 50 KVA 1 PHASE / 1 CONTROL DBW TECH EFISIENSI 95%",
+  "harga": "Rp 57,700,000"
+ },
+ {
+  "name": "KENIKA DBW 60 KVA - 60 KVA 1 PHASE / 1 CONTROL DBW TECH EFISIENSI 95%",
+  "harga": "Rp 63,450,000"
+ },
+ {
+  "name": "KENIKA DBW 80 KVA - 80 KVA 1 PHASE / 1 CONTROL DBW TECH EFISIENSI 95%",
+  "harga": "Rp 69,200,000"
+ },
+ {
+  "name": "KENIKA DBW 100 KVA - 100 KVA 1 PHASE / 1 CONTROL DBW TECH EFISIENSI 95%",
+  "harga": "Rp 92,250,000"
+ },
+ {
+  "name": "KENIKA SBW 10 KVA - 10 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 33,130,000"
+ },
+ {
+  "name": "KENIKA SBW 15 KVA - 15 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 34,372,000"
+ },
+ {
+  "name": "KENIKA SBW 20 KVA - 20 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 40,535,000"
+ },
+ {
+  "name": "KENIKA SBW 30 KVA - 30 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 40,350,000"
+ },
+ {
+  "name": "KENIKA SBW 50 KVA - 50 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 46,100,000"
+ },
+ {
+  "name": "KENIKA SBW 80 KVA - 80 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 57,650,000"
+ },
+ {
+  "name": "KENIKA SBW 100 KVA - 100 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 60,525,000"
+ },
+ {
+  "name": "KENIKA SBW 120 KVA - 120 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 63,400,000"
+ },
+ {
+  "name": "KENIKA SBW 150 KVA - 150 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 80,700,000"
+ },
+ {
+  "name": "KENIKA SBW 180 KVA - 180 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 86,450,000"
+ },
+ {
+  "name": "KENIKA SBW 200 KVA - 200 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 92,200,000"
+ },
+ {
+  "name": "KENIKA SBW 225 KVA - 225 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 97,950,000"
+ },
+ {
+  "name": "KENIKA SBW 250 KVA - 250 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 103,700,000"
+ },
+ {
+  "name": "KENIKA SBW 300 KVA - 300 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 144,000,000"
+ },
+ {
+  "name": "KENIKA SBW 350 KVA - 350 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 148,510,000"
+ },
+ {
+  "name": "KENIKA SBW 400 KVA - 400 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 149,750,000"
+ },
+ {
+  "name": "KENIKA SBW 450 KVA - 450 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 200,335,000"
+ },
+ {
+  "name": "KENIKA SBW 500 KVA - 500 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 201,600,000"
+ },
+ {
+  "name": "KENIKA SBW 600 KVA - 600 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 230,450,000"
+ },
+ {
+  "name": "Stabilizer Matsugawa 500W",
+  "harga": "Rp 275,000"
+ },
+ {
+  "name": "Stabilizer Matsugawa 1000W",
+  "harga": "Rp 365,000"
+ },
+ {
+  "name": "Stabilizer Matsugawa 2000W",
+  "harga": "Rp 820,000"
+ },
+ {
+  "name": "Stabilizer Matsugawa 3000W",
+  "harga": "Rp 1,035,000"
+ },
+ {
+  "name": "Stabilizer Matsugawa 5000W",
+  "harga": "Rp 1,290,000"
+ },
+ {
+  "name": "Stabilizer Minamoto 500VA - SM500",
+  "harga": "Rp 395,000"
+ },
+ {
+  "name": "Stabilizer Minamoto 1000VA - SM1000",
+  "harga": "Rp 635,000"
+ },
+ {
+  "name": "Stabilizer Minamoto 2000VA - SM2000",
+  "harga": "Rp 1,205,000"
+ },
+ {
+  "name": "Stabilizer Minamoto 3000VA - SM3000",
+  "harga": "Rp 1,635,000"
+ },
+ {
+  "name": "Stabilizer Minamoto 5KVA - SM5000",
+  "harga": "Rp 2,245,000"
+ },
+ {
+  "name": "Stabilizer Minamoto 7.5KVA - SM7500",
+  "harga": "Rp 2,860,000"
+ },
+ {
+  "name": "Stabilizer Minamoto 10KVA - SM10000",
+  "harga": "Rp 3,520,000"
+ },
+ {
+  "name": "Stabilizer Minamoto 15KVA - SM15000",
+  "harga": "Rp 4,965,000"
+ },
+ {
+  "name": "Stabilizer Minamoto 10KVA - SM10K3",
+  "harga": "Rp 6,760,000"
+ },
+ {
+  "name": "Stabilizer Minamoto 15KVA - SM15K3",
+  "harga": "Rp 9,915,000"
+ },
+ {
+  "name": "Stabilizer Minamoto 20KVA - SM20K3",
+  "harga": "Rp 12,060,000"
+ },
+ {
+  "name": "Stabilizer Minamoto 30KVA - SM30K3",
+  "harga": "Rp 15,400,000"
+ },
+ {
+  "name": "Stabilizer Minamoto 45KVA - SM45K3",
+  "harga": "Rp 20,450,000"
+ },
+ {
+  "name": "Stabilizer Minamoto 60KVA - SM60K3",
+  "harga": "Rp 25,850,000"
+ },
+ {
+  "name": "Stabilizer Minamoto 100KVA - SM100K3",
+  "harga": "Rp 73,350,000"
+ },
+ {
+  "name": "Stabilizer Minamoto 150KVA - SM150K3",
+  "harga": "Rp 101,600,000"
+ },
+ {
+  "name": "Stabilizer Minamoto 225KVA - SM225K3",
+  "harga": "Rp 134,800,000"
+ },
+ {
+  "name": "Vektor Vesta 625VA 375Watt with AVR - VT/Vesta 625",
+  "harga": "Rp 1,117,000"
+ },
+ {
+  "name": "Vektor Vesta 1200VA 720Watt with AVR - VT/Vesta 1200",
+  "harga": "Rp 2,205,000"
+ },
+ {
+  "name": "Vektor L Series 800L - 800VA, USB Port, Universal Outlet",
+  "harga": "Rp 920,000"
+ },
+ {
+  "name": "Vektor L Series 1000L - 1000L 1000VA, USB Port, Universal Outlet",
+  "harga": "Rp 1,102,000"
+ },
+ {
+  "name": "Vektor L Series 2200L - 2200L 2200VA, USB Port, Universal Outlet",
+  "harga": "Rp 2,322,000"
+ },
+ {
+  "name": "Vektor RS1000 - 1KVA/ 700W online double conversion",
+  "harga": "Rp 7,144,000"
+ },
+ {
+  "name": "Vektor RS2000 - 2KVA/ 1400W online double conversion",
+  "harga": "Rp 12,568,000"
+ },
+ {
+  "name": "Vektor RS3000 - 3KVA/ 2100W online double conversion",
+  "harga": "Rp 17,772,000"
+ },
+ {
+  "name": "Vektor 1000VA 700Watt - MS/ML+1000",
+  "harga": "Rp 4,899,000"
+ },
+ {
+  "name": "Vektor 2000VA 1400Watt - MS/ML+2000",
+  "harga": "Rp 8,632,000"
+ },
+ {
+  "name": "Vektor 3000VA 2100Watt - MS/ML+3000",
+  "harga": "Rp 12,191,000"
+ },
+ {
+  "name": "Vektor 1000VA 800Watt with LED Rackmount 2U - MP1000RT-2U",
+  "harga": "Rp 7,629,000"
+ },
+ {
+  "name": "Vektor 1000VA 800Watt with LED, complete with Iso. Tx, Rackmount 3U - MP1000RT-3UT",
+  "harga": "Rp 14,332,000"
+ },
+ {
+  "name": "Vektor 1000VA 800Watt with LED, complete with Iso. Tx, Rackmount 3U, no batteries - MP1000RT-3UTC",
+  "harga": "Rp 13,671,000"
+ },
+ {
+  "name": "Vektor 2000VA 1600Watt with LED Rackmount 4U - MP2000RT-4U",
+  "harga": "Rp 16,669,000"
+ },
+ {
+  "name": "Vektor 2000VA 1600Watt with LED, complete with Iso. Tx, Rackmount 4U - MP2000RT-4UT",
+  "harga": "Rp 21,289,000"
+ },
+ {
+  "name": "Vektor 2000VA 1600Watt with LED, Complete with Iso. Tx, Rackmount 4U, no batteries - MP2000RT-4UTC",
+  "harga": "Rp 19,845,000"
+ },
+ {
+  "name": "Vektor 3000VA 2400Watt with LED Rackmount 4U - MP3000RT-4U",
+  "harga": "Rp 18,301,000"
+ },
+ {
+  "name": "Vektor 3000VA 2400Watt with LED, Complete with Iso. Tx, Rackmount 4U - MP3000RT-4UT",
+  "harga": "Rp 26,371,000"
+ },
+ {
+  "name": "Vektor 3000VA 2400Watt with LED, Complete with Iso. Tx, Rackmount 4U, no batteries - MP3000RT-4UTC",
+  "harga": "Rp 23,373,000"
+ },
+ {
+  "name": "Vektor 6000VA 4200Watt, parallelable, no transformer - MSII6Kva",
+  "harga": "Rp 35,280,000"
+ },
+ {
+  "name": "Vektor 6000VA 4200Watt no battery - MSII6Kva",
+  "harga": "Rp 27,342,000"
+ },
+ {
+  "name": "Vektor 6000VA 4200Watt built in Galvanic Transformer, parallelable - MSII XM-6Kva",
+  "harga": "Rp 49,980,000"
+ },
+ {
+  "name": "Vektor 10000VA 7000Watt , Parallelable, no transformer - MSII 10Kva 1:1",
+  "harga": "Rp 57,330,000"
+ },
+ {
+  "name": "Vektor 10000VA 7000Watt no battery - MSII 10Kva 1:1",
+  "harga": "Rp 51,450,000"
+ },
+ {
+  "name": "Vektor 10000VA 7000Watt built in Galvanic Transformer - MSII XM-10Kva 1:1",
+  "harga": "Rp 85,260,000"
+ },
+ {
+  "name": "Vektor 10000VA 7000Watt no transformer - MSII 31-10Kva",
+  "harga": "Rp 68,796,000"
+ },
+ {
+  "name": "Vektor 10000VA 7000Watt no battery - MSII 31-10Kva",
+  "harga": "Rp 62,916,000"
+ },
+ {
+  "name": "Vektor 10000VA 7000Watt built in Galvanic Transformer - MSII 3:1XM-10Kva",
+  "harga": "Rp 99,960,000"
+ },
+ {
+  "name": "Vektor 6000VA 4200Watt Rack/Tower no Battery, 2U - MSII6000-RT-230",
+  "harga": "Rp 24,696,000"
+ },
+ {
+  "name": "Vektor 6000VA 4200Watt Rack/Tower, 3U - MSII6000-RT-230BT",
+  "harga": "Rp 17,934,000"
+ },
+ {
+  "name": "Vektor Empty Rack/Tower Battery Module, 3U, No Battery - MSII6000-RT-230BTO",
+  "harga": "Rp 8,526,000"
+ },
+ {
+  "name": "Vektor Rack/Tower Isolation Transformer Module, 2U - MSII6000-RT-230XM",
+  "harga": "Rp 21,168,000"
+ },
+ {
+  "name": "Vektor 4500VA / 6000VA Rak/Tower, 4U - MSII6000-RT-C",
+  "harga": "Rp 35,280,000"
+ },
+ {
+  "name": "Vektor 4500VA / 6000VA Rak/Tower no Batteries - MSII6000-RT-C",
+  "harga": "Rp 27,636,000"
+ },
+ {
+  "name": "Vektor 10000Va 7000Watt,3U, no Battery - MSII10Kva-RT-230",
+  "harga": "Rp 40,131,000"
+ },
+ {
+  "name": "Vektor 10000Va 7000Watt,3U - MSII10Kva-RT-230 3:1",
+  "harga": "Rp 44,982,000"
+ },
+ {
+  "name": "Vektor Rack/Tower Battery Module, 3U - MSII10Kva-RT-230 BT",
+  "harga": "Rp 23,725,000"
+ },
+ {
+  "name": "Vektor Empty Rack/Tower Battery Module, 3U, No Battery - MSII10Kva-RT-230 BTO",
+  "harga": "Rp 9,481,000"
+ },
+ {
+  "name": "Vektor Rack/Tower Isolation Transformer Module, 2U - MSII10Kva-RT-230XM",
+  "harga": "Rp 31,531,000"
+ },
+ {
+  "name": "Vektor 15Kva 13.5Kw, no battery - MSII-31-15Kva-000",
+  "harga": "Rp 81,805,000"
+ },
+ {
+  "name": "Vektor 15Kva 13.5Kw, build in Galvanic, Transformer, no battery - MS-31-XM-15Kva",
+  "harga": "Rp 133,770,000"
+ },
+ {
+  "name": "Vektor 20Kva 18Kw, no battery - MS-31-20Kva-000",
+  "harga": "Rp 87,465,000"
+ },
+ {
+  "name": "Vektor 20Kva 18Kw, build in Galvanic, Transformer, no battery - MS-31-XM-20Kva",
+  "harga": "Rp 153,321,000"
+ },
+ {
+  "name": "Legrand KEOR SPX 600VA / 360W, AVR, Universal Outlet",
+  "harga": "Rp 525,000"
+ },
+ {
+  "name": "Legrand KEOR SPX 800VA / 480W, AVR, Universal Outlet",
+  "harga": "Rp 860,000"
+ },
+ {
+  "name": "Legrand KEOR SPX 1000VA / 600W, AVR, Universal Outlet, USB Port",
+  "harga": "Rp 1,300,000"
+ },
+ {
+  "name": "Legrand KEOR SPX 1500VA / 900W, AVR, Universal Outlet, USB Port",
+  "harga": "Rp 1,975,000"
+ },
+ {
+  "name": "Legrand KEOR SPX 2000VA / 1200W, AVR, Universal Outlet, USB Port",
+  "harga": "Rp 2,450,000"
+ },
+ {
+  "name": "Legrand KEOR LP 1000VA / 900Watt Single Phase",
+  "harga": "Rp 6,500,000"
+ },
+ {
+  "name": "Legrand KEOR LP 2000VA / 1800Watt Single Phase",
+  "harga": "Rp 10,800,000"
+ },
+ {
+  "name": "Legrand KEOR LP 3000VA / 2700Watt Single Phase",
+  "harga": "Rp 12,900,000"
+ },
+ {
+  "name": "Legrand KEOR T 10Kva / 900Watt, Three Phase",
+  "harga": "Rp 90,000,000"
+ },
+ {
+  "name": "Legrand KEOR T 15Kva / 13500Watt, Three Phase",
+  "harga": "Rp 100,000,000"
+ },
+ {
+  "name": "Legrand KEOR T 20Kva / 18000Watt, Three Phase",
+  "harga": "Rp 110,000,000"
+ },
+ {
+  "name": "Legrand KEOR T 30Kva / 27000Watt, Three Phase",
+  "harga": "Rp 120,000,000"
+ },
+ {
+  "name": "Legrand KEOR T 40Kva / 36000Watt, Three Phase",
+  "harga": "Rp 150,000,000"
+ },
+ {
+  "name": "Legrand KEOR T 60Kva / 54000Watt, Three Phase",
+  "harga": "Rp 195,000,000"
+ },
+ {
+  "name": "Legrand KEOR T 80Kva / 72000Watt, Three Phase",
+  "harga": "Rp 265,500,000"
+ },
+ {
+  "name": "Legrand KEOR T 100Kva / 90000Watt, Three Phase",
+  "harga": "Rp 327,500,000"
+ },
+ {
+  "name": "Legrand KEOR T 120Kva / 108000Watt, Three Phase",
+  "harga": "Rp 363,600,000"
+ },
+ {
+  "name": "Legrand KEOR HP 100Kva / 90000Watt, Three Phase",
+  "harga": "Rp 480,000,000"
+ },
+ {
+  "name": "Legrand KEOR HP 125Kva / 112500Watt, Three Phase",
+  "harga": "Rp 500,000,000"
+ },
+ {
+  "name": "Legrand KEOR HP 160Kva / 144000Watt, Three Phase",
+  "harga": "Rp 575,000,000"
+ },
+ {
+  "name": "Legrand KEOR HP 200Kva / 180000Watt, Three Phase",
+  "harga": "Rp 740,000,000"
+ },
+ {
+  "name": "Legrand KEOR HP 250Kva / 225000Watt, Three Phase",
+  "harga": "Rp 850,000,000"
+ },
+ {
+  "name": "Legrand KEOR HP 300Kva / 270000Watt, Three Phase",
+  "harga": "Rp 1,000,000,000"
+ },
+ {
+  "name": "Legrand KEOR HP 400Kva / 360000Watt, Three Phase",
+  "harga": "Rp 1,300,000,000"
+ },
+ {
+  "name": "Legrand KEOR HP 500Kva / 450000Watt, Three Phase",
+  "harga": "Rp 1,800,000,000"
+ },
+ {
+  "name": "Legrand KEOR HP 600Kva / 540000Watt, Three Phase",
+  "harga": "Rp 2,150,000,000"
+ },
+ {
+  "name": "Legrand KEOR HP 800Kva / 720000Watt, Three Phase",
+  "harga": "Rp 2,700,000,000"
+ },
+ {
+  "name": "Delta VX-600VA - Line Interactive 600VA / 360W",
+  "harga": "Rp 615,000"
+ },
+ {
+  "name": "Delta VX-1000VA - Line Interactive 1000VA / 600W",
+  "harga": "Rp 1,145,000"
+ },
+ {
+  "name": "Delta VX-1500VA - Line Interactive 1500VA / 900W",
+  "harga": "Rp 1,540,000"
+ },
+ {
+  "name": "Delta N Series - On-Line 1kVA/0.9kW UPS(Tower)",
+  "harga": "Rp 5,325,000"
+ },
+ {
+  "name": "Delta N Series - On-Line 2kVA/1.8kW UPS(Tower)",
+  "harga": "Rp 9,400,000"
+ },
+ {
+  "name": "Delta N Series - On-Line 3kVA/2.7kW UPS(Tower)",
+  "harga": "Rp 10,650,000"
+ },
+ {
+  "name": "Delta N Series - On-Line 6kVA/6kW UPS(Tower)",
+  "harga": "Rp 14,570,000"
+ },
+ {
+  "name": "Delta N Series - On-Line 10kVA/10kW UPS(Tower)",
+  "harga": "Rp 23,950,000"
+ },
+ {
+  "name": "Delta RT Series - On-Line 1kVA/0.9kW UPS (2U)",
+  "harga": "Rp 9,265,000"
+ },
+ {
+  "name": "Delta RT Series - On-Line 3kVA/2.7kW UPS(2U)",
+  "harga": "Rp 15,570,000"
+ },
+ {
+  "name": "Delta RT Series - On-Line Series 5kVA/4.5kW UPS (2U)",
+  "harga": "Rp 19,550,000"
+ },
+ {
+  "name": "Delta RT Series - On-Line Series 6kVA/5.4kW UPS (2U)",
+  "harga": "Rp 24,200,000"
+ },
+ {
+  "name": "Delta RT Series - On-Line Series 10kVA/9kW UPS (3U)",
+  "harga": "Rp 30,750,000"
+ },
+ {
+  "name": "Enlight 650P",
+  "harga": "Rp 430,000"
+ },
+ {
+  "name": "Enlight 850P",
+  "harga": "Rp 480,000"
+ },
+ {
+  "name": "Enlight 1200P / EL 1120",
+  "harga": "Rp 780,000"
+ },
+ {
+  "name": "Enlight 1500VA + AVR / EL 1150",
+  "harga": "Rp 900,000"
+ },
+ {
+  "name": "Prolink Pro700SFC - 650VA, Fast Charging",
+  "harga": "Rp 575,000"
+ },
+ {
+  "name": "Prolink Pro700SFCU - 650VA, Fast Charging With USB Port",
+  "harga": "Rp 714,000"
+ },
+ {
+  "name": "Prolink Pro851SFCU - 850VA, Full AVR, Sinewave Output With USB Port",
+  "harga": "Rp 890,000"
+ },
+ {
+  "name": "Prolink Pro1201SFCU - 1200 VA",
+  "harga": "Rp 1,055,000"
+ },
+ {
+  "name": "Prolink Pro1501SFC - 1500 VA",
+  "harga": "Rp 1,715,000"
+ },
+ {
+  "name": "Prolink Pro2000SFC - 2000 VA",
+  "harga": "Rp 2,440,000"
+ },
+ {
+  "name": "Prolink IPS1200 - Inverter 1200VA/600W",
+  "harga": "Rp 2,050,000"
+ },
+ {
+  "name": "Prolink IPS2400 - Inverter 2400VA/1400W",
+  "harga": "Rp 2,620,000"
+ },
+ {
+  "name": "Prolink IPS3001 - Inverter 3000VA/2500W",
+  "harga": "Rp 8,690,000"
+ },
+ {
+  "name": "Prolink PRO801QS - 1P/1P Online UPS 1KVA",
+  "harga": "Rp 7,830,000"
+ },
+ {
+  "name": "Prolink PRO802QS - 1P/1P Online UPS 2KVA",
+  "harga": "Rp 11,730,000"
+ },
+ {
+  "name": "Prolink PRO803QS - 1P/1P Online UPS 3KVA",
+  "harga": "Rp 13,570,000"
+ },
+ {
+  "name": "Prolink PRO901WS - Online UPS 1KVA/700w",
+  "harga": "Rp 4,570,000"
+ },
+ {
+  "name": "Prolink PRO902WS - Online UPS 2KVA/1400w",
+  "harga": "Rp 7,640,000"
+ },
+ {
+  "name": "Prolink PRO903WS - Online UPS 3KVA/2100w",
+  "harga": "Rp 10,555,000"
+ },
+ {
+  "name": "Prolink PRO906WS - Online UPS 6KVA",
+  "harga": "Rp 28,780,000"
+ },
+ {
+  "name": "Prolink PRO910WS - Online UPS 10KVA",
+  "harga": "Rp 36,000,000"
+ },
+ {
+  "name": "Prolink PRO801ES",
+  "harga": "Rp 6,540,000"
+ },
+ {
+  "name": "Prolink PRO802ES",
+  "harga": "Rp 10,505,000"
+ },
+ {
+  "name": "Prolink PRO803ES",
+  "harga": "Rp 12,280,000"
+ },
+ {
+  "name": "Prolink Stabilizer PVR500D - AVR Series 500VA",
+  "harga": "Rp 378,000"
+ },
+ {
+  "name": "Prolink Stabilizer PVR1000D - AVR Series 1000VA",
+  "harga": "Rp 465,000"
+ },
+ {
+  "name": "Prolink Stabilizer PVR2000D - AVR Series 2000VA",
+  "harga": "Rp 749,000"
+ },
+ {
+  "name": "Prolink Stabilizer PVR3000D - AVR Series 3000VA",
+  "harga": "Rp 1,170,000"
+ },
+ {
+  "name": "Prolink Portable Solar Light With 2 LED - PPS80M",
+  "harga": "Rp 390,000"
+ },
+ {
+  "name": "Prolink 70W DC Portable Solar UPS + Panel 24W - PPS70",
+  "harga": "Rp 2,010,000"
+ },
+ {
+  "name": "Prolink 450W DC Portable Solar UPS + Panel 100W + Bat 65Ah - Zone 450",
+  "harga": "Rp 6,210,000"
+ },
+ {
+  "name": "Prolink Battrey 12V/8.2AH",
+  "harga": "Rp 250,000"
+ },
+ {
+  "name": "Prolink Battrey 12V/10AH",
+  "harga": "Rp 306,000"
+ },
+ {
+  "name": "FSP Champ Series - Champ 1K 1000VA/900W",
+  "harga": "Rp 4,380,000"
+ },
+ {
+  "name": "FSP Champ Series - Champ 2K 2000VA/1800W",
+  "harga": "Rp 8,355,000"
+ },
+ {
+  "name": "FSP Champ Series - Champ 3K 3000VA/2700W",
+  "harga": "Rp 11,080,000"
+ },
+ {
+  "name": "FSP FP Series - FP 600 600VA",
+  "harga": "Rp 482,000"
+ },
+ {
+  "name": "FSP EP Series - EP 1500 1500VA",
+  "harga": "Rp 2,108,000"
+ },
+ {
+  "name": "FSP GP Series - GP 1000 1000VA",
+  "harga": "Rp 1,185,000"
+ },
+ {
+  "name": "FSP GP Series - GP 1500 1500VA",
+  "harga": "Rp 2,108,000"
+ },
+ {
+  "name": "FSP GP Series - GP 2000 2000VA",
+  "harga": "Rp 2,375,000"
+ },
+ {
+  "name": "APC Back-UPS RS 650VA 230V without software Include Protect RJ11 - BX650LI-MS",
+  "harga": "Rp 570,000"
+ },
+ {
+  "name": "APC Easy UPS BV 800VA, AVR, Universal Outlet, 230V - BV800i-MS",
+  "harga": "Rp 915,000"
+ },
+ {
+  "name": "APC Back-UPS RS 800VA 230V + AVR, Universal Outlets - BX800LI-MS",
+  "harga": "Rp 915,000"
+ },
+ {
+  "name": "APC Back-UPS 950Va AVR, Incl Protection RJ-11, Universal + IEC Outlet, USB - BX950U-MS - Weight 12Kg",
+  "harga": "Rp 1,620,000"
+ },
+ {
+  "name": "APC Easy UPS BV 1000VA, AVR, Universal Outlet, 230V - BV1000i-MS",
+  "harga": "Rp 1,370,000"
+ },
+ {
+  "name": "APC Back-UPS RS 1100VA 230V Universal Outlets - BX1100LI-MS - Weight 20Kg",
+  "harga": "Rp 1,360,000"
+ },
+ {
+  "name": "APC Back-UPS RS 1400VA 230V without software Include Protect RJ11 - BX1400U-MS",
+  "harga": "Rp 1,940,000"
+ },
+ {
+  "name": "APC Back-UPS RS 550VA LCD, Master Control - BR550Gi - Weight 8Kg",
+  "harga": "Rp 1,920,000"
+ },
+ {
+  "name": "APC Back-UPS RS900 LCD, Master Control - BR900Gi - Weight 12Kg",
+  "harga": "Rp 2,930,000"
+ },
+ {
+  "name": "APC Back-UPS RS 1200VA LCD, Master Control - BR1200Gi - Weight 14Kg",
+  "harga": "Rp 4,550,000"
+ },
+ {
+  "name": "APC Back-UPS RS 1500VA LCD, Master Control - BR1500Gi - Weight 15Kg",
+  "harga": "Rp 5,450,000"
+ },
+ {
+  "name": "APC Back-UPS RS 1500VA 24V Battery Pack BR1500Gi - BR24BPG - Weight 15Kg",
+  "harga": "Rp 2,310,000"
+ },
+ {
+  "name": "APC Replacement Battery Cartridge RBC-110",
+  "harga": "Rp 525,000"
+ },
+ {
+  "name": "APC Easy UPS SRV 1000VA 230V - SRV1KI",
+  "harga": "Rp 5,350,000"
+ },
+ {
+  "name": "APC Easy UPS SRV 2000VA 230V - SRV2KI",
+  "harga": "Rp 8,220,000"
+ },
+ {
+  "name": "APC Smart UPS 420VA - SC420i - Weight 11Kg",
+  "harga": "Rp 1,630,000"
+ },
+ {
+  "name": "APC Smart UPS SC 450VA - SC450RMI1U - Weight 12Kg",
+  "harga": "Rp 2,868,000"
+ },
+ {
+  "name": "APC Smart UPS 620VA - SC620i - Weight 14Kg",
+  "harga": "Rp 2,240,000"
+ },
+ {
+  "name": "APC Smart UPS RC 1000VA, 230V - SRC1KI",
+  "harga": "Rp 7,150,000"
+ },
+ {
+  "name": "APC Smart UPS 1000VA LCD 230V - SMC1000i - Weight 20Kg",
+  "harga": "Rp 4,225,000"
+ },
+ {
+  "name": "APC Smart UPS 1000VA 2U Rackmount LCD 230V - SMC1000i-2U - Weight 23Kg",
+  "harga": "Rp 4,950,000"
+ },
+ {
+  "name": "APC Smart UPS 1500VA - SC1500i",
+  "harga": "Rp 4,157,000"
+ },
+ {
+  "name": "APC Smart UPS 1500VA LCD 230V- SMC1500i - Weight 28Kg",
+  "harga": "Rp 5,750,000"
+ },
+ {
+  "name": "APC Smart UPS 1500VA 2U Rackmount LCD 230V - SMC1500i-2U - Weight 32Kg",
+  "harga": "Rp 6,325,000"
+ },
+ {
+  "name": "APC Smart UPS 2000VA LCD 230V - SMC2000i",
+  "harga": "Rp 7,870,000"
+ },
+ {
+  "name": "APC Smart UPS 2000VA LCD 230V 2U Rackmount - SMC2000i-2U",
+  "harga": "Rp 9,600,000"
+ },
+ {
+  "name": "APC Smart UPS 3000VA LCD 230V - SMC3000i",
+  "harga": "Rp 10,300,000"
+ },
+ {
+  "name": "APC Smart UPS 3000VA LCD 230V 2U Rackmount - SMC3000RMi-2U",
+  "harga": "Rp 12,300,000"
+ },
+ {
+  "name": "APC Smart UPS 750VA, USB/Serial Connection, Black Casing - SUA750i - Weight 15Kg",
+  "harga": "Rp 3,380,000"
+ },
+ {
+  "name": "APC Smart UPS 1000VA, USB/Serial Connection, Black Casing - SUA1000i - Weight 21Kg",
+  "harga": "Rp 4,840,000"
+ },
+ {
+  "name": "APC Smart UPS 1500VA, USB/Serial Connection, Black Casing - SUA1500i - Weight 28Kg",
+  "harga": "Rp 5,870,000"
+ },
+ {
+  "name": "APC Smart UPS 2200VA, USB/Serial Connection, Black Casing - SUA2200i - Weight 65Kg",
+  "harga": "Rp 9,540,000"
+ },
+ {
+  "name": "APC Smart UPS 750VA LCD 230V - SMT750i",
+  "harga": "Rp 4,150,000"
+ },
+ {
+  "name": "APC Smart UPS 750VA LCD 230V, Rackmount - SMT750RMi2U",
+  "harga": "Rp 5,550,000"
+ },
+ {
+  "name": "APC Smart UPS 1000VA LCD 230V - SMT1000I",
+  "harga": "Rp 6,400,000"
+ },
+ {
+  "name": "APC Smart UPS 1000VA LCD 230V, Rackmount - SMT1000RMi2U",
+  "harga": "Rp 6,800,000"
+ },
+ {
+  "name": "APC Smart UPS 1500VA LCD 230V - SMT1500i",
+  "harga": "Rp 8,350,000"
+ },
+ {
+  "name": "APC Smart UPS 1500VA LCD 230V, Rackmount - SMT1500RMi2U",
+  "harga": "Rp 9,200,000"
+ },
+ {
+  "name": "APC Smart UPS 2200VA LCD 230V - SMT2200I",
+  "harga": "Rp 11,600,000"
+ },
+ {
+  "name": "APC Smart UPS 2200VA LCD 230V, Rackmount - SMT2200RMI2U",
+  "harga": "Rp 16,250,000"
+ },
+ {
+  "name": "APC Smart UPS 3000VA LCD 230V - SMT3000I",
+  "harga": "Rp 16,450,000"
+ },
+ {
+  "name": "APC Smart UPS 3000VA LCD 230V, Rackmount - SMT3000RMi2U",
+  "harga": "Rp 21,400,000"
+ },
+ {
+  "name": "APC Smart UPS X 750VA, LCD, 230V - SMX750i",
+  "harga": "Rp 6,790,000"
+ },
+ {
+  "name": "APC Smart UPS X 1000VA, LCD, 230V - SMX1000i",
+  "harga": "Rp 8,130,000"
+ },
+ {
+  "name": "APC Smart UPS X 1500VA, LCD, 230V - SMX1500RMi2U",
+  "harga": "Rp 12,110,000"
+ },
+ {
+  "name": "APC Smart UPS X 1500VA, LCD, 230V, with Network Card - SMX1500RMi2UNC",
+  "harga": "Rp 13,410,000"
+ },
+ {
+  "name": "APC Smart UPS X 2200VA, LCD, 200-240V, Short Depth - SMX2200HV",
+  "harga": "Rp 21,470,000"
+ },
+ {
+  "name": "APC Smart UPS X 2200VA, LCD, 200-240V - SMX2200RMHV2U",
+  "harga": "Rp 19,600,000"
+ },
+ {
+  "name": "APC Smart UPS X 3000VA, LCD, 200-240V, Short Depth - SMX3000HV",
+  "harga": "Rp 24,350,000"
+ },
+ {
+  "name": "APC Smart UPS X 3000VA, LCD, 200-240V, Short Depth, with Network Card - SMX3000HVNC",
+  "harga": "Rp 31,300,000"
+ },
+ {
+  "name": "APC Smart UPS X 3000VA, LCD, 200-240V - SMX3000RMHV2U",
+  "harga": "Rp 19,300,000"
+ },
+ {
+  "name": "APC Smart UPS X 3000VA, LCD, 200-240V, With Network Card - SMX3000RMHV2UNC",
+  "harga": "Rp 25,910,000"
+ },
+ {
+  "name": "APC Smart UPS X-Series 48V External Battery Pack - SMX48RMBP2U",
+  "harga": "Rp 6,525,000"
+ },
+ {
+  "name": "APC Smart UPS RC 1000VA, 230V - SRC1000i",
+  "harga": "Rp 7,250,000"
+ },
+ {
+  "name": "APC Smart UPS RC 2000VA, 230V - SRC2000XLi",
+  "harga": "Rp 16,500,000"
+ },
+ {
+  "name": "APC Smart UPS RC 3000VA, 230V - SRC3000XLi",
+  "harga": "Rp 17,300,000"
+ },
+ {
+  "name": "APC Smart UPS SRT 2200VA/1980WATT On-Line 230v LCD - SRT2200XLI",
+  "harga": "Rp 18,700,000"
+ },
+ {
+  "name": "APC Smart UPS SRT 3000VA/2700WATT On-Line 230v LCD - SRT3000XLI",
+  "harga": "Rp 24,300,000"
+ },
+ {
+  "name": "APC Smart UPS SRT 5000VA, 230V - SRT5KXLi",
+  "harga": "Rp 35,500,000"
+ },
+ {
+  "name": "APC Smart UPS SRT 5000VA, 230V, Rackmount - SRT5KRMXLi",
+  "harga": "Rp 39,940,000"
+ },
+ {
+  "name": "APC Smart UPS SRT 6000VA, 230V - SRT6KXLi",
+  "harga": "Rp 37,300,000"
+ },
+ {
+  "name": "APC Smart UPS SRT 6000VA, 230V, Rackmount - SRT6KRMXLi",
+  "harga": "Rp 43,830,000"
+ },
+ {
+  "name": "APC Smart UPS SRT 8000VA, 230V - SRT8KXLi",
+  "harga": "Rp 46,500,000"
+ },
+ {
+  "name": "APC Smart UPS SRT 8000VA, 230V, Rackmount - SRT8KRMXLi",
+  "harga": "Rp 52,320,000"
+ },
+ {
+  "name": "APC Smart UPS SRT 10000VA, 230V - SRT10KXLi",
+  "harga": "Rp 54,250,000"
+ },
+ {
+  "name": "APC Smart UPS SRT 10000VA, 230V, Rackmount - SRT10KRMXLi",
+  "harga": "Rp 63,300,000"
+ },
+ {
+  "name": "APC Smart UPS SRT 19” Rail Kit - SRTRK2",
+  "harga": "Rp 2,525,000"
+ },
+ {
+  "name": "APC Smart UPS SRT 19” Rail Kit - SRTRK5",
+  "harga": "Rp 2,490,000"
+ },
+ {
+  "name": "APC Smart UPS SRT 192V External Battery Pack for 5Kva dan 6Kva Tower - SRT192BP",
+  "harga": "Rp 9,900,000"
+ },
+ {
+  "name": "APC Smart UPS SRT 192V External Battery Pack for 8Kva dan 10Kva Tower - SRT192BP2",
+  "harga": "Rp 9,950,000"
+ },
+ {
+  "name": "APC Smart UPS SRT 192V External Battery Pack for 5Kva dan 6Kva Rackmount - SRT192RMBP",
+  "harga": "Rp 11,670,000"
+ },
+ {
+  "name": "APC Smart UPS SRT 192V External Battery Pack for 8Kva dan 10Kva Rackmount - SRT192RMBP2",
+  "harga": "Rp 12,250,000"
+ },
+ {
+  "name": "APC Smart UPS XL 750VA, USB/Serial Connection - SUA750XLi",
+  "harga": "Rp 3,361,000"
+ },
+ {
+  "name": "APC Smart UPS XL 1000VA, USB/Serial Connection - SUA1000XLi - Weight 30Kg",
+  "harga": "Rp 5,250,000"
+ },
+ {
+  "name": "APC Smart UPS XL 2200VA - SUA2200XLi",
+  "harga": "Rp 10,738,000"
+ },
+ {
+  "name": "APC Smart UPS XL3000VA - SUA3000XLi - Weight 83Kg",
+  "harga": "Rp 14,549,000"
+ },
+ {
+  "name": "APC Smart UPS 24V Battery Pack for XL type (for 750/1000VA) - SUA24XLBP - Weight 34Kg",
+  "harga": "Rp 3,633,000"
+ },
+ {
+  "name": "APC Smart UPS 48V Battery Pack for XL type (for 2200VA) - SUA48XLBP - Weight 77Kg",
+  "harga": "Rp 7,379,000"
+ },
+ {
+  "name": "APC Smart UPS RM 750VA 2U - SUA750RMI2U - Weight 26Kg",
+  "harga": "Rp 4,362,000"
+ },
+ {
+  "name": "APC Smart UPS RM 750VA 1U - SUA750RMI1U - Weight 26Kg",
+  "harga": "Rp 4,706,000"
+ },
+ {
+  "name": "APC Smart UPS RM 1000VA 2U - SUA1000RMI2U - Weight 32Kg",
+  "harga": "Rp 5,910,000"
+ },
+ {
+  "name": "APC Smart UPS RM 1000VA 1U - SUA1000RMI1U - Weight 26Kg",
+  "harga": "Rp 5,730,000"
+ },
+ {
+  "name": "APC Smart UPS RM 1500VA 2U - SUA1500RMI2U - Weight 29Kg",
+  "harga": "Rp 7,960,000"
+ },
+ {
+  "name": "APC Smart UPS RM 3000VA 2U - SUA3000RMI2U - Weight 55Kg",
+  "harga": "Rp 15,601,000"
+ },
+ {
+  "name": "APC Smart UPS RM 5000VA 5U - SUA5000RMI5U - Weight 107Kg",
+  "harga": "Rp 27,550,000"
+ },
+ {
+  "name": "APC Smart UPS XL 2200VA RM 3U 230V - SUA2200RMXLi3U",
+  "harga": "Rp 12,986,000"
+ },
+ {
+  "name": "APC Smart UPS XL 3000VA RM 3U 230V- SUA3000RMXLi3U - Weight 75Kg",
+  "harga": "Rp 18,393,000"
+ },
+ {
+  "name": "APC Smart UPS XL 48V RM 3U Battery Pack - SUA48RMXLBP3U",
+  "harga": "Rp 7,886,000"
+ },
+ {
+  "name": "APC Smart UPS Online XL 1000VA - SURT1000XLi - Weight 28Kg",
+  "harga": "Rp 7,500,000"
+ },
+ {
+  "name": "APC Smart UPS Online XL 2000VA - SURT2000XLi - Weight 30Kg",
+  "harga": "Rp 14,200,000"
+ },
+ {
+  "name": "APC Smart UPS Online XL 3000VA - SURTD3000XLi - Weight 64Kg",
+  "harga": "Rp 21,300,000"
+ },
+ {
+  "name": "APC Smart UPS Online XL 5000VA - SURTD5000XLi - Weight 64Kg",
+  "harga": "Rp 30,100,000"
+ },
+ {
+  "name": "APC Smart UPS Online XL 6000VA - SURT6000XLi - Weight 64Kg",
+  "harga": "Rp 37,100,000"
+ },
+ {
+  "name": "APC Smart UPS Online XL 8000VA - SURT8000XLi - Weight 130Kg",
+  "harga": "Rp 44,530,000"
+ },
+ {
+  "name": "APC Smart UPS Online XL 10000VA - SURT10000XLi - Weight 130Kg",
+  "harga": "Rp 49,900,000"
+ },
+ {
+  "name": "APC Smart UPS 19\" Rail Kit for SURT1000/2000XLi - SURTRK - Weight 4Kg",
+  "harga": "Rp 2,050,000"
+ },
+ {
+  "name": "APC Smart UPS 19\" Rail Kit for SURT3000/5000/6000/8000/10000 - SURTRK2 - Weight 4Kg",
+  "harga": "Rp 1,950,000"
+ },
+ {
+  "name": "APC Extended Battery Pack for SURT - SURT48XLBP - Weight 33Kg",
+  "harga": "Rp 5,800,000"
+ },
+ {
+  "name": "APC Smart UPS Online 192V Battery Pack - SURT192XLBP",
+  "harga": "Rp 9,900,000"
+ },
+ {
+  "name": "APC Smart UPS RT 1000VA RM - SURT1000RMXLi",
+  "harga": "Rp 8,153,000"
+ },
+ {
+  "name": "APC Smart UPS RT 2000VA RM - SURT2000RMXLi",
+  "harga": "Rp 13,857,000"
+ },
+ {
+  "name": "APC Smart UPS RT 6000VA RM - SURT6000RMXLi",
+  "harga": "Rp 34,141,000"
+ },
+ {
+  "name": "APC Smart UPS RT 8000VA RM - SURT8000RMXLi",
+  "harga": "Rp 40,698,000"
+ },
+ {
+  "name": "APC Smart UPS RT 10000VA RM - SURT10000RMXLi",
+  "harga": "Rp 46,000,000"
+ },
+ {
+  "name": "APC Smart UPS RT 3000VA RM - SURTD3000RMXLI - Weight 64Kg",
+  "harga": "Rp 19,429,000"
+ },
+ {
+  "name": "APC Smart UPS RT 5000VA RM - SURTD5000RMXLI",
+  "harga": "Rp 33,750,000"
+ },
+ {
+  "name": "APC Smart UPS RT 15000VA RM - SURT15KRMXLI - Weight 315Kg",
+  "harga": "Rp 113,275,000"
+ },
+ {
+  "name": "APC Smart UPS RT 20000VA RM - SURT20KRMXLI - Weight 315Kg",
+  "harga": "Rp 126,810,000"
+ },
+ {
+  "name": "APC Smart UPS RT 192V RM Battery Pack - SURT192RMXLBP2",
+  "harga": "Rp 30,180,000"
+ },
+ {
+  "name": "APC Smart UPS XL 1400VA RM 3U 230V - Black - SU1400RMXLIB3U",
+  "harga": "Rp 7,390,000"
+ },
+ {
+  "name": "APC Smart UPS RM 2U XL 24V Battery Pack Black - SU24R2XLBP",
+  "harga": "Rp 4,510,000"
+ },
+ {
+  "name": "APC Smart UPS RM 2200VA, 3U, Black Casing - SUA2200RMXLI3U",
+  "harga": "Rp 12,956,000"
+ },
+ {
+  "name": "APC Smart UPS RM XL 3000VA, 3U, Black Casing - SUA300RMXLI3U",
+  "harga": "Rp 18,523,000"
+ },
+ {
+  "name": "APC Smart UPS RM XL 3U, 48V Battery Pack - SUA48RMXLBP3U",
+  "harga": "Rp 7,504,000"
+ },
+ {
+  "name": "APC Smart UPS XL 1500VA Modular RackMount / Tower - SUM1500RMXLI2U - Weight 57Kg",
+  "harga": "Rp 14,899,000"
+ },
+ {
+  "name": "APC Smart UPS XL 3000VA Modular RackMount / Tower - SUM3000RMXLI2U - Weight 57Kg",
+  "harga": "Rp 23,300,000"
+ },
+ {
+  "name": "APC Smart UPS Extended Battery Pack For SUM1500/3000RMXLI2U - SUM48RMXLBP2U",
+  "harga": "Rp 8,350,000"
+ },
+ {
+  "name": "APC Smart Rack Dimension 42U x 600mm x 1060mm Include APC PDU- SRE-6442-2 CLOSERACK 42U",
+  "harga": "Rp 9,990,000"
+ },
+ {
+  "name": "APC Rack Kapasitas 12 VA – 7,2 AH - AR100HD",
+  "harga": "Rp 7,800,000"
+ },
+ {
+  "name": "APC Rack Kapasitas 12 VA – 12 AH - AR2400FP1",
+  "harga": "Rp 11,200,000"
+ },
+ {
+  "name": "APC Rack NetShelter SX 42U, 600mm Wide x 1070mm Deep Enclosure - AR3100",
+  "harga": "Rp 16,800,000"
+ },
+ {
+  "name": "APC Rack NetShelter SX 42U 750mm Wide x 1070mm Deep Enclosure - AR3150",
+  "harga": "Rp 19,100,000"
+ },
+ {
+  "name": "APC Rack NetShelter SX 42U 600mm Wide x 1200mm Deep Enclosure - AR3300",
+  "harga": "Rp 22,300,000"
+ },
+ {
+  "name": "APC Rack NetShelter SX 42U 750mm Wide x 1200mm Deep Enclosure - AR3350",
+  "harga": "Rp 28,300,000"
+ },
+ {
+  "name": "APCPDU Rack PDU,Basic, Zero U, 16A, 230V, (20) C13 & (4) C19; IEC C20 - AP7752",
+  "harga": "Rp 2,820,000"
+ },
+ {
+  "name": "APC PDU Rack PDU,Basic, Zero U, 32A, 230V, (20) C13 & (4) C19; IEC C20 - AP7553",
+  "harga": "Rp 3,630,000"
+ },
+ {
+  "name": "APC PDU Rack PDU 2G, Metered, ZeroU, 32A, 230V, (36) C13 & (6) C19 - AP8853",
+  "harga": "Rp 5,350,000"
+ },
+ {
+  "name": "APC Essential SurgeArrest, 1 Outlet 230V - PM1W-GR",
+  "harga": "Rp 240,000"
+ },
+ {
+  "name": "APC Essential SurgeArrest, 5 Outlets 230V - PM5-GR",
+  "harga": "Rp 300,000"
+ },
+ {
+  "name": "APC Essential SurgeArrest, 5 Outlets With 5V, 2.4A 2-Port USB Charger 230V - PM5U-GR",
+  "harga": "Rp 450,000"
+ },
+ {
+  "name": "APC Essential SurgeArrest, 5 Outlets With Coax Protection 230V - PM5V-GR",
+  "harga": "Rp 380,000"
+ },
+ {
+  "name": "APC Essential SurgeArrest, 5 Outlets With Phone Protection 230V - PM5T-GR",
+  "harga": "Rp 380,000"
+ },
+ {
+  "name": "APC Essential SurgeArrest, 6 Outlets 230V - PM6-GR",
+  "harga": "Rp 450,000"
+ },
+ {
+  "name": "APC Essential SurgeArrest, 6 Outlets With 5V, 2.4A 2-Port USB Charger 230V - PM6U-GR",
+  "harga": "Rp 550,000"
+ },
+ {
+  "name": "APC Essential SurgeArrest, 8 Outlets 230V - PM8-GR",
+  "harga": "Rp 655,000"
+ },
+ {
+  "name": "APC Performance SurgeArrest 8 Outlets With Phone & Coax Protection 230V - PMF83VT-GR",
+  "harga": "Rp 760,000"
+ },
+ {
+  "name": "APC 6.6-Ft AC Power Cord IEC 320 C19 to IEC 320 C20 - AP9877",
+  "harga": "Rp 320,000"
+ },
+ {
+  "name": "APC Ethernet 1000/100 BaseT, 10BaseT and Toker Ring - PNET1GB",
+  "harga": "Rp 280,000"
+ },
+ {
+  "name": "APC Data Line Surge Supressor - PTEL2",
+  "harga": "Rp 240,000"
+ },
+ {
+  "name": "APC SurgeArrest 5 Outlet with Phone - P5BT-GR",
+  "harga": "Rp 285,000"
+ },
+ {
+  "name": "APC SurgeArrest 5 Outlet with Coax Protection - P5BV-GR",
+  "harga": "Rp 260,000"
+ },
+ {
+  "name": "APC SurgeArrest 5 Outlet - P5B-GR",
+  "harga": "Rp 200,000"
+ },
+ {
+  "name": "APC Personal SurgeArrest 5 outlet 230V VN/TH/PH - P5-VN",
+  "harga": "Rp 270,000"
+ },
+ {
+  "name": "APC personal Surgearrest 5 outlet with phone protection 230V VN/TH/PH - P5T-VN",
+  "harga": "Rp 340,000"
+ },
+ {
+  "name": "APC SurgeArrest 8 Outlet with Phone, Coax & Network Protection 230V - PF8VNT3-GR",
+  "harga": "Rp 495,000"
+ },
+ {
+  "name": "APC SurgeArrest 6 Outlet with Phone, Coax - PH6VT3-GR",
+  "harga": "Rp 375,000"
+ },
+ {
+  "name": "APC SurgeArrest 6 Outlet with Phone - PH6T3-GR",
+  "harga": "Rp 325,000"
+ },
+ {
+  "name": "APC SurgeArrest 1 Outlet 230V - P1-GR",
+  "harga": "Rp 160,000"
+ },
+ {
+  "name": "APC SurgeArrest 1 Outlet 230V With Phone Protection - P1T-GR",
+  "harga": "Rp 233,000"
+ },
+ {
+  "name": "APC Universal Plug Adapter, EMEA - INPA",
+  "harga": "Rp 150,000"
+ },
+ {
+  "name": "APC Line-R 600VA Automatic Regulator - LE600i",
+  "harga": "Rp 426,000"
+ },
+ {
+  "name": "APC Line-R 1200VA Automatic Regulator - LE1200i",
+  "harga": "Rp 755,000"
+ },
+ {
+  "name": "APC ProtectNet Digila Line Telephone - PDIGITEL",
+  "harga": "Rp 225,000"
+ },
+ {
+  "name": "APC SurgeArrest Notebook Pro C6 w/tel inline design 3 Pin - PNOTEPRO6-EC",
+  "harga": "Rp 230,000"
+ },
+ {
+  "name": "APC SurgeArrest Notebook Pro C6 w/tel inline design 2 Pin - PNOTEPRO8-EC",
+  "harga": "Rp 232,000"
+ },
+ {
+  "name": "APC PRM 19\" Chassic, 1U, 24 Channels - PRM24",
+  "harga": "Rp 357,000"
+ },
+ {
+  "name": "APC Replaceable , RM, 1U, CAT 6 Network - PNETR6",
+  "harga": "Rp 230,000"
+ },
+ {
+  "name": "APC Replaceable , RM, 1U, 2Line, Teclo - PTEL2R",
+  "harga": "Rp 223,000"
+ },
+ {
+  "name": "APC Power Cord C13 to C14 2.5m - AP9870",
+  "harga": "Rp 180,000"
+ },
+ {
+  "name": "APC Power Cord C14 to CEE 7 Schuko, 2.5m - AP9875",
+  "harga": "Rp 309,000"
+ },
+ {
+  "name": "APC Power Cord C19 To C14 - 2 Meter - AP9878",
+  "harga": "Rp 329,000"
+ },
+ {
+  "name": "APC Power Cord, 10A, 230V, C14 to Schuko rec - AP9880",
+  "harga": "Rp 310,000"
+ },
+ {
+  "name": "APC Power Cord C13 to C20, 2m - AP9879",
+  "harga": "Rp 329,000"
+ },
+ {
+  "name": "APC Interface Expander with 2 UPS Communication Cables Smartslot Card - AP9607CB",
+  "harga": "Rp 2,136,000"
+ },
+ {
+  "name": "APC Network Management Card With Enviromental Monitoring - AP9618",
+  "harga": "Rp 4,965,000"
+ },
+ {
+  "name": "APC Network Management Card 2 - AP9630",
+  "harga": "Rp 3,210,000"
+ },
+ {
+  "name": "APC Network Management Card With Enviromental Monitoring - AP9631",
+  "harga": "Rp 5,126,000"
+ },
+ {
+  "name": "Liebert ITON 600VA + AVR - PSA600-ID",
+  "harga": "Rp 545,000"
+ },
+ {
+  "name": "Liebert PSA ITON 1000VA + AVR - PSA1000-BX",
+  "harga": "Rp 1,650,000"
+ },
+ {
+  "name": "Liebert 650VA, 230 V + AVR, USB + Multilink® Software - PSA650MT3-230U",
+  "harga": "Rp 1,480,000"
+ },
+ {
+  "name": "Liebert 1000VA, 230 V + AVR, USB + Multilink® Software - PSA1000MT3-230U",
+  "harga": "Rp 2,870,000"
+ },
+ {
+  "name": "Liebert 1500VA, 230 V + AVR, USB + Multilink® Software - PSA1500MT3-230U",
+  "harga": "Rp 3,420,000"
+ },
+ {
+  "name": "Liebert PSI 1500VA/1350W, 230 V 2U PF 0.9, Rack/Tower, USB + Multilink® Software - PS1500RT3-230",
+  "harga": "Rp 11,070,000"
+ },
+ {
+  "name": "Liebert PSI 2200VA/1980W, 230 V 2U PF 0.9, Rack/Tower, USB + Multilink® Software - PS2200RT3-230",
+  "harga": "Rp 16,650,000"
+ },
+ {
+  "name": "Liebert PSI 3000VA/2700W, 230 V 2U PF 0.9, Rack/Tower, USB + Multilink® Software - PS3000RT3-230",
+  "harga": "Rp 19,700,000"
+ },
+ {
+  "name": "Liebert GXT-MTPLUS On-Line 1000VA/800W 230V LCD Tower ; USB / Serial Software - GXT1000-MTPlus",
+  "harga": "Rp 6,600,000"
+ },
+ {
+  "name": "Liebert GXT-MTPLUS On-Line 2000VA/1600W 230V LCD Tower ; USB / Serial Software - GXT2000-MTPlus",
+  "harga": "Rp 9,000,000"
+ },
+ {
+  "name": "Liebert GXT-MTPLUS On-Line 3000VA/2400W 230V LCD Tower ; USB / Serial Software - GXT3000-MTPlus",
+  "harga": "Rp 11,970,000"
+ },
+ {
+  "name": "SNMP Management Card For GXT-MTPLUS - DP801",
+  "harga": "Rp 3,605,000"
+ },
+ {
+  "name": "Liebert GXT-MTPLUS On-Line 1000VA/900W 230V LCD Tower ; USB / Serial Software - GXT1000-MTPlusC230",
+  "harga": "Rp 7,300,000"
+ },
+ {
+  "name": "Liebert GXT-MTPLUS On-Line 2000VA/1800W 230V LCD Tower ; USB / Serial Software - GXT2000-MTPlusC230",
+  "harga": "Rp 12,380,000"
+ },
+ {
+  "name": "Liebert GXT-MTPLUS On-Line 3000VA/2700W 230V LCD Tower ; USB / Serial Software - GXT3000-MTPlusC230",
+  "harga": "Rp 15,400,000"
+ },
+ {
+  "name": "SNMP Management Card for GXT-MTPLUSC230 - DY801",
+  "harga": "Rp 3,750,000"
+ },
+ {
+  "name": "Liebert ITA 5KVA / 4.5KW UPS 230V/400V LCD standard model (no battery) 2U (adjustable to 1x1pshare I/O and 3x1phase I/O) (no battery) - 1201056",
+  "harga": "Rp 15,850,000"
+ },
+ {
+  "name": "Liebert ITA 5KVA / 4.5KW UPS 230V/400V LCD long backup model (no battery) 2U (adjustable to 1x1pshare I/O and 3x1phase I/O) (no battery) - 1201057",
+  "harga": "Rp 20,900,000"
+ },
+ {
+  "name": "Liebert ITA 6KVA / 4.8KW UPS 230V/400V LCD standard model (no battery) 2U (adjustable to 1x1pshare I/O and 3x1phase I/O) (no battery) - 1200858",
+  "harga": "Rp 24,000,000"
+ },
+ {
+  "name": "Liebert ITA 6KVA / 4.8KW UPS 230V/400V LCD long backup model (no battery) 2U (adjustable to 1x1pshare I/O and 3x1phase I/O) (no battery) - 1200859",
+  "harga": "Rp 25,000,000"
+ },
+ {
+  "name": "Liebert ITA 10KVA / 9KW UPS 230V/400V LCD standard model (no battery) 2U - 1200610",
+  "harga": "Rp 29,389,000"
+ },
+ {
+  "name": "Liebert ITA 10KVA/9KW UPS 230V/400V LCD long backup model (no battery) 2U - 1200679",
+  "harga": "Rp 36,900,000"
+ },
+ {
+  "name": "Liebert External Battery Cabinet For Liebert ITA, 2U - 2351253",
+  "harga": "Rp 13,600,000"
+ },
+ {
+  "name": "Liebert Adjustable Rail Kit For Liebert ITA - 2354061",
+  "harga": "Rp 1,460,000"
+ },
+ {
+  "name": "Liebert SIC Card For SNMP/WEB Management for Liebert ITA - 2351817",
+  "harga": "Rp 3,480,000"
+ },
+ {
+  "name": "Parallel communication cable kit for Liebert ITA 5/6/10KVA, 2pcs required for 1+1, 3pcs for 2+1, and 4pcs for 3+1 - 4118928/L5-10",
+  "harga": "Rp 280,000"
+ },
+ {
+  "name": "Parallel cable kit for ITA 16/20KVA, 2pcs required for 1+1, 3pcs for 2+1, and 4pcs for 3+1 - 4118928/L16-20",
+  "harga": "Rp 560,000"
+ },
+ {
+  "name": "Liebert ITA 16KVA / 14.4KW UPS 400V LCD long backup model (no battery) - 1200758",
+  "harga": "Rp 52,955,000"
+ },
+ {
+  "name": "Liebert ITA 20KVA / 18KW UPS 400V LCD long backup model (no battery) - 1200782",
+  "harga": "Rp 59,925,000"
+ },
+ {
+  "name": "Liebert GXT3 On-Line 1000VA/900W 230V PF0.9 2U Extended Run Rack / Tower Multilink Software - GXT3-1000RT230",
+  "harga": "Rp 9,150,000"
+ },
+ {
+  "name": "Liebert GXT3 On-Line 1500VA/1350W 230V PF0.9 2U Extended Run Rack / Tower Multilink Software - GXT3-1500RT230",
+  "harga": "Rp 9,850,000"
+ },
+ {
+  "name": "Liebert GXT3 On-Line 1800VA/1800W 230V PF0.9 2U Extended Run Rack / Tower Multilink Software - GXT3-2000RT230",
+  "harga": "Rp 15,050,000"
+ },
+ {
+  "name": "Liebert GXT3 On-Line 3000VA/2700W 230V PF0.9 2U Extended Run Rack / Tower Multilink Software - GXT3-3000RT230",
+  "harga": "Rp 17,700,000"
+ },
+ {
+  "name": "Liebert GXT3 On-Line 5000VA/4500W 230V PF0.8 5U Extended Run Rack/Tower Multilink Software - GXT3-5000RT230",
+  "harga": "Rp 33,600,000"
+ },
+ {
+  "name": "Liebert GXT3 On-Line 6000VA/4800W 230V PF0.8 5U Extended Run Rack/Tower Multilink Software - GXT3-6000RT230",
+  "harga": "Rp 35,600,000"
+ },
+ {
+  "name": "Liebert GXT3 On-Line 10000VA/9000W 230V PF0.9 6U Extended Run Rack/Tower Multilink Software - GXT3-10000RT230",
+  "harga": "Rp 60,475,000"
+ },
+ {
+  "name": "Liebert GXT3 On-Line 10000VA/9000W 230V PF0.9 Extended Run Rack/Tower Multilink Software - GXT3-10000T230",
+  "harga": "Rp 60,000,000"
+ },
+ {
+  "name": "Liebert GXT3 On-Line 10000VA/9000W 230V PF0.9 Extended Run Rack/Tower With Isolation Multilink Software - GXT3-10000T220",
+  "harga": "Rp 75,000,000"
+ },
+ {
+  "name": "Extended Battery Pack For GXT3 1000VA, 1500VA, and 2000VA - GXT3-48VBATT",
+  "harga": "Rp 8,100,000"
+ },
+ {
+  "name": "Extended Battery Pack For GXT3-3000RT230 - GXT3-72VBATT",
+  "harga": "Rp 11,200,000"
+ },
+ {
+  "name": "Extended Battery Cabinet For GXT4 700VA, 1000VA, 1500VA, And 2000VA, Rail Kit Bundled - GXT4-48VBATT",
+  "harga": "Rp 9,950,000"
+ },
+ {
+  "name": "Extended Battery Cabinet For GXT3-3000RT230, Rail Kit Bundled - GXT4-72VBATT",
+  "harga": "Rp 13,970,000"
+ },
+ {
+  "name": "Extended Battery Cabinet For GXT3-5000RT230/GXT3- 6000RT230/GXT4-10000RT230, Rail Kit Bundled - GXT4-240VBATT",
+  "harga": "Rp 21,500,000"
+ },
+ {
+  "name": "Intellislot OpenComms Web and SNMP management card for GXT2/GXT3 - IS-WEBCARD",
+  "harga": "Rp 4,470,000"
+ },
+ {
+  "name": "Rackmount Kit For GXT2/GXT3 - RMKIT 18-32",
+  "harga": "Rp 1,120,000"
+ },
+ {
+  "name": "AVAPro LI-700 700VA/360WATT DC IN 12V",
+  "harga": "Rp 430,000"
+ },
+ {
+  "name": "AVAPro LI-1400 1400VA/720WATT DC IN 24V",
+  "harga": "Rp 780,000"
+ },
+ {
+  "name": "AVAPro LI-1800 1800VA/900WATT DC IN 36V",
+  "harga": "Rp 1,585,000"
+ },
+ {
+  "name": "AVAPro LI-2400 2400VA/1200WATT DC IN 48V",
+  "harga": "Rp 2,190,000"
+ },
+ {
+  "name": "AVAPro LI-3600 3600VA/1800WATT DC IN 48V",
+  "harga": "Rp 2,960,000"
+ },
+ {
+  "name": "AVAPro HQ-1101 1100VA/800WATT DC IN 36V",
+  "harga": "Rp 2,785,000"
+ },
+ {
+  "name": "AVAPro HQ-2201 2200VA/1600WATT DC IN 72V",
+  "harga": "Rp 5,280,000"
+ },
+ {
+  "name": "AVAPro HQ-3401 3400VA/2400WATT DC IN 96V",
+  "harga": "Rp 6,350,000"
+ },
+ {
+  "name": "AVAPro HQ-6801 6800VA/4800WATT DC IN 192V",
+  "harga": "Rp 18,140,000"
+ },
+ {
+  "name": "AVAPro HQ-11011 11000VA/8000WATT DC IN 240V",
+  "harga": "Rp 27,750,000"
+ },
+ {
+  "name": "Laplace Raptor 850 + AVR",
+  "harga": "Rp 780,000"
+ },
+ {
+  "name": "Laplace Raptor 1300 + AVR",
+  "harga": "Rp 1,286,000"
+ },
+ {
+  "name": "Laplace Neutron 650 + AVR",
+  "harga": "Rp 923,000"
+ },
+ {
+  "name": "Laplace Neutron 1250 + AVR",
+  "harga": "Rp 1,572,000"
+ },
+ {
+  "name": "Laplace Neutron 2200 + AVR",
+  "harga": "Rp 4,718,000"
+ },
+ {
+  "name": "Laplace Phasor 650 + AVR",
+  "harga": "Rp 1,022,000"
+ },
+ {
+  "name": "Laplace Phasor 1250 + AVR",
+  "harga": "Rp 1,693,000"
+ },
+ {
+  "name": "Laplace Converex 1500 - Long Back Up Time UPS",
+  "harga": "Rp 2,540,000"
+ },
+ {
+  "name": "Laplace BTX Series BTX 1200VA",
+  "harga": "Rp 3,530,000"
+ },
+ {
+  "name": "Laplace BTX Series BTX 2300VA",
+  "harga": "Rp 5,950,000"
+ },
+ {
+  "name": "Laplace GTX 1150 - Online Series (Pure Sinewave Output)",
+  "harga": "Rp 5,920,000"
+ },
+ {
+  "name": "Laplace GTX 2250 - Online Series (Pure Sinewave Output)",
+  "harga": "Rp 11,600,000"
+ },
+ {
+  "name": "Laplace GTX 3350 - Online Series (Pure Sinewave Output)",
+  "harga": "Rp 14,570,000"
+ },
+ {
+  "name": "Laplace Surge PNP Laptop",
+  "harga": "Rp 180,000"
+ },
+ {
+  "name": "Laplace Battrey 7.2 AH / 12V",
+  "harga": "Rp 320,000"
+ },
+ {
+  "name": "Laplace Battrey 9 AH / 12V",
+  "harga": "Rp 515,000"
+ },
+ {
+  "name": "Laplace Battrey 12 AH / 12V",
+  "harga": "Rp 670,000"
+ },
+ {
+  "name": "Laplace Battrey 40 AH / 12V",
+  "harga": "Rp 1,440,000"
+ },
+ {
+  "name": "Laplace Battrey 65 AH / 12V",
+  "harga": "Rp 2,260,000"
+ },
+ {
+  "name": "Laplace Battrey 100 AH / 12V",
+  "harga": "Rp 3,070,000"
+ },
+ {
+  "name": "Kebos PowerGarde 750VA",
+  "harga": "Rp 595,000"
+ },
+ {
+  "name": "Kebos PowerGarde 1350VA",
+  "harga": "Rp 1,175,000"
+ },
+ {
+  "name": "Kebos PowerGarde 1750VA With AVR",
+  "harga": "Rp 1,580,000"
+ },
+ {
+  "name": "Kebos PowerGarde ECO 8800 - For Wifi Modem, Router, CCTV Camera",
+  "harga": "Rp 455,000"
+ },
+ {
+  "name": "KENIKA TC12-4000 - MINI UPS - DC TO DC SYSTEM",
+  "harga": "Rp 225,000"
+ },
+ {
+  "name": "KENIKA ED-12 - MINI UPS - AC TO DC SYSTEM",
+  "harga": "Rp 215,000"
+ },
+ {
+  "name": "KENIKA AD-10 - MINI UPS - DC TO DC SYSTEM",
+  "harga": "Rp 240,000"
+ },
+ {
+  "name": "KENIKA AD-50 - MINI UPS - DC TO DC SYSTEM",
+  "harga": "Rp 315,000"
+ },
+ {
+  "name": "KENIKA DD-50 - MINI UPS - AC TO DC SYSTEM",
+  "harga": "Rp 300,000"
+ },
+ {
+  "name": "KENIKA KZ 600 VA - 600 VA Smart UPS, off-line + AVR",
+  "harga": "Rp 380,000"
+ },
+ {
+  "name": "KENIKA KS 600VA - 600 VA Smart UPS, off-line + AVR + Software",
+  "harga": "Rp 440,000"
+ },
+ {
+  "name": "KENIKA KS 1200VA - 1200 VA Smart UPS, off-line + AVR + Software",
+  "harga": "Rp 865,000"
+ },
+ {
+  "name": "KENIKA KS 2000VA - 2000 VA Smart UPS, off-line + AVR + Software",
+  "harga": "Rp 2,285,000"
+ },
+ {
+  "name": "KENIKA KS 3000VA - 3000 VA Smart UPS, off-line + AVR + Software",
+  "harga": "Rp 2,745,000"
+ },
+ {
+  "name": "KENIKA KC - 1000 - Home UPS 1000 VA, OFF LINE, SINE WAVE",
+  "harga": "Rp 1,815,000"
+ },
+ {
+  "name": "KENIKA KC - 2000 - Home UPS 2000 VA, OFF LINE, SINE WAVE",
+  "harga": "Rp 3,065,000"
+ },
+ {
+  "name": "KENIKA KC - 3000 - Home UPS 3000 VA, OFF LINE, SINE WAVE",
+  "harga": "Rp 4,325,000"
+ },
+ {
+  "name": "KENIKA KC - 5000 - Home UPS 5000 VA, OFF LINE, SINE WAVE",
+  "harga": "Rp 8,200,000"
+ },
+ {
+  "name": "KENIKA KC - 8000 - Home UPS 8000 VA, OFF LINE, PURE SINE WAVE INVERTER",
+  "harga": "Rp 15,300,000"
+ },
+ {
+  "name": "KENIKA KC - 10KVA - Home UPS 10KVA, OFF LINE, PURE SINE WAVE INVERTER",
+  "harga": "Rp 18,800,000"
+ },
+ {
+  "name": "KENIKA KC - 15KVA - Home UPS 15KVA, OFF LINE, PURE SINE WAVE INVERTER",
+  "harga": "Rp 26,325,000"
+ },
+ {
+  "name": "KENIKA KC - 20KVA- Home UPS 20KVA, OFF LINE, PURE SINE WAVE INVERTER",
+  "harga": "Rp 40,350,000"
+ },
+ {
+  "name": "KENIKA KC - 25KVA - Home UPS 25KVA, OFF LINE, PURE SINE WAVE INVERTER",
+  "harga": "Rp 50,400,000"
+ },
+ {
+  "name": "KENIKA EAF 500W - Kenika 500W Off Grid Solar Inverter, DC12V",
+  "harga": "Rp 2,360,000"
+ },
+ {
+  "name": "KENIKA EAF 1000W - Kenika 1000W Off Grid Solar Inverter, DC24V",
+  "harga": "Rp 3,365,000"
+ },
+ {
+  "name": "KENIKA EAF 2000W - Kenika 2000W Off Grid Solar Inverter, DC48V",
+  "harga": "Rp 5,215,000"
+ },
+ {
+  "name": "KENIKA EAH 1000W - Kenika 1000W Hybrid Inverter, DC48V",
+  "harga": "Rp 4,015,000"
+ },
+ {
+  "name": "KENIKA EAH 2000W - Kenika 2000W Hybrid Inverter, DC48V",
+  "harga": "Rp 6,575,000"
+ },
+ {
+  "name": "KENIKA EAH 3000W - Kenika 3000W Hybrid Inverter, DC48V",
+  "harga": "Rp 8,225,000"
+ },
+ {
+  "name": "KENIKA EAN 2000W - Kenika 2000W On-Grid Inverter, 220V/50Hz",
+  "harga": "Rp 5,565,000"
+ },
+ {
+  "name": "KENIKA EAN 3000W - Kenika 3000W On-Grid Inverter, 220V/50Hz",
+  "harga": "Rp 6,625,000"
+ },
+ {
+  "name": "KENIKA 3024SC - Solar Charge Controller 12V/24V 30A",
+  "harga": "Rp 210,000"
+ },
+ {
+  "name": "KENIKA 3048SC - Solar Charge Controller 48V 30A",
+  "harga": "Rp 210,000"
+ },
+ {
+  "name": "KENIKA 50048 - Solar Charge Controller 48V 50A",
+  "harga": "Rp 435,000"
+ },
+ {
+  "name": "KENIKA SC-1224-30A - Solar Charge Controller 12V/24V/AUTO 30A",
+  "harga": "Rp 160,000"
+ },
+ {
+  "name": "KENIKA SCE-1248-40A - Solar Charge Controller MPPT 12V/24V/36V/48V, 40A",
+  "harga": "Rp 1,910,000"
+ },
+ {
+  "name": "KENIKA SCE-1248-60A - Solar Charge Controller MPPT 12V/24V/36V/48V, 60A",
+  "harga": "Rp 2,635,000"
+ },
+ {
+  "name": "KENIKA SC-CMY-2420 - Solar Charge Controller 12/24V AUTO 20A",
+  "harga": "Rp 235,000"
+ },
+ {
+  "name": "KENIKA SC-CMWD-20A - Solar Charge Controller 12/24V AUTO 20A",
+  "harga": "Rp 270,000"
+ },
+ {
+  "name": "KENIKA SC-CM-6024z - Solar Charge Controller 12/24V AUTO 60A",
+  "harga": "Rp 510,000"
+ },
+ {
+  "name": "KENIKA SC-CM-5048z - Solar Charge Controller 48V, 50A",
+  "harga": "Rp 585,000"
+ },
+ {
+  "name": "KENIKA NPS10W - Panel Surya 18V 10WP Polycrystaline",
+  "harga": "Rp 145,000"
+ },
+ {
+  "name": "KENIKA NPS20W - Panel Surya 18V 20WP Polycrystaline",
+  "harga": "Rp 220,000"
+ },
+ {
+  "name": "KENIKA NPS50W - Panel Surya 18V 50WP Polycrystaline",
+  "harga": "Rp 377,000"
+ },
+ {
+  "name": "KENIKA NPS80W - Panel Surya 18V 80WP Polycrystaline",
+  "harga": "Rp 587,000"
+ },
+ {
+  "name": "KENIKA NPS100W - Panel Surya 18V 100WP Polycrystaline",
+  "harga": "Rp 760,000"
+ },
+ {
+  "name": "KENIKA NPS200W - Panel Surya 36V 200WP Polycrystaline",
+  "harga": "Rp 1,610,000"
+ },
+ {
+  "name": "KENIKA NPS300W - Panel Surya 36V 300WP Polycrystaline",
+  "harga": "Rp 2,115,000"
+ },
+ {
+  "name": "KENIKA EAF 3000W - Kenika 3000W Off Grid Solar Inverter, DC48V",
+  "harga": "Rp 7,475,000"
+ },
+ {
+  "name": "KENIKA SCE-1224-50A - Solar Charge Controller MPPT 12V/24V, 50A",
+  "harga": "Rp 2,010,000"
+ },
+ {
+  "name": "KENIKA SOLAR CONTROLLER - SOLAR CONTROLLER ONLY 30A 24V (4X100AH/24V) for KC 1000",
+  "harga": "Rp 1,140,000"
+ },
+ {
+  "name": "KENIKA SOLAR CONTROLLER - SOLAR CONTROLLER ONLY 20A 48V (4X 100AH/48V) for KC 2000",
+  "harga": "Rp 1,440,000"
+ },
+ {
+  "name": "KENIKA ARD-11 (7.5 HP) - UPS for lift 1 phase / phase, 7.5 HP",
+  "harga": "Rp 10,050,000"
+ },
+ {
+  "name": "KENIKA ARD-11 (7.5 HP) - UPS for lift 3 phase / phase, 7.5 HP",
+  "harga": "Rp 10,600,000"
+ },
+ {
+  "name": "KENIKA ARD-15 (11 HP) - UPS for lift 3 phase / phase, 11 HP",
+  "harga": "Rp 11,600,000"
+ },
+ {
+  "name": "KENIKA ARD-25 (22 HP) - UPS for lift 3 phase / phase, 22HP",
+  "harga": "Rp 13,650,000"
+ },
+ {
+  "name": "KENIKA ARD-40 (35 HP) - UPS for lift 3 phase / phase, 35 HP",
+  "harga": "Rp 18,650,000"
+ },
+ {
+  "name": "KENIKA MRD 300W - UPS for lift 1 phase / 300Watt",
+  "harga": "Rp 2,515,000"
+ },
+ {
+  "name": "KENIKA HS 1000 - 1 KVA, True on-line, sine wave",
+  "harga": "Rp 2,770,000"
+ },
+ {
+  "name": "KENIKA HS 2000 - 2 KVA, True on-line, sine wave",
+  "harga": "Rp 4,030,000"
+ },
+ {
+  "name": "KENIKA HS 3000 - 3 KVA, True on-line, sine wave",
+  "harga": "Rp 7,550,000"
+ },
+ {
+  "name": "KENIKA HS 6000 - 6 KVA, True on-line, sine wave",
+  "harga": "Rp 16,150,000"
+ },
+ {
+  "name": "KENIKA HS 10KVA - 10 KVA, True on-line, sine wave",
+  "harga": "Rp 44,200,000"
+ },
+ {
+  "name": "KENIKA HS 20KVA - 20 KVA, True on-line, sine wave",
+  "harga": "Rp 67,250,000"
+ },
+ {
+  "name": "KENIKA HS 30KVA - 30 KVA, True on-line, sine wave",
+  "harga": "Rp 92,350,000"
+ },
+ {
+  "name": "KENIKA HS 40KVA - 40 KVA, True on-line, sine wave",
+  "harga": "Rp 115,400,000"
+ },
+ {
+  "name": "KENIKA HS 60KVA - 60 KVA, True on-line, sine wave",
+  "harga": "Rp 145,500,000"
+ },
+ {
+  "name": "KENIKA KO 1000 - 1 KVA, True on-line, sine wave",
+  "harga": "Rp 3,015,000"
+ },
+ {
+  "name": "KENIKA KO 2000 - 2 KVA, True on-line, sine wave",
+  "harga": "Rp 5,780,000"
+ },
+ {
+  "name": "KENIKA KO 3000 - 3 KVA, True on-line, sine wave",
+  "harga": "Rp 7,300,000"
+ },
+ {
+  "name": "KENIKA KO 20000 - 20 KVA, True on-line, sine wave, 3phase",
+  "harga": "Rp 67,250,000"
+ },
+ {
+  "name": "Stabilizer KENIKA AR 600",
+  "harga": "Rp 360,000"
+ },
+ {
+  "name": "Stabilizer KENIKA AR 1000",
+  "harga": "Rp 485,000"
+ },
+ {
+  "name": "Stabilizer KENIKA AR 2000",
+  "harga": "Rp 1,160,000"
+ },
+ {
+  "name": "Stabilizer KENIKA AR 3000",
+  "harga": "Rp 1,745,000"
+ },
+ {
+  "name": "Stabilizer KENIKA AR 5000",
+  "harga": "Rp 2,320,000"
+ },
+ {
+  "name": "KENIKA AR 10 KVA - 10 KVA SERVO MOTOR",
+  "harga": "Rp 4,530,000"
+ },
+ {
+  "name": "KENIKA AR 15 KVA - 15 KVA SERVO MOTOR",
+  "harga": "Rp 7,640,000"
+ },
+ {
+  "name": "KENIKA AR 20 KVA - 20 KVA SERVO MOTOR",
+  "harga": "Rp 8,350,000"
+ },
+ {
+  "name": "KENIKA AR 30 KVA - 30 KVA SERVO MOTOR",
+  "harga": "Rp 14,455,000"
+ },
+ {
+  "name": "KENIKA AR 45 KVA - 45 KVA SERVO MOTOR",
+  "harga": "Rp 20,750,000"
+ },
+ {
+  "name": "KENIKA AR 15 KVA - 15 KVA 3 PHASE / 3 CONTROL SERVO MOTOR",
+  "harga": "Rp 9,700,000"
+ },
+ {
+  "name": "KENIKA AR 20 KVA - 20 KVA 3 PHASE / 3 CONTROL SERVO MOTOR",
+  "harga": "Rp 11,600,000"
+ },
+ {
+  "name": "KENIKA AR 30 KVA - 30 KVA 3 PHASE / 3 CONTROL SERVO MOTOR",
+  "harga": "Rp 16,100,000"
+ },
+ {
+  "name": "KENIKA AR 45 KVA - 45 KVA 3 PHASE / 3 CONTROL SERVO MOTOR",
+  "harga": "Rp 23,150,000"
+ },
+ {
+  "name": "KENIKA AR 60 KVA - 60 KVA 3 PHASE / 3 CONTROL SERVO MOTOR",
+  "harga": "Rp 30,050,000"
+ },
+ {
+  "name": "KENIKA DBW 30 KVA - 30 KVA 1 PHASE / 1 CONTROL DBW TECH EFISIENSI 95%",
+  "harga": "Rp 46,200,000"
+ },
+ {
+  "name": "KENIKA DBW 50 KVA - 50 KVA 1 PHASE / 1 CONTROL DBW TECH EFISIENSI 95%",
+  "harga": "Rp 57,700,000"
+ },
+ {
+  "name": "KENIKA DBW 60 KVA - 60 KVA 1 PHASE / 1 CONTROL DBW TECH EFISIENSI 95%",
+  "harga": "Rp 63,450,000"
+ },
+ {
+  "name": "KENIKA DBW 80 KVA - 80 KVA 1 PHASE / 1 CONTROL DBW TECH EFISIENSI 95%",
+  "harga": "Rp 69,200,000"
+ },
+ {
+  "name": "KENIKA DBW 100 KVA - 100 KVA 1 PHASE / 1 CONTROL DBW TECH EFISIENSI 95%",
+  "harga": "Rp 92,250,000"
+ },
+ {
+  "name": "KENIKA SBW 10 KVA - 10 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 33,130,000"
+ },
+ {
+  "name": "KENIKA SBW 15 KVA - 15 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 34,372,000"
+ },
+ {
+  "name": "KENIKA SBW 20 KVA - 20 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 40,535,000"
+ },
+ {
+  "name": "KENIKA SBW 30 KVA - 30 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 40,350,000"
+ },
+ {
+  "name": "KENIKA SBW 50 KVA - 50 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 46,100,000"
+ },
+ {
+  "name": "KENIKA SBW 80 KVA - 80 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 57,650,000"
+ },
+ {
+  "name": "KENIKA SBW 100 KVA - 100 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 60,525,000"
+ },
+ {
+  "name": "KENIKA SBW 120 KVA - 120 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 63,400,000"
+ },
+ {
+  "name": "KENIKA SBW 150 KVA - 150 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 80,700,000"
+ },
+ {
+  "name": "KENIKA SBW 180 KVA - 180 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 86,450,000"
+ },
+ {
+  "name": "KENIKA SBW 200 KVA - 200 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 92,200,000"
+ },
+ {
+  "name": "KENIKA SBW 225 KVA - 225 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 97,950,000"
+ },
+ {
+  "name": "KENIKA SBW 250 KVA - 250 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 103,700,000"
+ },
+ {
+  "name": "KENIKA SBW 300 KVA - 300 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 144,000,000"
+ },
+ {
+  "name": "KENIKA SBW 350 KVA - 350 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 148,510,000"
+ },
+ {
+  "name": "KENIKA SBW 400 KVA - 400 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 149,750,000"
+ },
+ {
+  "name": "KENIKA SBW 450 KVA - 450 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 200,335,000"
+ },
+ {
+  "name": "KENIKA SBW 500 KVA - 500 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 201,600,000"
+ },
+ {
+  "name": "KENIKA SBW 600 KVA - 600 KVA 3 PHASE / 3 CONTROL SBW TECH EFISIENSI 95%",
+  "harga": "Rp 230,450,000"
+ },
+ {
+  "name": "Socomec Netys PE 650VA (No Comms)",
+  "harga": "Rp 655,000"
+ },
+ {
+  "name": "Socomec Netys PE 800VA (Universal Socket)",
+  "harga": "Rp 1,035,000"
+ },
+ {
+  "name": "Socomec Netys PE 1000VA (Universal Socket)",
+  "harga": "Rp 1,525,000"
+ },
+ {
+  "name": "Socomec Netys PE 1500VA (Universal Socket)",
+  "harga": "Rp 2,290,000"
+ },
+ {
+  "name": "Socomec Netys PE 2000VA USB",
+  "harga": "Rp 3,490,000"
+ },
+ {
+  "name": "Socomec ITYSE 1000VA / 800W Tower",
+  "harga": "Rp 5,320,000"
+ },
+ {
+  "name": "Socomec ITYSE 2000VA / 1600W Tower",
+  "harga": "Rp 9,545,000"
+ },
+ {
+  "name": "Socomec ITYSE 3000VA / 2400W Tower",
+  "harga": "Rp 11,525,000"
+ },
+ {
+  "name": "Micropack TR 650",
+  "harga": "Rp 563,000"
+ },
+ {
+  "name": "Micropack TR 1250A",
+  "harga": "Rp 1,130,000"
+ },
+ {
+  "name": "Micropack TR 1250",
+  "harga": "Rp 1,733,000"
+ },
+ {
+  "name": "Micropack OU 1 KS - 1 KVA / 0.7 KW",
+  "harga": "Rp 4,250,000"
+ },
+ {
+  "name": "Micropack OU 2 KS - 2 KVA / 1.4 KW",
+  "harga": "Rp 6,910,000"
+ },
+ {
+  "name": "Micropack OU 3 KS - 3 KVA / 2.1 KW",
+  "harga": "Rp 8,500,000"
+ },
+ {
+  "name": "Micropack OU 6 KS - 6 KVA / 4.8 KW",
+  "harga": "Rp 17,100,000"
+ },
+ {
+  "name": "Micropack OU 10 KS - 10 KVA / 8 KW",
+  "harga": "Rp 32,600,000"
+ }
+]
